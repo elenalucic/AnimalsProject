@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/_ELena/Scenes/MainScene.unity
+    guid: c64bfd371381d48499f25c7b26d5dc78
+  - enabled: 1
     path: Assets/_ELena/Scenes/AboutUs.unity
     guid: c1f7d122e6ec62d45becdcea3441b323
   - enabled: 1
@@ -17,9 +20,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_ELena/Scenes/Domace.unity
     guid: f733e1fc19bc11042a8a8121d479969e
-  - enabled: 1
-    path: Assets/_ELena/Scenes/MainScene.unity
-    guid: c64bfd371381d48499f25c7b26d5dc78
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
