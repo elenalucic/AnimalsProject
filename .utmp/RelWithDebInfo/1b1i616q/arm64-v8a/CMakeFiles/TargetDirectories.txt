@@ -1,0 +1,5 @@
+C:/Users/Marijana/Desktop/AnimalsProject/AnimalsProject/.utmp/RelWithDebInfo/1b1i616q/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Marijana/Desktop/AnimalsProject/AnimalsProject/.utmp/RelWithDebInfo/1b1i616q/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Marijana/Desktop/AnimalsProject/AnimalsProject/.utmp/RelWithDebInfo/1b1i616q/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Marijana/Desktop/AnimalsProject/AnimalsProject/.utmp/RelWithDebInfo/1b1i616q/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Marijana/Desktop/AnimalsProject/AnimalsProject/.utmp/RelWithDebInfo/1b1i616q/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
