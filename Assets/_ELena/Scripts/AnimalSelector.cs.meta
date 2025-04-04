@@ -1,2 +1,25 @@
 fileFormatVersion: 2
 guid: ac2249ca02a022947ace47f7a4be25cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nameOfGroup: {instanceID: 0}
+  - domaceName: {fileID: 21300000, guid: 81f2cf94bf77a4e4c824e311fbfa22b0, type: 3}
+  - divljeName: {fileID: 21300000, guid: 607b2aa999b82bf45881133073d50434, type: 3}
+  - insektiName: {fileID: 21300000, guid: 7239320def8052f4db10589d8691f33a, type: 3}
+  - fishName: {fileID: 21300000, guid: e159596420a492c4da09d84d40838036, type: 3}
+  - birdsName: {fileID: 21300000, guid: 1346be83ea34b17438a2e322395f473a, type: 3}
+  - seashellName: {fileID: 21300000, guid: a6054d25d43c19c4c8cc392b71e627a4, type: 3}
+  - picOfGroup: {instanceID: 0}
+  - domacePic: {fileID: 21300000, guid: e4868e4f026fe234991e28f1e03f21ac, type: 3}
+  - divljePic: {fileID: 21300000, guid: c611d08ed4a4ae345ad9d9da20a58e0a, type: 3}
+  - insektiPic: {fileID: 21300000, guid: 13351dcf6faa17f4c9aa7c3002ce6a84, type: 3}
+  - fishPic: {fileID: 21300000, guid: eeb476dff8845a9458a501d3e03d364b, type: 3}
+  - birdsPic: {fileID: 21300000, guid: 31660ac9b8d63c7439d8954c6eb1a212, type: 3}
+  - seashellPic: {fileID: 21300000, guid: 0c7fce99f011c404ab43df286bf32897, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

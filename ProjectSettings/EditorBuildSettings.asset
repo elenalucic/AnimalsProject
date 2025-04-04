@@ -20,6 +20,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_ELena/Scenes/Domace.unity
     guid: f733e1fc19bc11042a8a8121d479969e
+  - enabled: 1
+    path: Assets/_ELena/Scenes/Divlje.unity
+    guid: d24cf5a517b2b0449a6bc6e9c153b1c5
+  - enabled: 1
+    path: Assets/_ELena/Scenes/Insekti.unity
+    guid: 3ee09fdf0f3e5e146935484aa7cdc84a
+  - enabled: 1
+    path: Assets/_ELena/Scenes/Ribe.unity
+    guid: 90b555aa1a37e5c46aba5f2da87d8f67
+  - enabled: 1
+    path: Assets/_ELena/Scenes/Ptice.unity
+    guid: abc19e1ab1132094f8af7b2b879ad06f
+  - enabled: 1
+    path: Assets/_ELena/Scenes/Skoljke.unity
+    guid: ab639da7ada7d7848a63431e8e03ef59
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

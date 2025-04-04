@@ -11,14 +11,6 @@ public class TogglePlaneFinder : MonoBehaviour
 
     private Quaternion initialRotation;
 
-    void Start()
-    {
-        if (targetObject != null)
-        {
-            initialRotation = targetObject.transform.rotation;
-        }
-    }
-
     public void ToggleFinder()
     {
         isEnabled = !isEnabled;
@@ -31,7 +23,9 @@ public class TogglePlaneFinder : MonoBehaviour
 
         if (infoCanvas.activeSelf && targetObject != null)
         {
-            targetObject.transform.rotation = initialRotation;
+            Vector3 directionToCamera = Camera.main.transform.position - targetObject.transform.position;
+            directionToCamera.y = 0; 
+            targetObject.transform.rotation = Quaternion.LookRotation(directionToCamera);
         }
     }
 

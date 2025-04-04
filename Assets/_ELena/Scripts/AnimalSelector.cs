@@ -119,5 +119,34 @@ public class AnimalSelector : MonoBehaviour
         currentGroup = nextGroup;
     }
 
+    public void ConfirmSelection()
+    {
+        switch (currentGroup)
+        {
+            case "domace":
+                SceneManager.LoadScene("Domace");
+                break;
+            case "divlje":
+                SceneManager.LoadScene("Divlje");
+                break;
+            case "insekti":
+                SceneManager.LoadScene("Insekti");
+                break;
+            case "ribe":
+                SceneManager.LoadScene("Ribe");
+                break;
+            case "ptice":
+                SceneManager.LoadScene("Ptice");
+                break;
+            case "skoljke":
+                SceneManager.LoadScene("Skoljke");
+                break;
+            default:
+                Debug.LogError("Nepoznata grupa: " + currentGroup);
+                break;
+        }
+    }
+
+
 
 }
