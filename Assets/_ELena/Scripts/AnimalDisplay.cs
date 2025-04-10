@@ -1,15 +1,14 @@
-using System.Collections.Generic;
+ï»¿using System.Collections.Generic;
 using UnityEngine;
 
 public class AnimalDisplay : MonoBehaviour
 {
-    [Header("Životinje u sceni")]
     public List<GameObject> animalsInScene;
 
-    [Header("Imena životinja (opcionalno za log)")]
     public List<string> animalNames = new List<string> { "Kokos", "Macka", "Krava", "Pas" };
 
     private GameObject currentAnimal;
+    private int currentIndex = 0;
 
     void Start()
     {
@@ -18,7 +17,7 @@ public class AnimalDisplay : MonoBehaviour
             animal.SetActive(false);
         }
 
-        SelectAnimal(0);
+        SelectAnimal(currentIndex);
     }
 
     public void SelectAnimal(int index)
@@ -26,9 +25,30 @@ public class AnimalDisplay : MonoBehaviour
         if (currentAnimal != null)
             currentAnimal.SetActive(false);
 
-        currentAnimal = animalsInScene[index];
+        currentIndex = index;
+        currentAnimal = animalsInScene[currentIndex];
         currentAnimal.SetActive(true);
 
     }
+
+    public void GoLeft()
+    {
+        Debug.Log("GO LEFT kliknut!");
+
+        int nextIndex = (currentIndex - 1 + animalsInScene.Count) % animalsInScene.Count;
+        SelectAnimal(nextIndex);
+    }
+
+
+    public void GoRight()
+    {
+        int nextIndex = (currentIndex + 1) % animalsInScene.Count;
+        SelectAnimal(nextIndex);
+    }
+    public GameObject GetCurrentAnimal()
+    {
+        return currentAnimal; 
+    }
+
 }
 

@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: walk
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -663,8 +663,7 @@ AnimationClip:
         time: 0.26666668
         value: {x: -0.000002064118, y: 0.00000067766706, z: 0.02243781, w: 0.99974823}
         inSlope: {x: -0.0000000065892896, y: 0.000000006329231, z: -0.008937764, w: 0.00019133092}
-        outSlope: {x: -0.0000000065892896, y: 0.000000006329231, z: -0.008937764,
-          w: 0.00019133092}
+        outSlope: {x: -0.0000000065892896, y: 0.000000006329231, z: -0.008937764, w: 0.00019133092}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -726,10 +725,8 @@ AnimationClip:
       - serializedVersion: 3
         time: 0.5
         value: {x: -0.000002080476, y: 0.00000069367604, z: -0.00039815946, w: 0.99999994}
-        inSlope: {x: -0.0000000029536054, y: 0.0000000029536054, z: -0.004256282,
-          w: 0.0000026822145}
-        outSlope: {x: -0.0000000029536054, y: 0.0000000029536054, z: -0.004256282,
-          w: 0.0000026822145}
+        inSlope: {x: -0.0000000029536054, y: 0.0000000029536054, z: -0.004256282, w: 0.0000026822145}
+        outSlope: {x: -0.0000000029536054, y: 0.0000000029536054, z: -0.004256282, w: 0.0000026822145}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -801,8 +798,7 @@ AnimationClip:
         time: 0.7666667
         value: {x: -0.000002064118, y: 0.00000067766706, z: 0.02243781, w: 0.99974823}
         inSlope: {x: 0.0000000012823866, y: -0.000000001227817, z: 0.0017355839, w: -0.000037550897}
-        outSlope: {x: 0.0000000012823866, y: -0.000000001227817, z: 0.0017355839,
-          w: -0.000037550897}
+        outSlope: {x: 0.0000000012823866, y: -0.000000001227817, z: 0.0017355839, w: -0.000037550897}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -1238,10 +1234,8 @@ AnimationClip:
       - serializedVersion: 3
         time: 0.26666668
         value: {x: -0.00000005118719, y: 0.0000003067943, z: -0.021019217, w: 0.9997791}
-        inSlope: {x: -0.0000000022900084, y: -0.000000036267952, z: 0.0070079416,
-          w: 0.00014126302}
-        outSlope: {x: -0.0000000022900084, y: -0.000000036267952, z: 0.0070079416,
-          w: 0.00014126302}
+        inSlope: {x: -0.0000000022900084, y: -0.000000036267952, z: 0.0070079416, w: 0.00014126302}
+        outSlope: {x: -0.0000000022900084, y: -0.000000036267952, z: 0.0070079416, w: 0.00014126302}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -1303,10 +1297,8 @@ AnimationClip:
       - serializedVersion: 3
         time: 0.5
         value: {x: -0.00000005704562, y: 0.00000021349108, z: -0.0029704391, w: 0.9999956}
-        inSlope: {x: -0.0000000012149828, y: -0.000000021600126, z: 0.0043509267,
-          w: 0.000016093334}
-        outSlope: {x: -0.0000000012149828, y: -0.000000021600126, z: 0.0043509267,
-          w: 0.000016093334}
+        inSlope: {x: -0.0000000012149828, y: -0.000000021600126, z: 0.0043509267, w: 0.000016093334}
+        outSlope: {x: -0.0000000012149828, y: -0.000000021600126, z: 0.0043509267, w: 0.000016093334}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -1591,10 +1583,8 @@ AnimationClip:
       - serializedVersion: 3
         time: 0.5
         value: {x: -0.00000007270397, y: 0.00000011991037, z: 0.0063404553, w: 0.9999799}
-        inSlope: {x: -0.0000000029029756, y: -0.000000022379666, z: 0.0043508466,
-          w: -0.00002414002}
-        outSlope: {x: -0.0000000029029756, y: -0.000000022379666, z: 0.0043508466,
-          w: -0.00002414002}
+        inSlope: {x: -0.0000000029029756, y: -0.000000022379666, z: 0.0043508466, w: -0.00002414002}
+        outSlope: {x: -0.0000000029029756, y: -0.000000022379666, z: 0.0043508466, w: -0.00002414002}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -1666,8 +1656,7 @@ AnimationClip:
         time: 0.7666667
         value: {x: -0.0000000594932, y: 0.0000002147768, z: -0.011249464, w: 0.99993676}
         inSlope: {x: 0.0000000010265913, y: 0.000000007429147, z: -0.0013873437, w: -0.0000143051075}
-        outSlope: {x: 0.0000000010265913, y: 0.000000007429147, z: -0.0013873437,
-          w: -0.0000143051075}
+        outSlope: {x: 0.0000000010265913, y: 0.000000007429147, z: -0.0013873437, w: -0.0000143051075}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -1881,8 +1870,7 @@ AnimationClip:
         time: 0.5
         value: {x: -0.00000012821853, y: 0.00000011323844, z: 0.0063404855, w: 0.9999799}
         inSlope: {x: -0.000000004370291, y: -0.000000023622732, z: 0.0043508606, w: -0.00002414002}
-        outSlope: {x: -0.000000004370291, y: -0.000000023622732, z: 0.0043508606,
-          w: -0.00002414002}
+        outSlope: {x: -0.000000004370291, y: -0.000000023622732, z: 0.0043508606, w: -0.00002414002}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -2240,8 +2228,7 @@ AnimationClip:
         time: 0.7666667
         value: {x: -0.000000013527466, y: -0.0000017399416, z: 0.39166772, w: 0.9201067}
         inSlope: {x: -0.000000005656325, y: -0.000000016150906, z: 0.0024810415, w: -0.0010523186}
-        outSlope: {x: -0.000000005656325, y: -0.000000016150906, z: 0.0024810415,
-          w: -0.0010523186}
+        outSlope: {x: -0.000000005656325, y: -0.000000016150906, z: 0.0024810415, w: -0.0010523186}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -7114,8 +7101,7 @@ AnimationClip:
         time: 0.7666667
         value: {x: 1.7151107e-11, y: 0.000000003357886, z: 0.55044305, w: 0.8348727}
         inSlope: {x: -0.0000000010239666, y: -0.000000050358565, z: -0.09922823, w: 0.06382669}
-        outSlope: {x: -0.0000000010239666, y: -0.000000050358565, z: -0.09922823,
-          w: 0.06382669}
+        outSlope: {x: -0.0000000010239666, y: -0.000000050358565, z: -0.09922823, w: 0.06382669}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -7392,8 +7378,7 @@ AnimationClip:
         time: 0.73333335
         value: {x: -0.0000000070093176, y: -0.0000000059163794, z: -0.43634155, w: 0.8997811}
         inSlope: {x: 0.0000000125269395, y: -0.0000000078116145, z: -0.34242696, w: -0.16517404}
-        outSlope: {x: 0.0000000125269395, y: -0.0000000078116145, z: -0.34242696,
-          w: -0.16517404}
+        outSlope: {x: 0.0000000125269395, y: -0.0000000078116145, z: -0.34242696, w: -0.16517404}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -23249,6 +23234,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 4009345836
       attribute: 1
@@ -23256,6 +23243,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 4145004383
       attribute: 1
@@ -23263,6 +23252,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2729776201
       attribute: 1
@@ -23270,6 +23261,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1527376792
       attribute: 1
@@ -23277,6 +23270,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2749523621
       attribute: 1
@@ -23284,6 +23279,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1439834784
       attribute: 1
@@ -23291,6 +23288,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1625100861
       attribute: 1
@@ -23298,6 +23297,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1587956060
       attribute: 1
@@ -23305,6 +23306,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3113468594
       attribute: 1
@@ -23312,6 +23315,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1221793493
       attribute: 1
@@ -23319,6 +23324,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3193359119
       attribute: 1
@@ -23326,6 +23333,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 661188691
       attribute: 1
@@ -23333,6 +23342,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1740765191
       attribute: 1
@@ -23340,6 +23351,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1079105692
       attribute: 1
@@ -23347,6 +23360,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1501403736
       attribute: 1
@@ -23354,6 +23369,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 137563618
       attribute: 1
@@ -23361,6 +23378,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 31090696
       attribute: 1
@@ -23368,6 +23387,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1852932528
       attribute: 1
@@ -23375,6 +23396,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2851377578
       attribute: 1
@@ -23382,6 +23405,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 942753700
       attribute: 1
@@ -23389,6 +23414,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2513461749
       attribute: 1
@@ -23396,6 +23423,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1502635555
       attribute: 1
@@ -23403,6 +23432,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 387440605
       attribute: 1
@@ -23410,6 +23441,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1888566263
       attribute: 1
@@ -23417,6 +23450,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3754156312
       attribute: 1
@@ -23424,6 +23459,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3522098006
       attribute: 2
@@ -23431,6 +23468,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 4009345836
       attribute: 2
@@ -23438,6 +23477,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 4145004383
       attribute: 2
@@ -23445,6 +23486,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2729776201
       attribute: 2
@@ -23452,6 +23495,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1527376792
       attribute: 2
@@ -23459,6 +23504,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2749523621
       attribute: 2
@@ -23466,6 +23513,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1439834784
       attribute: 2
@@ -23473,6 +23522,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1625100861
       attribute: 2
@@ -23480,6 +23531,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1587956060
       attribute: 2
@@ -23487,6 +23540,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3113468594
       attribute: 2
@@ -23494,6 +23549,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1221793493
       attribute: 2
@@ -23501,6 +23558,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3193359119
       attribute: 2
@@ -23508,6 +23567,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 661188691
       attribute: 2
@@ -23515,6 +23576,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1740765191
       attribute: 2
@@ -23522,6 +23585,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1079105692
       attribute: 2
@@ -23529,6 +23594,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1501403736
       attribute: 2
@@ -23536,6 +23603,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 137563618
       attribute: 2
@@ -23543,6 +23612,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 31090696
       attribute: 2
@@ -23550,6 +23621,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1852932528
       attribute: 2
@@ -23557,6 +23630,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2851377578
       attribute: 2
@@ -23564,6 +23639,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 942753700
       attribute: 2
@@ -23571,6 +23648,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2513461749
       attribute: 2
@@ -23578,6 +23657,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1502635555
       attribute: 2
@@ -23585,6 +23666,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 387440605
       attribute: 2
@@ -23592,6 +23675,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1888566263
       attribute: 2
@@ -23599,6 +23684,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3754156312
       attribute: 2
@@ -23606,6 +23693,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3522098006
       attribute: 3
@@ -23613,6 +23702,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 452595538
       attribute: 3
@@ -23620,6 +23711,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 4009345836
       attribute: 3
@@ -23627,6 +23720,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 4145004383
       attribute: 3
@@ -23634,6 +23729,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2729776201
       attribute: 3
@@ -23641,6 +23738,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1527376792
       attribute: 3
@@ -23648,6 +23747,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2749523621
       attribute: 3
@@ -23655,6 +23756,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1439834784
       attribute: 3
@@ -23662,6 +23765,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1625100861
       attribute: 3
@@ -23669,6 +23774,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1587956060
       attribute: 3
@@ -23676,6 +23783,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3113468594
       attribute: 3
@@ -23683,6 +23792,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1221793493
       attribute: 3
@@ -23690,6 +23801,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3193359119
       attribute: 3
@@ -23697,6 +23810,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 661188691
       attribute: 3
@@ -23704,6 +23819,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1740765191
       attribute: 3
@@ -23711,6 +23828,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1079105692
       attribute: 3
@@ -23718,6 +23837,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1501403736
       attribute: 3
@@ -23725,6 +23846,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 137563618
       attribute: 3
@@ -23732,6 +23855,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 31090696
       attribute: 3
@@ -23739,6 +23864,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1852932528
       attribute: 3
@@ -23746,6 +23873,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2851377578
       attribute: 3
@@ -23753,6 +23882,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 942753700
       attribute: 3
@@ -23760,6 +23891,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2513461749
       attribute: 3
@@ -23767,6 +23900,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1502635555
       attribute: 3
@@ -23774,6 +23909,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 387440605
       attribute: 3
@@ -23781,6 +23918,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1888566263
       attribute: 3
@@ -23788,6 +23927,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3754156312
       attribute: 3
@@ -23795,6 +23936,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 452595538
       attribute: 1
@@ -23802,6 +23945,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 452595538
       attribute: 2
@@ -23809,6 +23954,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
@@ -23820,7 +23967,7 @@ AnimationClip:
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
-    m_LoopTime: 1
+    m_LoopTime: 0
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0
@@ -23831,7 +23978,8 @@ AnimationClip:
     m_HeightFromFeet: 0
     m_Mirror: 0
   m_EditorCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24120,7 +24268,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24409,7 +24559,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24698,7 +24850,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24987,7 +25141,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -25276,7 +25432,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -25565,7 +25723,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -25854,7 +26014,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -26143,7 +26305,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -26432,7 +26596,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -26721,7 +26887,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -27010,7 +27178,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -27299,7 +27469,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -27588,7 +27760,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -27877,7 +28051,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -28166,7 +28342,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -28455,7 +28633,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -28744,7 +28924,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -29033,7 +29215,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -29322,7 +29506,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -29611,7 +29797,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -29900,7 +30088,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -30189,7 +30379,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -30478,7 +30670,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -30767,7 +30961,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -31056,7 +31252,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -31345,7 +31543,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -31634,7 +31834,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -31923,7 +32125,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -32213,7 +32417,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -32503,7 +32709,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -32793,7 +33001,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -33083,7 +33293,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -33373,7 +33585,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -33663,7 +33877,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -33953,7 +34169,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -34243,7 +34461,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -34532,7 +34752,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -34821,7 +35043,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -35110,7 +35334,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -35399,7 +35625,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -35689,7 +35917,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -35979,7 +36209,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -36269,7 +36501,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -36559,7 +36793,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -36849,7 +37085,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -37139,7 +37377,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -37429,7 +37669,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -37719,7 +37961,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -38009,7 +38253,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -38299,7 +38545,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -38589,7 +38837,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -38879,7 +39129,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -39169,7 +39421,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -39459,7 +39713,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -39749,7 +40005,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -40039,7 +40297,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -40328,7 +40588,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -40617,7 +40879,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -40906,7 +41170,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -41195,7 +41461,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -41485,7 +41753,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -41775,7 +42045,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -42065,7 +42337,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -42355,7 +42629,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -42645,7 +42921,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -42935,7 +43213,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -43225,7 +43505,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -43515,7 +43797,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -43805,7 +44089,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -44095,7 +44381,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -44385,7 +44673,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -44675,7 +44965,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -44965,7 +45257,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -45255,7 +45549,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -45545,7 +45841,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -45835,7 +46133,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -46124,7 +46424,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -46413,7 +46715,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -46702,7 +47006,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -46991,7 +47297,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -47280,7 +47588,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -47569,7 +47879,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -47858,7 +48170,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -48147,7 +48461,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -48436,7 +48752,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -48725,7 +49043,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -49014,7 +49334,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -49303,7 +49625,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -49593,7 +49917,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -49883,7 +50209,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -50173,7 +50501,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -50463,7 +50793,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -50752,7 +51084,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -51041,7 +51375,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -51330,7 +51666,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -51619,7 +51957,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -51908,7 +52248,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -52197,7 +52539,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -52486,7 +52830,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -52775,7 +53121,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -53064,7 +53412,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -53353,7 +53703,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -53642,7 +53994,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -53931,7 +54285,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -54221,7 +54577,9 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -54511,7 +54869,9 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -54801,7 +55161,9 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -55091,7 +55453,9 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -55380,7 +55744,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -55669,7 +56035,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -55958,7 +56326,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -56247,7 +56617,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -56536,7 +56908,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -56825,7 +57199,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -57114,7 +57490,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -57403,7 +57781,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -57692,7 +58072,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -57981,7 +58363,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -58270,7 +58654,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -58559,7 +58945,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -58848,7 +59236,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -59137,7 +59527,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -59426,7 +59818,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -59715,7 +60109,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -60004,7 +60400,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -60293,7 +60691,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -60582,7 +60982,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -60871,7 +61273,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -61160,7 +61564,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -61450,7 +61856,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -61740,7 +62148,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -62030,7 +62440,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -62320,7 +62732,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -62610,7 +63024,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -62900,7 +63316,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -63189,7 +63607,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -63478,7 +63898,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -63767,7 +64189,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -64057,7 +64481,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -64347,7 +64773,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -64637,7 +65065,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -64927,7 +65357,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -65217,7 +65649,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -65507,7 +65941,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -65797,7 +66233,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -66087,7 +66525,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -66377,7 +66817,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -66667,7 +67109,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -66957,7 +67401,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -67247,7 +67693,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -67536,7 +67984,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -67825,7 +68275,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -68114,7 +68566,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -68404,7 +68858,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -68694,7 +69150,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -68984,7 +69442,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -69274,7 +69734,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -69564,7 +70026,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -69854,7 +70318,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -70144,7 +70610,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -70434,7 +70902,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -70724,7 +71194,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -71014,7 +71486,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -71304,7 +71778,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -71594,7 +72070,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -71883,7 +72361,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -72172,7 +72652,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -72461,7 +72943,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -72750,7 +73234,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -73039,7 +73525,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -73328,7 +73816,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -73617,7 +74107,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -73906,7 +74398,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -74195,7 +74689,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -74485,7 +74981,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -74775,7 +75273,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -75065,7 +75565,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -75354,7 +75856,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -75643,7 +76147,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -75932,7 +76438,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -76221,7 +76729,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -76510,7 +77020,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -76799,7 +77311,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -77088,7 +77602,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -77377,7 +77893,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -77666,7 +78184,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -77956,7 +78476,9 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -78246,7 +78768,9 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -78536,7 +79060,9 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -78825,7 +79351,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -79114,7 +79642,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -79403,7 +79933,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -79692,7 +80224,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -79981,7 +80515,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -80270,7 +80806,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -80559,7 +81097,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -80848,7 +81388,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -81137,7 +81679,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -81426,7 +81970,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -81715,7 +82261,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -82004,7 +82552,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -82293,7 +82843,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -82582,7 +83134,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -82871,7 +83425,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -83160,7 +83716,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -83449,7 +84007,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -83738,7 +84298,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -84027,7 +84589,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -84316,7 +84880,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -84605,7 +85171,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -84895,7 +85463,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -85185,7 +85755,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -85475,7 +86047,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -85765,7 +86339,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -86055,7 +86631,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -86345,7 +86923,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -86634,7 +87214,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -86923,7 +87505,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -87212,7 +87796,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -87502,7 +88088,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -87792,7 +88380,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -88082,7 +88672,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -88372,7 +88964,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -88662,7 +89256,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -88952,7 +89548,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -89242,7 +89840,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -89532,7 +90132,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -89822,7 +90424,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -90112,7 +90716,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -90402,7 +91008,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -90692,7 +91300,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -90981,7 +91591,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -91270,7 +91882,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -91559,7 +92173,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -91849,7 +92465,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -92139,7 +92757,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -92429,7 +93049,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -92719,7 +93341,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -93009,7 +93633,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -93299,7 +93925,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -93589,7 +94217,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -93879,7 +94509,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -94169,7 +94801,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -94459,7 +95093,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -94749,7 +95385,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -95039,7 +95677,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -95328,7 +95968,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -95617,7 +96259,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -95906,7 +96550,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -96195,7 +96841,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -96484,7 +97132,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -96773,7 +97423,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -97062,7 +97714,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -97351,7 +98005,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -97640,7 +98296,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -97930,7 +98588,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -98220,7 +98880,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -98510,7 +99172,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -98799,7 +99463,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -99088,7 +99754,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -99377,7 +100045,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -99666,7 +100336,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -99955,7 +100627,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -100244,7 +100918,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -100533,7 +101209,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -100822,7 +101500,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -101111,7 +101791,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -101401,7 +102083,9 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -101691,7 +102375,9 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -101981,8 +102667,10 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
+    flags: 16
   m_EulerEditorCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -102271,7 +102959,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -102560,7 +103250,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -102849,7 +103541,9 @@ AnimationClip:
     path: PIG_
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -103138,7 +103832,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -103427,7 +104123,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -103716,7 +104414,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -104005,7 +104705,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -104294,7 +104996,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -104583,7 +105287,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -104872,7 +105578,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -105161,7 +105869,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -105450,7 +106160,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -105739,7 +106451,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -106028,7 +106742,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -106317,7 +107033,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -106606,7 +107324,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -106895,7 +107615,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -107184,7 +107906,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -107473,7 +108197,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -107762,7 +108488,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -108051,7 +108779,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -108341,7 +109071,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -108631,7 +109363,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -108921,7 +109655,9 @@ AnimationClip:
       Head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -109211,7 +109947,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -109501,7 +110239,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -109791,7 +110531,9 @@ AnimationClip:
       Head/PIG_ Queue de cheval 1
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -110080,7 +110822,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -110369,7 +111113,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -110658,7 +111404,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -110948,7 +111696,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -111238,7 +111988,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -111528,7 +112280,9 @@ AnimationClip:
       L UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -111818,7 +112572,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -112108,7 +112864,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -112398,7 +113156,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -112688,7 +113448,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -112978,7 +113740,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -113268,7 +114032,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -113558,7 +114324,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -113848,7 +114616,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -114138,7 +114908,9 @@ AnimationClip:
       L UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -114427,7 +115199,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -114716,7 +115490,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -115005,7 +115781,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -115295,7 +116073,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -115585,7 +116365,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -115875,7 +116657,9 @@ AnimationClip:
       R UpperArm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -116165,7 +116949,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -116455,7 +117241,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -116745,7 +117533,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -117035,7 +117825,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -117325,7 +118117,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -117615,7 +118409,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -117905,7 +118701,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -118195,7 +118993,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -118485,7 +119285,9 @@ AnimationClip:
       R UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -118774,7 +119576,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -119063,7 +119867,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -119352,7 +120158,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -119641,7 +120449,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -119930,7 +120740,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -120219,7 +121031,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -120508,7 +121322,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -120797,7 +121613,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -121086,7 +121904,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -121376,7 +122196,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -121666,7 +122488,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -121956,7 +122780,9 @@ AnimationClip:
       L Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -122245,7 +123071,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -122534,7 +123362,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -122823,7 +123653,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -123112,7 +123944,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -123401,7 +124235,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -123690,7 +124526,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -123979,7 +124817,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -124268,7 +125108,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -124557,7 +125399,9 @@ AnimationClip:
     path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -124847,7 +125691,9 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -125137,7 +125983,9 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -125427,6 +126275,7 @@ AnimationClip:
       R Foot
     classID: 4
     script: {fileID: 0}
+    flags: 16
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_Events: []

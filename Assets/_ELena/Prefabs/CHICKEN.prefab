@@ -1602,12 +1602,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5478108375734773163}
-  - component: {fileID: 4167754231691384880}
   - component: {fileID: 4198895285823200235}
   - component: {fileID: 2845039832416474624}
   - component: {fileID: 8509989915712110870}
   - component: {fileID: 7730544278470952751}
-  - component: {fileID: 2082502660689845849}
   - component: {fileID: 5625465870248232053}
   m_Layer: 0
   m_Name: CHICKEN
@@ -1634,23 +1632,6 @@ Transform:
   - {fileID: 9051660406474500261}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
---- !u!111 &4167754231691384880
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8817343643398805432}
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Animation: {fileID: 1827226128182048838, guid: 66e95b734979027408c811b815689bc3, type: 3}
-  m_Animations:
-  - {fileID: 1827226128182048838, guid: 66e95b734979027408c811b815689bc3, type: 3}
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_UpdateMode: 0
-  m_CullingType: 1
 --- !u!95 &4198895285823200235
 Animator:
   serializedVersion: 7
@@ -1723,19 +1704,6 @@ MonoBehaviour:
   Object: {fileID: 8817343643398805432}
   ScaleStep: 0.2
   MaxScale: 2
---- !u!114 &2082502660689845849
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8817343643398805432}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d9a01e9902e5e5e4783a99ea2807641b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  animator: {fileID: 4198895285823200235}
 --- !u!114 &5625465870248232053
 MonoBehaviour:
   m_ObjectHideFlags: 0

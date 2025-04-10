@@ -1,26 +1,33 @@
-using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class AnimationController : MonoBehaviour
+public class ActiveAnimalAnimator : MonoBehaviour
 {
-    public Animator animator;
+    public AnimalDisplay animalDisplay;
 
-    public void StartAnimationSequence()
+
+    public void PlayActiveAnimalAnimator()
     {
-        StartCoroutine(PlayAnimations());
+        GameObject currentAnimal = animalDisplay.GetCurrentAnimal();
+
+        if (currentAnimal == null)
+        {
+            Debug.LogWarning("Nema aktivne životinje!");
+            return;
+        }
+
+        Animator animator = currentAnimal.GetComponent<Animator>();
+
+        if (animator != null)
+        {
+            animator.Rebind();   
+            animator.Update(0f); 
+            animator.SetBool("play", true); 
+        }
+        else
+        {
+            Debug.LogWarning("Animator nije pronađen na aktivnoj životinji!");
+        }
     }
 
-    private IEnumerator PlayAnimations()
-    {
-        animator.Play("walk");
-        yield return new WaitForSeconds(3f); 
 
-        animator.Play("eat");
-        yield return new WaitForSeconds(3f); 
-
-        animator.Play("walk");
-        yield return new WaitForSeconds(3f); 
-
-        animator.Play("idle"); 
-    }
 }
