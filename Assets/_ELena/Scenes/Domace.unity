@@ -906,8 +906,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -0.499, y: 0.0376}
-  m_SizeDelta: {x: 0.9562, y: 0.452}
+  m_AnchoredPosition: {x: -0.5157, y: 0.0312}
+  m_SizeDelta: {x: 0.9895, y: 0.4648}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &177336391
 MonoBehaviour:
@@ -996,7 +996,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &183133682
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1157,18 +1157,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The chicken (Gallus gallus domesticus) is a large and round short-winged
-    bird, domesticated from the red junglefowl of Southeast Asia around 8,000 years
-    ago. Most chickens are raised for food, providing meat and eggs; others are kept
-    as pets[1] or for cockfighting.
-
-
-
-    Chickens are common and widespread domestic
-    animals, with a total population of 26.5 billion as of 2023, and an annual production
-    of more than 50 billion birds. A hen bred for laying can produce over 300 eggs
-    per year. There are numerous cultural references to chickens in folklore, religion,
-    and literature.'
+  m_text: "Koze su znane po svojoj znati\u017Eelji i sposobnosti da ska\u010Du po
+    kamenju, ogradama i drugim visokim mjestima. \u010Cesto se uzgajaju zbog mlijeka,
+    mesa i vune. Koze mogu proizvoditi razli\u010Dite vrste mlijeka, koje se koristi
+    za izradu sira. Osim toga, koze se \u010Desto koriste u poljoprivredi jer su
+    odli\u010Dne u \u010Di\u0161\u0107enju grmlja i trave."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1636,18 +1629,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The chicken (Gallus gallus domesticus) is a large and round short-winged
-    bird, domesticated from the red junglefowl of Southeast Asia around 8,000 years
-    ago. Most chickens are raised for food, providing meat and eggs; others are kept
-    as pets[1] or for cockfighting.
-
-
-
-    Chickens are common and widespread domestic
-    animals, with a total population of 26.5 billion as of 2023, and an annual production
-    of more than 50 billion birds. A hen bred for laying can produce over 300 eggs
-    per year. There are numerous cultural references to chickens in folklore, religion,
-    and literature.'
+  m_text: "Bikovi su mu\u0161ke krave koje se obi\u010Dno uzgajaju zbog mesa. Oni
+    su sna\u017Eni i veliki, te mogu biti vrlo agresivni ako se osjete ugro\u017Eenima.
+    Bikovi se tako\u0111er koriste u nekim sportovima, kao \u0161to su borbe s bikovima
+    u odre\u0111enim kulturama. Iako su vrlo jaki, bikovi su tako\u0111er poznati
+    po svojoj mirnoj prirodi kad nisu pod prijetnjom.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2052,8 +2038,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -0.224, y: 0.0711}
-  m_SizeDelta: {x: 0.6901, y: 0.2631}
+  m_AnchoredPosition: {x: -0.2386, y: 0.0711}
+  m_SizeDelta: {x: 0.7193, y: 0.2631}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &380181735
 MonoBehaviour:
@@ -2236,8 +2222,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0.6714, y: -0.8128}
-  m_SizeDelta: {x: 3.3079, y: 0.8119}
+  m_AnchoredPosition: {x: 0.6714, y: -0.46}
+  m_SizeDelta: {x: 3.3079, y: 0.459}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &405882580
 MonoBehaviour:
@@ -2293,7 +2279,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4612859398064128476, guid: 1ec6485434cf49349aeb5fb2feca1e92, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8529662621559403471, guid: 1ec6485434cf49349aeb5fb2feca1e92, type: 3}
       propertyPath: m_LocalScale.x
@@ -3086,8 +3072,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -0.0034, y: -0.3201}
-  m_SizeDelta: {x: 5.0159, y: 0.9234}
+  m_AnchoredPosition: {x: -0.0034, y: -0.2146}
+  m_SizeDelta: {x: 5.0159, y: 0.8179}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &675394488
 MonoBehaviour:
@@ -3449,8 +3435,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.0255, y: -0.1023}
-  m_SizeDelta: {x: -0.1069, y: -0.0807}
+  m_AnchoredPosition: {x: 0.0255, y: -0.0828}
+  m_SizeDelta: {x: -0.1069, y: -0.0717}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &798610432
 MonoBehaviour:
@@ -4167,6 +4153,7 @@ MonoBehaviour:
   - {fileID: 418664654}
   - {fileID: 1611459196}
   - {fileID: 240399876}
+  soundController: {fileID: 0}
   animalNames:
   - Kokos
   - Macka
@@ -4196,139 +4183,6 @@ MonoBehaviour:
   mTargetName: 
   mDatasetName: 
   mCastedBehaviour: {fileID: 860647905}
---- !u!1 &875108689
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 875108690}
-  - component: {fileID: 875108691}
-  m_Layer: 5
-  m_Name: Audio Source
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!224 &875108690
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 875108689}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1274435757}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 93.47848, y: 40.999332}
-  m_SizeDelta: {x: 286.9569, y: 181.9987}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!82 &875108691
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 875108689}
-  m_Enabled: 0
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: aa2e85b3e4a5a1a49bdddf0a32cccc05, type: 3}
-  m_Resource: {fileID: 8300000, guid: aa2e85b3e4a5a1a49bdddf0a32cccc05, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &885966085
 GameObject:
   m_ObjectHideFlags: 0
@@ -4365,8 +4219,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.202, y: 0.0449}
-  m_SizeDelta: {x: 0.3963, y: 0.1248}
+  m_AnchoredPosition: {x: -0.1944, y: -0.0158}
+  m_SizeDelta: {x: 0.3887, y: -0.0502}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &885966087
 MonoBehaviour:
@@ -4878,8 +4732,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 5.0159, y: 0}
-  m_SizeDelta: {x: 5.0159, y: 0.9234}
+  m_AnchoredPosition: {x: 5.0159, y: -0}
+  m_SizeDelta: {x: 5.0159, y: 0.81789994}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &938582318
 MonoBehaviour:
@@ -4901,18 +4755,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The chicken (Gallus gallus domesticus) is a large and round short-winged
-    bird, domesticated from the red junglefowl of Southeast Asia around 8,000 years
-    ago. Most chickens are raised for food, providing meat and eggs; others are kept
-    as pets[1] or for cockfighting.
-
-
-
-    Chickens are common and widespread domestic
-    animals, with a total population of 26.5 billion as of 2023, and an annual production
-    of more than 50 billion birds. A hen bred for laying can produce over 300 eggs
-    per year. There are numerous cultural references to chickens in folklore, religion,
-    and literature.'
+  m_text: "Guske su ptice koje \u010Desto migriraju na velike udaljenosti. Zanimljivo
+    je da guske uvijek lete u formaciji u obliku slova \"V\", \u0161to im poma\u017Ee
+    u \u0161tednji energije. Osim toga, guske imaju vrlo sna\u017Enu obiteljsku povezanost
+    i \u010Desto ostaju s istim partnerom cijeli \u017Eivot. Guske mogu biti vrlo
+    glasne i koriste razli\u010Dite zvukove kako bi komunicirale s ostalim \u010Dlanovima
+    jata. Guske tako\u0111er imaju sjajan orijentacijski osje\u0107aj i nikada ne
+    gube smjer tijekom migracija."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4977,7 +4826,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 2.313131, y: 0.44773802, z: 2.321914, w: 0.49572352}
+  m_margin: {x: 2.313131, y: 0.446565, z: 2.321914, w: 0.4860409}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -6228,7 +6077,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 3.3079, y: 0}
-  m_SizeDelta: {x: 3.3079, y: 0.8438}
+  m_SizeDelta: {x: 3.3079, y: 0.84}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1093630991
 MonoBehaviour:
@@ -6250,18 +6099,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The chicken (Gallus gallus domesticus) is a large and round short-winged
-    bird, domesticated from the red junglefowl of Southeast Asia around 8,000 years
-    ago. Most chickens are raised for food, providing meat and eggs; others are kept
-    as pets[1] or for cockfighting.
-
-
-
-    Chickens are common and widespread domestic
-    animals, with a total population of 26.5 billion as of 2023, and an annual production
-    of more than 50 billion birds. A hen bred for laying can produce over 300 eggs
-    per year. There are numerous cultural references to chickens in folklore, religion,
-    and literature.'
+  m_text: "Psi su jedne od najvjernijih \u017Eivotinja, a poznati su po svojoj sposobnosti
+    da komuniciraju s ljudima. Oni mogu obavljati mnoge zadatke, od \u010Duvanja
+    ku\u0107e do pomaganja ljudima s posebnim potrebama. Psi imaju izuzetno razvijen
+    smisao za miris, koji im poma\u017Ee u lovu, traganju i \u010Dak detekciji bolesti.
+    Njihova predanost svojim vlasnicima \u010Dini ih nezamjenjivim \u010Dlanovima
+    obitelji."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6397,18 +6240,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The chicken (Gallus gallus domesticus) is a large and round short-winged
-    bird, domesticated from the red junglefowl of Southeast Asia around 8,000 years
-    ago. Most chickens are raised for food, providing meat and eggs; others are kept
-    as pets[1] or for cockfighting.
-
-
-
-    Chickens are common and widespread domestic
-    animals, with a total population of 26.5 billion as of 2023, and an annual production
-    of more than 50 billion birds. A hen bred for laying can produce over 300 eggs
-    per year. There are numerous cultural references to chickens in folklore, religion,
-    and literature.'
+  m_text: "Svinje su inteligentne \u017Eivotinje koje u\u017Eivaju u kupanju i rovanju
+    po blatu, \u0161to im poma\u017Ee da se hlade i za\u0161tite od sun\u010Devih
+    zraka. Svinje su omiljene na farmama zbog svog mesa, koje se koristi za izradu
+    razli\u010Ditih proizvoda kao \u0161to su slanina i kobasice. Mogu se u\u010Diti
+    razli\u010Ditim vje\u0161tinama, a njihova sposobnost prepoznavanja osoba i drugih
+    \u017Eivotinja vrlo je razvijena."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6737,7 +6574,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 3.3079, y: -0}
-  m_SizeDelta: {x: 3.3079, y: 0.8119001}
+  m_SizeDelta: {x: 3.3079, y: 0.459}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1194781431
 MonoBehaviour:
@@ -6759,18 +6596,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The chicken (Gallus gallus domesticus) is a large and round short-winged
-    bird, domesticated from the red junglefowl of Southeast Asia around 8,000 years
-    ago. Most chickens are raised for food, providing meat and eggs; others are kept
-    as pets[1] or for cockfighting.
-
-
-
-    Chickens are common and widespread domestic
-    animals, with a total population of 26.5 billion as of 2023, and an annual production
-    of more than 50 billion birds. A hen bred for laying can produce over 300 eggs
-    per year. There are numerous cultural references to chickens in folklore, religion,
-    and literature.'
+  m_text: "Pijetao je poznat po svom jutarnjem kukuru\u017Eanju. Zanimljivo je da
+    pijetao koristi ovo kukuruzanje kako bi ozna\u010Dio svoj teritorij i obavijestio
+    druge pijetlove da je on tu. Pijetlovi tako\u0111er imaju izvrsnu sposobnost
+    prepoznavanja svjetlosti, zbog \u010Dega znaju kad je vrijeme za pjevati. Pijetao
+    je \u010Desto simbol novih po\u010Detaka i bu\u0111enja u mnogim kulturama. Osim
+    toga, pijetlovi imaju vrlo sna\u017Ean karakter i \u010Desto preuzimaju vo\u0111stvo
+    unutar svog jata.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6835,7 +6667,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 1.1991574, y: 0.07739949, z: 1.1916735, w: 0.3038582}
+  m_margin: {x: 1.2555152, y: 0.06971141, z: 1.1916735, w: 0.44032398}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -7278,7 +7110,6 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 875108690}
   - {fileID: 1186892605}
   - {fileID: 571196875}
   - {fileID: 1856047961}
@@ -7303,7 +7134,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1274435753}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d5f47aca5e08f7a4cab76d4778d4946e, type: 3}
   m_Name: 
@@ -7659,18 +7490,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The chicken (Gallus gallus domesticus) is a large and round short-winged
-    bird, domesticated from the red junglefowl of Southeast Asia around 8,000 years
-    ago. Most chickens are raised for food, providing meat and eggs; others are kept
-    as pets[1] or for cockfighting.
-
-
-
-    Chickens are common and widespread domestic
-    animals, with a total population of 26.5 billion as of 2023, and an annual production
-    of more than 50 billion birds. A hen bred for laying can produce over 300 eggs
-    per year. There are numerous cultural references to chickens in folklore, religion,
-    and literature.'
+  m_text: "Ma\u010Dke su popularni ku\u0107ni ljubimci poznati po svojoj nezavisnoj
+    prirodi. Vole istra\u017Eivati svoje okru\u017Eenje i \u010Desto provode sate
+    na drve\u0107u ili u ku\u0107i tra\u017Ee\u0107i mirna mjesta za odmor. Ma\u010Dke
+    su izvrsni lovci, \u010Desto love\u0107i male glodavce poput mi\u0161eva. Njihova
+    sposobnost da prepoznaju tonove glasa svojih vlasnika \u010Dini ih odli\u010Dnim
+    partnerima za obitelj.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7735,7 +7560,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0.2918532, y: 0.08877613, z: 0.003929138, w: 0.29427412}
+  m_margin: {x: 0.3255418, y: 0.08877613, z: 0.024517626, w: 0.29427412}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -9801,7 +9626,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   planeFinder: {fileID: 2008538339}
   infoCanvas: {fileID: 1803779152}
-  targetObject: {fileID: 0}
+  targetObject: {fileID: 1395170526}
 --- !u!114 &1803779155
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10416,18 +10241,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The chicken (Gallus gallus domesticus) is a large and round short-winged
-    bird, domesticated from the red junglefowl of Southeast Asia around 8,000 years
-    ago. Most chickens are raised for food, providing meat and eggs; others are kept
-    as pets[1] or for cockfighting.
-
-
-
-    Chickens are common and widespread domestic
-    animals, with a total population of 26.5 billion as of 2023, and an annual production
-    of more than 50 billion birds. A hen bred for laying can produce over 300 eggs
-    per year. There are numerous cultural references to chickens in folklore, religion,
-    and literature.'
+  m_text: "Ovan je sna\u017Ena i izdr\u017Eljiva \u017Eivotinja poznata po svojim
+    velikim, spiralnim rogovima koje koristi u borbama za dominaciju. Mu\u017Ejaci
+    se \u010Desto sudaraju glavama kako bi dokazali svoju snagu \u2013 udarci mogu
+    biti toliko sna\u017Eni da se njihov zvuk \u010Duje i do kilometar daleko! Osim
+    \u0161to su mo\u0107ni, ovnovi su i izuzetno spretni \u2013 bez problema se penju
+    po strmim planinskim liticama zahvaljuju\u0107i odli\u010Dnom osje\u0107aju za
+    ravnote\u017Eu. Njihove o\u010Di sa vodoravnim zjenicama omogu\u0107uju im \u0161iroko
+    vidno polje i bolju orijentaciju u prostoru. Divlji ro\u0111ak doma\u0107eg ovna
+    zove se muflon i smatra se jednim od njegovih izvornih predaka."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10492,7 +10314,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 2.313131, y: 1.1566193, z: 2.321914, w: 0.78139234}
+  m_margin: {x: 2.3296082, y: 1.1566193, z: 2.294031, w: 0.78139234}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -10565,6 +10387,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animalDisplay: {fileID: 860647908}
+  soundButton: {fileID: 0}
 --- !u!1 &1969160730
 GameObject:
   m_ObjectHideFlags: 0
@@ -10910,8 +10733,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.567, y: 0.254}
-  m_SizeDelta: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -0.483, y: 0.142}
+  m_SizeDelta: {x: 1, y: 0.7}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!114 &2046870178
 MonoBehaviour:
@@ -11216,18 +11039,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The chicken (Gallus gallus domesticus) is a large and round short-winged
-    bird, domesticated from the red junglefowl of Southeast Asia around 8,000 years
-    ago. Most chickens are raised for food, providing meat and eggs; others are kept
-    as pets[1] or for cockfighting.
-
-
-
-    Chickens are common and widespread domestic
-    animals, with a total population of 26.5 billion as of 2023, and an annual production
-    of more than 50 billion birds. A hen bred for laying can produce over 300 eggs
-    per year. There are numerous cultural references to chickens in folklore, religion,
-    and literature.'
+  m_text: "Ovce su poznate po svojoj mekanoj vuni, koja se koristi za izradu odje\u0107e
+    i deka. One su dru\u0161tvene \u017Eivotinje koje vole biti u skupinama, a \u010Desto
+    se hrane travom i biljkama. Ovce se tako\u0111er uzgajaju zbog mesa, koje je
+    popularno u mnogim dijelovima svijeta. Osim toga, ovce su vrlo mirne \u017Eivotinje
+    koje \u010Desto prelaze velike udaljenosti u potrazi za hranom.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11362,8 +11178,29 @@ PrefabInstance:
       value: 5.07
       objectReference: {fileID: 0}
     - target: {fileID: 4033321486857441198, guid: a4c1220de0765fa498b4d145597cc29e, type: 3}
+      propertyPath: m_text
+      value: "Krave su velike \u017Eivotinje koje se naj\u010De\u0161\u0107e dr\u017Ee
+        na farmama zbog mlijeka, mesa i ko\u017Ee. One su biljojedi i jedu travu,
+        sijeno i druge biljke. Krave su poznate po tome \u0161to mogu proizvoditi
+        mlijeko koje se koristi za izradu mnogih mlije\u010Dnih proizvoda, poput
+        sira, jogurta i maslaca. Ove \u017Eivotinje imaju vrlo dobre sposobnosti
+        pam\u0107enja, a svaki pas mo\u017Ee prepoznati svoj vlastiti naziv."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4033321486857441198, guid: a4c1220de0765fa498b4d145597cc29e, type: 3}
+      propertyPath: m_margin.w
+      value: 0.7284936
+      objectReference: {fileID: 0}
+    - target: {fileID: 4033321486857441198, guid: a4c1220de0765fa498b4d145597cc29e, type: 3}
+      propertyPath: m_margin.x
+      value: 2.3314202
+      objectReference: {fileID: 0}
+    - target: {fileID: 4033321486857441198, guid: a4c1220de0765fa498b4d145597cc29e, type: 3}
       propertyPath: m_margin.y
-      value: 1.2013581
+      value: 1.207454
+      objectReference: {fileID: 0}
+    - target: {fileID: 4033321486857441198, guid: a4c1220de0765fa498b4d145597cc29e, type: 3}
+      propertyPath: m_margin.z
+      value: 2.332074
       objectReference: {fileID: 0}
     - target: {fileID: 5200967386437475206, guid: a4c1220de0765fa498b4d145597cc29e, type: 3}
       propertyPath: m_Name
@@ -11526,6 +11363,19 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 860647906}
     m_Modifications:
+    - target: {fileID: 289368684671482182, guid: 11be981e972186e4995676fe3b85bb0e, type: 3}
+      propertyPath: m_text
+      value: "Koko\u0161i su ptice koje su poznate po tome \u0161to pola\u017Eu jaja.
+        U mnogim kulturama, koko\u0161i se uzgajaju na farmama jer su vrlo korisne.
+        Zanimljivo je da koko\u0161i imaju odli\u010Dan vid i mogu vidjeti vi\u0161e
+        boja od ljudi! Osim toga, koko\u0161i mogu prepoznati do 100 razli\u010Ditih
+        lica svojih prijatelja i \u010Dlanova jata. Iako mo\u017Eda izgledaju mirno,
+        koko\u0161i su vrlo dru\u0161tvene i u\u017Eivaju u grupama."
+      objectReference: {fileID: 0}
+    - target: {fileID: 289368684671482182, guid: 11be981e972186e4995676fe3b85bb0e, type: 3}
+      propertyPath: m_margin.x
+      value: 2.327197
+      objectReference: {fileID: 0}
     - target: {fileID: 1162064835407914136, guid: 11be981e972186e4995676fe3b85bb0e, type: 3}
       propertyPath: m_Camera
       value: 
@@ -11560,15 +11410,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5478108375734773163, guid: 11be981e972186e4995676fe3b85bb0e, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.7
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 5478108375734773163, guid: 11be981e972186e4995676fe3b85bb0e, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.7
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 5478108375734773163, guid: 11be981e972186e4995676fe3b85bb0e, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.7
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 5478108375734773163, guid: 11be981e972186e4995676fe3b85bb0e, type: 3}
       propertyPath: m_LocalPosition.x

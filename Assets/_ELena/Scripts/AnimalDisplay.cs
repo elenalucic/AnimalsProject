@@ -4,6 +4,7 @@ using UnityEngine;
 public class AnimalDisplay : MonoBehaviour
 {
     public List<GameObject> animalsInScene;
+    public AnimalSoundController soundController;
 
     public List<string> animalNames = new List<string> { "Kokos", "Macka", "Krava", "Pas" };
 
@@ -37,6 +38,10 @@ public class AnimalDisplay : MonoBehaviour
 
         int nextIndex = (currentIndex - 1 + animalsInScene.Count) % animalsInScene.Count;
         SelectAnimal(nextIndex);
+
+        soundController.UpdateSoundButtonState();
+
+
     }
 
 
@@ -44,6 +49,9 @@ public class AnimalDisplay : MonoBehaviour
     {
         int nextIndex = (currentIndex + 1) % animalsInScene.Count;
         SelectAnimal(nextIndex);
+
+        soundController.UpdateSoundButtonState();
+
     }
     public GameObject GetCurrentAnimal()
     {

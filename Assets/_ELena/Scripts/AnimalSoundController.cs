@@ -1,9 +1,12 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class AnimalSoundController : MonoBehaviour
 {
-    public AnimalDisplay animalDisplay; 
+    public AnimalDisplay animalDisplay;
+    public Button soundButton;
 
     private AudioSource currentAudio;
 
@@ -39,4 +42,20 @@ public class AnimalSoundController : MonoBehaviour
             currentAudio.Stop();
         }
     }
+
+    public void UpdateSoundButtonState()
+    {
+        GameObject currentAnimal = animalDisplay.GetCurrentAnimal();
+
+        if (currentAnimal == null)
+        {
+            soundButton.interactable = false;
+            return;
+        }
+
+        AudioSource audio = currentAnimal.GetComponent<AudioSource>();
+        soundButton.interactable = (audio != null);
+    }
+
+
 }

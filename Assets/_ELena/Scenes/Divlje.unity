@@ -1870,15 +1870,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Zebre su poznate po svojim crno-bijelim prugama koje su jedinstvene za
+    svaku zebru, kao otisak prsta. \u017Dive u Africi, gdje se kre\u0107u u velikim
+    krdima. Pruge zebri poma\u017Eu da se kamuflira me\u0111u drve\u0107em i grmljem,
+    a tako se \u0161titi od predatora. Zebre su biljojedi, a njihov na\u010Din kretanja
+    u \u010Doporima poma\u017Ee im da se nose s prijetnjama iz okoli\u0161a."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2968,15 +2964,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Slonovi su najve\u0107e kopnene \u017Eivotinje na svijetu. Poznati su
+    po svojim velikim u\u0161ima i duga\u010Dkom nosu, poznatom kao surla, kojom
+    mogu dohvatiti hranu i vodu. Slonovi su izuzetno pametni i mogu prepoznavati
+    druge slonove te pamtiti mjesta i doga\u0111aje. \u017Dive u velikim obiteljskim
+    skupinama, a poznati su i po tome \u0161to se brinu za svoje \u010Dlanove, \u010Dak
+    i nakon \u0161to umru."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3230,15 +3223,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Kornja\u010De su \u017Eivotinje koje su poznate po svojim tvrdim oklopima.
+    Zanimljivo je da kornja\u010De mogu \u017Eivjeti jako dugo, neke vrste \u010Dak
+    do 100 godina! Kornja\u010De su spore \u017Eivotinje, ali mogu plivati izuzetno
+    dobro, osobito one morske. Iako su kornja\u010De \u010Desto povezane s mirnim
+    \u017Eivotom, one su u stvari vrlo prilagodljive i mogu pre\u017Eivjeti u razli\u010Ditim
+    stani\u0161tima. Kornja\u010De tako\u0111er koriste svoj oklop kao za\u0161titu
+    od predatora."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3374,15 +3365,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "\u017Dirafe su najvi\u0161e \u017Eivotinje na kopnu i poznate su po svojim
+    dugim vratovima. Zanimljivo je da \u017Eirafe imaju samo sedam vratnih kralje\u017Eaka,
+    \u0161to je isto kao i kod ljudi, ali su njihovi kralje\u0161ci daleko ve\u0107i.
+    \u017Dirafe su izuzetno mirne \u017Eivotinje koje \u017Eive u grupama i \u010Desto
+    se hrane li\u0161\u0107em s visokih stabala. Zbog svojih dugih nogu, \u017Eirafe
+    mogu tr\u010Dati brzinama do 50 km/h."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4057,7 +4045,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 0ad1b149868e3a94186d89c45180b6d7, type: 3}
   m_Resource: {fileID: 8300000, guid: 0ad1b149868e3a94186d89c45180b6d7, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -4876,7 +4864,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 86ed956c3583c2049984a2fc7e2138cd, type: 3}
   m_Resource: {fileID: 8300000, guid: 86ed956c3583c2049984a2fc7e2138cd, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -5777,7 +5765,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 055aa2b959cdf4f4fa0230a30b73ca4f, type: 3}
   m_Resource: {fileID: 8300000, guid: 055aa2b959cdf4f4fa0230a30b73ca4f, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -6121,7 +6109,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: d3940663a7592b640afa42c0101169c8, type: 3}
   m_Resource: {fileID: 8300000, guid: d3940663a7592b640afa42c0101169c8, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -6263,15 +6251,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Zec je mala, brza \u017Eivotinja koja se \u010Desto povezuje s poljima
+    i \u0161umama. Zec je poznat po svojoj sposobnosti da brzo tr\u010Di, \u010Dak
+    i do 72 km/h. Zec se koristi svojim velikim u\u0161ima za pra\u0107enje zvukova
+    i otkrivanje predatora. Zec tako\u0111er ima nevjerojatnu sposobnost skakanja,
+    \u0161to mu poma\u017Ee u bijegu od opasnosti. Zec je biljojed i \u010Desto se
+    hrani travom, korijenjem i povr\u0107em."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6597,7 +6582,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 420ad313509d3e740be7b2d81242e9ab, type: 3}
   m_Resource: {fileID: 8300000, guid: 420ad313509d3e740be7b2d81242e9ab, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -6903,7 +6888,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: f272626fe49a3574d94f45fad6b54c57, type: 3}
   m_Resource: {fileID: 8300000, guid: f272626fe49a3574d94f45fad6b54c57, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -7211,15 +7196,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Nosorozi su te\u0161ke \u017Eivotinje koje prepoznajemo po njihovim velikim
+    rogovima na nosu. Unato\u010D svom te\u017Einom, oni su prili\u010Dno brzi i
+    mogu tr\u010Dati velikim brzinama na kratkim udaljenostima. Nosorozi su biljojedi
+    i ve\u0107inu svog vremena provode pasu\u0107i travu. Zbog svoje jedinstvene
+    gra\u0111e i ugro\u017Eenosti, nosorozi su \u010Desto tema za\u0161tite \u017Eivotinja
+    i o\u010Duvanja."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7580,15 +7562,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Lisice su male meso\u017Edere koje su poznate po svojoj lukavosti i prilagodljivosti.
+    \u010Cesto se nalaze u \u0161umama, livadama i \u010Dak u gradovima. Lisice su
+    izvrsni lovci, ali \u0107e tako\u0111er jesti vo\u0107e, povr\u0107e i ostatke
+    hrane. Njihova prepoznatljiva crvena ili siva boja krzna poma\u017Ee im da se
+    kamufliraju u okoli\u0161u."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7653,7 +7631,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 11.775206, y: 1.0762434, z: 11.683814, w: 0.043258492}
+  m_margin: {x: 11.775206, y: 1.0762434, z: 11.683814, w: 0.05343789}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -8140,15 +8118,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Jeleni su prepoznatljivi po svojim velikim rogovima, koje mu\u017Ejaci
+    nose i koriste u borbama za teritorij ili \u017Eenke. \u017Dive u \u0161umama,
+    planinama i livadama, a njihove rogovlje raste svake godine. Jeleni su biljojedi
+    i obi\u010Dno hrane travu, li\u0161\u0107e i kore drve\u0107a. Zimi, mnoge vrste
+    jelena migriraju prema podru\u010Djima s blagim zimama."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8396,7 +8370,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: ca247c4b3467f2c4d92ec3af2a770be8, type: 3}
   m_Resource: {fileID: 8300000, guid: ca247c4b3467f2c4d92ec3af2a770be8, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -9127,6 +9101,7 @@ MonoBehaviour:
   - {fileID: 1420799871}
   - {fileID: 1313737451}
   - {fileID: 1483229381}
+  soundController: {fileID: 0}
   animalNames:
   - Jaguar
   - Krokodil
@@ -9636,15 +9611,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Gorile su najve\u0107e vrste primata i vrlo su dru\u0161tvene \u017Eivotinje.
+    Zanimljivo je da gorile imaju gotovo identi\u010Dan DNK kao ljudi, \u0161to ih
+    \u010Dini na\u0161im najbli\u017Eim ro\u0111acima u \u017Eivotinjskom svijetu.
+    Gorile su vrlo inteligentne i koriste alate za obavljanje razli\u010Ditih zadataka.
+    Unato\u010D svom divovskom izgledu, gorile su obi\u010Dno mirne i izbjegavaju
+    sukobe, preferiraju\u0107i miran na\u010Din \u017Eivota u grupama."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10190,7 +10162,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 9b171d29b5ff8954c828673129dbc9ef, type: 3}
   m_Resource: {fileID: 8300000, guid: 9b171d29b5ff8954c828673129dbc9ef, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -10832,15 +10804,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Tigrovi su najve\u0107e vrste ma\u010Daka i poznati su po svojim prekrasnim
+    prugama. Svaka pruga tigra je jedinstvena, ba\u0161 kao \u0161to su ljudski otisci
+    prstiju jedinstveni. Tigrovi su sna\u017Eni lovci koji koriste svoju nevjerojatnu
+    snagu i brzinu kako bi ulovili plijen. Zanimljivo je da tigrovi imaju dobar vid
+    u mraku i love uglavnom no\u0107u. Iako su sami lovci, tigrovi tako\u0111er mogu
+    biti vrlo teritorijalni i ozna\u010Davaju svoje podru\u010Dje urinarijem."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -12062,7 +12031,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 1bcf0619289591f479d559d694c8c82b, type: 3}
   m_Resource: {fileID: 8300000, guid: 1bcf0619289591f479d559d694c8c82b, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -12204,15 +12173,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "\u0160i\u0161mi\u0161i su jedine lete\u0107e sisavce na svijetu i izuzetno
+    su korisni u prirodi. Zanimljivo je da \u0161i\u0161mi\u0161i koriste sonar (echolocaciju)
+    kako bi navigirali u mraku i lovili plijen. Ova sposobnost im omogu\u0107uje
+    da lete no\u0107u bez sudara sa predmetima. \u0160i\u0161mi\u0161i tako\u0111er
+    igraju klju\u010Dnu ulogu u ekosustavu jer jedu velike koli\u010Dine insekata,
+    uklju\u010Duju\u0107i komarce, koji mogu prenositi bolesti."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -12656,7 +12622,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 7a63bc719c2da9d4cbc27c832aefb41f, type: 3}
   m_Resource: {fileID: 8300000, guid: 7a63bc719c2da9d4cbc27c832aefb41f, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -12988,7 +12954,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 8b469246ca5ef92438bdbc49b8e22f0b, type: 3}
   m_Resource: {fileID: 8300000, guid: 8b469246ca5ef92438bdbc49b8e22f0b, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -13109,8 +13075,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -0.5333, y: 0.0126}
-  m_SizeDelta: {x: 1.3087, y: 0.4608}
+  m_AnchoredPosition: {x: -0.5333, y: 0.0163}
+  m_SizeDelta: {x: 1.3087, y: 0.4534}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1178960124
 MonoBehaviour:
@@ -13237,15 +13203,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Nilski konj, ili hipopotam, veliki je, te\u0161ki sisavac koji \u017Eivi
+    u slatkim vodama Afrike. Iako izgledaju sporo, nilski konji mogu tr\u010Dati
+    izuzetno brzo na kopnu. Ve\u0107i dio svog \u017Eivota provode u vodi, gdje se
+    hlade i skrivaju od sun\u010Danja. Nilski konji se hrane travom, a poznati su
+    po svojim ogromnim \u010Deljustima, koje koriste za obranu."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -13488,15 +13450,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Medvjedi su sna\u017Eni meso\u017Ederi, ali njihova prehrana mo\u017Ee
+    biti raznolika, od ribe i malih sisavaca do plodova i biljaka. \u017Dive u \u0161umama
+    i planinskim podru\u010Djima, a poznati su po tome \u0161to zimi spavaju dug
+    zimski san. Medvjedi su izvrsni pliva\u010Di, a njihova gusto krzno \u0161titi
+    ih od hladno\u0107e i o\u0161trih vremenskih uvjeta.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -14222,7 +14180,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 16f95bc7b8ea81b418e534a69f45fbae, type: 3}
   m_Resource: {fileID: 8300000, guid: 16f95bc7b8ea81b418e534a69f45fbae, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -14676,15 +14634,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "\u017Dabe su male, vodozemne \u017Eivotinje koje \u010Desto \u017Eive
+    u blizini rijeka i jezera. Zanimljivo je da \u017Eabe imaju nevjerojatnu sposobnost
+    skakanja \u2013 neke vrste mogu sko\u010Diti do 20 puta du\u017Ee od svoje du\u017Eine!
+    \u017Dabe su tako\u0111er vrlo osjetljive na promjene u okoli\u0161u, \u0161to
+    ih \u010Dini odli\u010Dnim pokazateljima zdravlja prirode. Mnoge vrste \u017Eaba
+    imaju svijetle boje kao oblik za\u0161tite od predatora, jer svijetle boje \u010Desto
+    zna\u010De da su otrovne.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -14932,7 +14888,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: edfbc174176df4641b805b8459a44175, type: 3}
   m_Resource: {fileID: 8300000, guid: edfbc174176df4641b805b8459a44175, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -15152,15 +15108,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Krokodili su veliki gmazovi koji \u017Eive u rijekama, jezerima i mo\u010Dvarama.
+    Iako izgledaju stra\u0161no, krokodili su vrlo precizni lovci koji \u010Dekaju
+    da njihov plijen do\u0111e do vode. Kroz cijelu povijest, krokodili su pre\u017Eivjeli
+    mnoge promjene na Zemlji, a njihove o\u0161tre zube i sna\u017Ena \u010Deljust
+    poma\u017Eu im u lovu na ribu i druge \u017Eivotinje. \u010Cesto se mogu vidjeti
+    kako sun\u010Daju svoje tijelo na obalama jer im toplina poma\u017Ee da budu
+    aktivni."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -15360,6 +15314,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animalDisplay: {fileID: 860647908}
+  soundButton: {fileID: 0}
 --- !u!114 &1397404652
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15633,7 +15588,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 097d69b2c61898344ab1b066f667811a, type: 3}
   m_Resource: {fileID: 8300000, guid: 097d69b2c61898344ab1b066f667811a, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -15977,7 +15932,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 41a3f4ab91635a24c9f2098938453f70, type: 3}
   m_Resource: {fileID: 8300000, guid: 41a3f4ab91635a24c9f2098938453f70, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -16067,7 +16022,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 811702429905444881, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
   m_PrefabInstance: {fileID: 2251148798034274066}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 2251148798034274067}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 642972d54ed55f345866f6b36522ea21, type: 3}
@@ -16293,7 +16248,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0.07099998, y: 0.0048999935}
-  m_SizeDelta: {x: -0.0036, y: -0.0438}
+  m_SizeDelta: {x: -0.0036, y: -0.0511}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1477006322
 MonoBehaviour:
@@ -16605,7 +16560,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: a87a6fa8aaf349245880ae164f545906, type: 3}
   m_Resource: {fileID: 8300000, guid: a87a6fa8aaf349245880ae164f545906, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -17476,15 +17431,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "\u0160takori su mali glodavci koji su vrlo prilagodljivi i mogu \u017Eivjeti
+    u razli\u010Ditim uvjetima. Zanimljivo je da \u0161takori imaju izuzetno dobar
+    njuh i mogu prepoznati mirise na velikim udaljenostima. \u0160takori su tako\u0111er
+    vrlo pametni \u2013 mogu se nau\u010Diti razli\u010Ditim trikovima i rutinskim
+    zadacima. Iako su \u010Desto povezani s prljav\u0161tinom, \u0161takori zapravo
+    odr\u017Eavaju svoju okolinu \u010Distom jer vole \u017Evakati predmete koji
+    im omogu\u0107uju odr\u017Eavanje zubi o\u0161trim.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -17732,7 +17685,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 745ca38569709724ba27aa81a976cc56, type: 3}
   m_Resource: {fileID: 8300000, guid: 745ca38569709724ba27aa81a976cc56, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -19584,7 +19537,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0.07099998, y: 0.0048999935}
-  m_SizeDelta: {x: -0.0036, y: -0.0438}
+  m_SizeDelta: {x: -0.0036, y: -0.026}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1776540179
 MonoBehaviour:
@@ -19972,7 +19925,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: d565d9d9b0db5f244be75b3946898b6a, type: 3}
   m_Resource: {fileID: 8300000, guid: d565d9d9b0db5f244be75b3946898b6a, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -20427,7 +20380,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 0ad1b149868e3a94186d89c45180b6d7, type: 3}
   m_Resource: {fileID: 8300000, guid: 0ad1b149868e3a94186d89c45180b6d7, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -20877,9 +20830,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 642972d54ed55f345866f6b36522ea21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  planeFinder: {fileID: 0}
-  infoCanvas: {fileID: 0}
-  targetObject: {fileID: 0}
+  planeFinder: {fileID: 2008538339}
+  infoCanvas: {fileID: 2251148798034274067}
+  targetObject: {fileID: 1842111219}
 --- !u!82 &1938411784
 AudioSource:
   m_ObjectHideFlags: 0
@@ -20892,7 +20845,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: d5e171330fa43ef4fb4fd64575eacd23, type: 3}
   m_Resource: {fileID: 8300000, guid: d5e171330fa43ef4fb4fd64575eacd23, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -21146,7 +21099,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 1727af31cc8184e4bb68021c6efb43b0, type: 3}
   m_Resource: {fileID: 8300000, guid: 1727af31cc8184e4bb68021c6efb43b0, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -21453,15 +21406,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Dupini su vrlo inteligentni morski sisavci koji \u017Eive u oceanu. Zanimljivo
+    je da dupini koriste svoje visoke intelektualne sposobnosti za komunikaciju i
+    zajedni\u010Dki lov u grupama. Dupini su tako\u0111er poznati po svojim akrobacijama
+    i ljubavi prema igri. Dupini mogu prepoznati svoje ime i reagirati na njega,
+    ba\u0161 kao psi. Oni tako\u0111er mogu pomo\u0107i ljudima u opasnosti, jer
+    su poznati po tome \u0161to \u010Desto poma\u017Eu ribarima i pliva\u010Dima.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -22009,15 +21959,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Tuljani su morski sisavci koji \u017Eive uz obalu oceana. Zanimljivo je
+    da tuljani imaju izuzetno prilagodljive prednosti za \u017Eivot u vodi \u2013
+    njihove peraje im omogu\u0107uju brzo plivanje, a debeo sloj masti poma\u017Ee
+    im da ostanu topli u hladnoj vodi. Tuljani se \u010Desto sun\u010Daju na obali
+    i mogu provesti sate le\u017Ee\u0107i na kamenju. Osim \u0161to su dobri pliva\u010Di,
+    tuljani su tako\u0111er vrlo dru\u0161tvene \u017Eivotinje koje \u017Eive u velikim
+    kolonijama."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -22153,15 +22101,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Lave su poznate kao \"kraljevi \u017Eivotinja\" zbog svog sna\u017Enog
+    izgledu i mo\u0107nog re\u017Eanja. \u017Dive u skupinama zvanim \u010Doporima,
+    gdje \u017Eenke love, a mu\u017Ejaci \u010Duvaju teritorij. Lavi su izvrsni lovci,
+    a njihovo zlato-sme\u0111e krzno poma\u017Ee im da se kamufliraju u savani. \u010Cak
+    iako su poznati po svojoj snazi, lave vole provoditi puno vremena u opu\u0161tanju,
+    a njihov re\u017Eanj mo\u017Ee se \u010Duti na velikim udaljenostima."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -22352,8 +22297,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 12.17, y: -1.42}
-  m_SizeDelta: {x: 24.34, y: 1.42}
+  m_AnchoredPosition: {x: 12.195, y: -1.407}
+  m_SizeDelta: {x: 24.34, y: 1.4}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &2111436961
 MonoBehaviour:
@@ -22375,15 +22320,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Veprovi su divlji svinje koje obi\u010Dno \u017Eive u \u0161umama. Imaju
+    sna\u017Eno tijelo i o\u0161tre kljove koje koriste u borbama ili za kopanje
+    zemlje. Veprovi su svejedi, \u0161to zna\u010Di da jedu i biljke i \u017Eivotinje.
+    Iako obi\u010Dno izbjegavaju ljude, veprovi mogu postati agresivni ako se osje\u0107aju
+    ugro\u017Eeni.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -22448,7 +22389,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 11.775206, y: 1.0762434, z: 11.683814, w: 0.043258492}
+  m_margin: {x: 11.775206, y: 1.0864352, z: 11.683814, w: 0.043258492}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -22519,15 +22460,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The jaguar (Panthera onca) is a large cat species and the only living
-    member of the genus Panthera that is native to the Americas. With a body length
-    of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the
-    biggest cat species in the Americas and the third largest in the world. Its distinctively
-    marked coat features pale yellow to tan colored fur covered by spots that transition
-    to rosettes on the sides, although a melanistic black coat appears in some individuals.
-    The jaguar''s powerful bite allows it to pierce the carapaces of turtles and
-    tortoises, and to employ an unusual killing method: it bites directly through
-    the skull of mammalian prey between the ears to deliver a fatal blow to the brain.'
+  m_text: "Vukovi su sna\u017Ene i dru\u0161tvene \u017Eivotinje koje \u017Eive u
+    \u010Doporima. Zanimljivo je da vukovi koriste zavijanje kako bi komunicirali
+    s ostalim \u010Dlanovima svog \u010Dopora, posebno na velikim udaljenostima.
+    Iako su vrlo pametni lovci, vukovi rijetko love sami \u2013 naj\u010De\u0161\u0107e
+    love u grupama, \u0161to im omogu\u0107uje da ulove ve\u0107e plijenove. Vukovi
+    su tako\u0111er poznati po tome \u0161to imaju izuzetno razvijen smisao za orijentaciju,
+    \u0161to im poma\u017Ee da prona\u0111u put do svojih obiteljskih stani\u0161ta."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -22882,7 +22821,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: df67dc86f18df5a4fbd0032743092567, type: 3}
   m_Resource: {fileID: 8300000, guid: df67dc86f18df5a4fbd0032743092567, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -23090,6 +23029,16 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3862745757866470457, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
+      propertyPath: m_text
+      value: "Jaguar je sna\u017Ena i prelijepa ma\u010Dka koja \u017Eivi u tropskim
+        \u0161umama Ju\u017Ene Amerike. Zanimljivo je da jaguari imaju najja\u010Di
+        ugriz od svih velikih ma\u010Daka, \u0161to im omogu\u0107uje da love \u010Dak
+        i velike plijenove poput jelena. Jaguarima se posebno svi\u0111a plivanje
+        i \u010Desto love u vodi, \u0161to ih \u010Dini jedinstvenima me\u0111u velikim
+        ma\u010Dkama. Zbog svojih snaga, jaguari su \u010Desto simboli mo\u0107i
+        u mnogim kulturama."
+      objectReference: {fileID: 0}
     - target: {fileID: 5587148860985067852, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_Camera
       value: 
@@ -23156,27 +23105,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8969500726286844589, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8969500726286844589, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8969500726286844589, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: 24.34
       objectReference: {fileID: 0}
     - target: {fileID: 8969500726286844589, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 1.42
       objectReference: {fileID: 0}
     - target: {fileID: 8969500726286844589, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 12.17
       objectReference: {fileID: 0}
     - target: {fileID: 8969500726286844589, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -1.42
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23189,6 +23138,11 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1938411784}
   m_SourcePrefab: {fileID: 100100000, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
+--- !u!1 &2251148798034274067 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3703044028719406842, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
+  m_PrefabInstance: {fileID: 2251148798034274066}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
