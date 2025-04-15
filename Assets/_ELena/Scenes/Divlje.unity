@@ -241,7 +241,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 22
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[11].m_Mode
@@ -285,6 +285,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[21].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[22].m_Mode
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
@@ -376,6 +380,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1483229383}
     - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[22].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: Zoom
       objectReference: {fileID: 0}
@@ -425,6 +433,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[21].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[22].m_CallState
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
@@ -508,6 +520,10 @@ PrefabInstance:
       value: Zoom
       objectReference: {fileID: 0}
     - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[22].m_MethodName
+      value: Zoom
+      objectReference: {fileID: 0}
+    - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[4].m_TargetAssemblyTypeName
       value: ScaleInOut, Assembly-CSharp
       objectReference: {fileID: 0}
@@ -580,6 +596,10 @@ PrefabInstance:
       value: ScaleInOut, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[22].m_TargetAssemblyTypeName
+      value: AnimalZoom, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[11].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
@@ -621,6 +641,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[21].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4054736364589934302, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[22].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 5494530101770242354, guid: 4cf824601d7e6d84ba9e5d140da9adcb, type: 3}
@@ -4005,8 +4029,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 406335419}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 0.8
 --- !u!114 &406335422
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4824,8 +4849,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 449135692}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 0.6
 --- !u!114 &449135695
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5725,8 +5751,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 626692343}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.04
+  MaxScale: 0.6
 --- !u!114 &626692346
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6069,8 +6096,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 639336149}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 0.6
 --- !u!114 &639336152
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6542,6 +6570,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 673753005}
+  animalDisplay: {fileID: 860647908}
   ScaleStep: 0.2
   MaxScale: 2
 --- !u!114 &673753008
@@ -6848,8 +6877,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 679537523}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 1
 --- !u!114 &679537527
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8330,8 +8360,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 817499835}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.05
+  MaxScale: 0.5
 --- !u!114 &817499838
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9102,29 +9133,6 @@ MonoBehaviour:
   - {fileID: 1313737451}
   - {fileID: 1483229381}
   soundController: {fileID: 0}
-  animalNames:
-  - Jaguar
-  - Krokodil
-  - Slon
-  - Nilski konj
-  - Lav
-  - Nosorog
-  - Zebra
-  - Medvjed
-  - Vepar
-  - Jelen
-  - Lisica
-  - Zec
-  - "Kornja\u010Da"
-  - Vuk
-  - Tigar
-  - Tuljan
-  - "\u0160takor"
-  - Gorila
-  - "\u017Dirafa"
-  - "\u017Daba"
-  - Dupin
-  - "\u0160i\u0161mi\u0161"
 --- !u!114 &860647909
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9966,7 +9974,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 899800987}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -10122,8 +10130,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 904939352}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 0.7
 --- !u!114 &904939355
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11985,14 +11994,15 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1080698991}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7120aeb6e34b0104cba8c40837d2d421, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1080698991}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 0.6
 --- !u!114 &1080698994
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12582,8 +12592,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1128105627}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 1.5
 --- !u!114 &1128105630
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12914,8 +12925,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1157685980}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.05
+  MaxScale: 0.6
 --- !u!114 &1157685983
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14140,8 +14152,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1313737451}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 0.7
 --- !u!114 &1313737454
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14848,8 +14861,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1328789238}
+  animalDisplay: {fileID: 860647908}
   ScaleStep: 0.2
-  MaxScale: 2
+  MaxScale: 3
 --- !u!114 &1328789241
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15542,12 +15556,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1420799871}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7120aeb6e34b0104cba8c40837d2d421, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1420799871}
+  animalDisplay: {fileID: 860647908}
   ScaleStep: 0.2
   MaxScale: 2
 --- !u!114 &1420799874
@@ -15892,8 +15907,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1436705585}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 0.6
 --- !u!114 &1436705588
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16405,7 +16421,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 132105120661097354, guid: 3378df1d4ac76264ab2deec061210d6e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4003151621433670041, guid: 3378df1d4ac76264ab2deec061210d6e, type: 3}
       propertyPath: m_LocalScale.x
@@ -16520,8 +16536,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1483229381}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 3
 --- !u!114 &1483229384
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17645,8 +17662,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1532080498}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 0.6
 --- !u!114 &1532080501
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19885,8 +19903,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1815429534}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.005
+  MaxScale: 0.1
 --- !u!114 &1815429537
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20340,8 +20359,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1860112623}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 0.6
 --- !u!114 &1860112626
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21059,8 +21079,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1939028446}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 0.6
 --- !u!114 &1939028449
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22781,8 +22802,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 2121989151}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.05
+  MaxScale: 0.6
 --- !u!114 &2121989154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23039,6 +23061,22 @@ PrefabInstance:
         ma\u010Dkama. Zbog svojih snaga, jaguari su \u010Desto simboli mo\u0107i
         u mnogim kulturama."
       objectReference: {fileID: 0}
+    - target: {fileID: 3882324827370846577, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
+      propertyPath: MaxScale
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3882324827370846577, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
+      propertyPath: ScaleStep
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3882324827370846577, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3882324827370846577, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
+      propertyPath: animalDisplay
+      value: 
+      objectReference: {fileID: 860647908}
     - target: {fileID: 5587148860985067852, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_Camera
       value: 
@@ -23101,7 +23139,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7530540043351006744, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8969500726286844589, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_AnchorMax.y

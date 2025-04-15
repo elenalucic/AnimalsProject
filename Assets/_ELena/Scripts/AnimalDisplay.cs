@@ -6,16 +6,18 @@ public class AnimalDisplay : MonoBehaviour
     public List<GameObject> animalsInScene;
     public AnimalSoundController soundController;
 
-    public List<string> animalNames = new List<string> { "Kokos", "Macka", "Krava", "Pas" };
-
     private GameObject currentAnimal;
     private int currentIndex = 0;
+
+  
+    private Dictionary<GameObject, Vector3> originalScales = new Dictionary<GameObject, Vector3>();
 
     void Start()
     {
         foreach (var animal in animalsInScene)
         {
             animal.SetActive(false);
+            originalScales[animal] = animal.transform.localScale;
         }
 
         SelectAnimal(currentIndex);
@@ -24,39 +26,45 @@ public class AnimalDisplay : MonoBehaviour
     public void SelectAnimal(int index)
     {
         if (currentAnimal != null)
+        {
             currentAnimal.SetActive(false);
+            currentAnimal.transform.localScale = originalScales[currentAnimal];
+        }
+
+   
 
         currentIndex = index;
         currentAnimal = animalsInScene[currentIndex];
         currentAnimal.SetActive(true);
-
+        // Postavi originalnu skalu za novu životinju
+        currentAnimal.transform.localScale = originalScales[currentAnimal];
     }
 
     public void GoLeft()
     {
-        Debug.Log("GO LEFT kliknut!");
-
         int nextIndex = (currentIndex - 1 + animalsInScene.Count) % animalsInScene.Count;
         SelectAnimal(nextIndex);
-
-        soundController.UpdateSoundButtonState();
-
-
+        soundController?.UpdateSoundButtonState();
     }
-
 
     public void GoRight()
     {
         int nextIndex = (currentIndex + 1) % animalsInScene.Count;
         SelectAnimal(nextIndex);
-
-        soundController.UpdateSoundButtonState();
-
+        soundController?.UpdateSoundButtonState();
     }
+
     public GameObject GetCurrentAnimal()
     {
-        return currentAnimal; 
+        return currentAnimal;
+    }
+
+    public Vector3 GetOriginalScale(GameObject animal)
+    {
+        if (originalScales.ContainsKey(animal))
+            return originalScales[animal];
+        else
+            return animal.transform.localScale;
     }
 
 }
-
