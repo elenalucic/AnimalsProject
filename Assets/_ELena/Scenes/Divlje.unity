@@ -16421,7 +16421,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 132105120661097354, guid: 3378df1d4ac76264ab2deec061210d6e, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4003151621433670041, guid: 3378df1d4ac76264ab2deec061210d6e, type: 3}
       propertyPath: m_LocalScale.x
@@ -22122,7 +22122,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Lave su poznate kao \"kraljevi \u017Eivotinja\" zbog svog sna\u017Enog
+  m_text: "Lavovi su poznati kao \"kraljevi \u017Eivotinja\" zbog svog sna\u017Enog
     izgledu i mo\u0107nog re\u017Eanja. \u017Dive u skupinama zvanim \u010Doporima,
     gdje \u017Eenke love, a mu\u017Ejaci \u010Duvaju teritorij. Lavi su izvrsni lovci,
     a njihovo zlato-sme\u0111e krzno poma\u017Ee im da se kamufliraju u savani. \u010Cak
@@ -22318,8 +22318,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 12.195, y: -1.407}
-  m_SizeDelta: {x: 24.34, y: 1.4}
+  m_AnchoredPosition: {x: 12.17, y: -1.41}
+  m_SizeDelta: {x: 24.34, y: 1.41}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &2111436961
 MonoBehaviour:
@@ -23139,7 +23139,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7530540043351006744, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8969500726286844589, guid: 799f3d4abd5826e4fbad0c7563b22963, type: 3}
       propertyPath: m_AnchorMax.y

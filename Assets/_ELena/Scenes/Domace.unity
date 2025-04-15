@@ -655,8 +655,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 121051895}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 1
 --- !u!114 &121051898
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1447,8 +1448,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 240399876}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 1
 --- !u!114 &240399879
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2397,8 +2399,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 418664654}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 1
 --- !u!114 &418664657
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3621,8 +3624,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 822724780}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 1
 --- !u!114 &822724783
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4154,18 +4158,6 @@ MonoBehaviour:
   - {fileID: 1611459196}
   - {fileID: 240399876}
   soundController: {fileID: 0}
-  animalNames:
-  - Kokos
-  - Macka
-  - Krava
-  - Pas
-  - Koza
-  - Svinja
-  - Ovca
-  - Bik
-  - Guska
-  - Pijetao
-  - Ovan
 --- !u!114 &860647909
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5709,8 +5701,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1064664481}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 1
 --- !u!114 &1064664484
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6810,8 +6803,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1240972329}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 1
 --- !u!114 &1240972332
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8200,8 +8194,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1395170526}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.1
+  MaxScale: 1
 --- !u!114 &1395170529
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8819,8 +8814,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1159704265}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.01
+  MaxScale: 0.1
 --- !u!114 &1588866852
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9079,8 +9075,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Object: {fileID: 1611459196}
-  ScaleStep: 0.2
-  MaxScale: 2
+  animalDisplay: {fileID: 860647908}
+  ScaleStep: 0.05
+  MaxScale: 1
 --- !u!114 &1611459199
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11157,6 +11154,18 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2575458265012657658, guid: a4c1220de0765fa498b4d145597cc29e, type: 3}
+      propertyPath: MaxScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2575458265012657658, guid: a4c1220de0765fa498b4d145597cc29e, type: 3}
+      propertyPath: ScaleStep
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2575458265012657658, guid: a4c1220de0765fa498b4d145597cc29e, type: 3}
+      propertyPath: animalDisplay
+      value: 
+      objectReference: {fileID: 860647908}
     - target: {fileID: 3520543727059907680, guid: a4c1220de0765fa498b4d145597cc29e, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
@@ -11464,6 +11473,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7730544278470952751, guid: 11be981e972186e4995676fe3b85bb0e, type: 3}
+      propertyPath: MaxScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7730544278470952751, guid: 11be981e972186e4995676fe3b85bb0e, type: 3}
+      propertyPath: animalDisplay
+      value: 
+      objectReference: {fileID: 860647908}
     - target: {fileID: 8817343643398805432, guid: 11be981e972186e4995676fe3b85bb0e, type: 3}
       propertyPath: m_Name
       value: CHICKEN
