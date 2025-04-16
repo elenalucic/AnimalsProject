@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Croatian (hr)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Croatian (hr)
+  m_GUID: 03ca048c918122c49bb53b7444d776cf
+  m_SerializeEntries:
+  - m_GUID: 0e97b07014c8b71498f967464dacf47c
+    m_Address: Pocetak_White
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1346be83ea34b17438a2e322395f473a
+    m_Address: Ptice_white
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 607b2aa999b82bf45881133073d50434
+    m_Address: Divlje zivotinje_White
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7239320def8052f4db10589d8691f33a
+    m_Address: Insekti_white
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81f2cf94bf77a4e4c824e311fbfa22b0
+    m_Address: Domace zivotinje_white
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6054d25d43c19c4c8cc392b71e627a4
+    m_Address: Skoljke_white
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6832ee7b553d984e937fe0a404a406a
+    m_Address: O nama_White
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e159596420a492c4da09d84d40838036
+    m_Address: Ribe_white
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: f63b011fb24118e49a70aac9df3ecb65, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3f25263ab277a9344b46194060bf802b, type: 2}
+    - {fileID: 11400000, guid: 0fc7e60e42b8d0a42ab26f64cc7be27b, type: 2}

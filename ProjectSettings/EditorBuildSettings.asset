@@ -36,5 +36,7 @@ EditorBuildSettings:
     path: Assets/_ELena/Scenes/Skoljke.unity
     guid: ab639da7ada7d7848a63431e8e03ef59
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 8b3432b03cb67a544981e2bcb9bb1406, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.localization.settings: {fileID: 11400000, guid: 8a3046c7212b1a0428a79ad5b53cec68, type: 2}
   m_UseUCBPForAssetBundles: 0

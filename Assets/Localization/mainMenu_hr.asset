@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: mainMenu_hr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hr
+  m_SharedData: {fileID: 11400000, guid: 4b6aad45f0bf83148ba8d9ce992d0d17, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1282630230016
+    m_Localized: "Mi smo Culex, tvrtka specijalizirana za razvoj XR rje\u0161enja
+      koja mijenjaju na\u010Din na koji do\u017Eivljavamo svijet oko sebe. Kroz primjenu
+      pro\u0161irene (AR), virtualne (VR) i mije\u0161ane stvarnosti (MR), stvaramo
+      inovativne projekte s ciljem edukacije, zabave i unaprje\u0111enja svakodnevnog
+      iskustva korisnika.\r\n\r\nJedan od takvih projekata je CulEd \u2013 edukativna
+      AR aplikacija namijenjena osnovno\u0161kolcima, koja prirodu Hrvatske donosi
+      izravno u njihovu okolinu putem pro\u0161irene stvarnosti. Cilj aplikacije
+      je potaknuti djecu na istra\u017Eivanje i u\u010Denje o \u017Eivotinjama koje
+      obitavaju na prostoru Hrvatske, na na\u010Din koji je interaktivan, zabavan
+      i vizualno dojmljiv.\r\n\r\nKroz CulEd, korisnici mogu odabrati jednu od ponu\u0111enih
+      autohtonih \u017Eivotinja i promatrati njezin 3D model u vlastitom prostoru.
+      Svaki model dolazi s animiranim kretanjem, realisti\u010Dnim zvu\u010Dnim efektima
+      i edukativnim informacijama poput stani\u0161ta, prehrane i zanimljivosti o
+      \u017Eivotinji. Time se djecu poti\u010De na aktivno istra\u017Eivanje, razvoj
+      ekolo\u0161ke svijesti i povezivanje s prirodom kroz tehnologiju koja im je
+      bliska."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

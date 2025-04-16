@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BirdsScene_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: b5578b42fa05d904a886692555e0e925, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8241291264
+    m_Localized: The pink cockatoo is known for its pink color, which makes it stand
+      out among other birds. These birds can mimic human voices, making them popular
+      pets. Their sound-making ability is not only fun but also helps them communicate
+      within their groups. Cockatoos are often seen in flocks, enjoying social life
+      and forming strong social bonds. They use their beak as a tool to open food,
+      and their strong muscles help them manipulate different objects.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49483882496
+    m_Localized: The toucan is a bird recognized by its very large and colorful beak.
+      Despite its size, the beak is very light because it is filled with air. Toucans
+      use it to reach food on trees, and its size also helps them maintain balance
+      while moving on branches. These birds usually fly in groups, ensuring safety
+      and easier migration through tropical jungles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586979745792
+    m_Localized: The sparrow is a small bird often seen in cities and gardens. Its
+      adaptability allows it to survive in various environments, from urban areas
+      to natural habitats. Sparrows are known for their cheerful singing and are
+      loved for their playful behavior. During the year, they often gather in flocks
+      to migrate or find food together.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621872160768
+    m_Localized: The crow is a bird known for its intelligence, often using tools
+      like twigs to reach food. Crows have the amazing ability to recognize and remember
+      human faces for years. They are also highly social, often living in large groups
+      and communicating in complex ways. Thanks to their tool use and problem-solving
+      skills, crows are among the most intelligent birds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 639052029952
+    m_Localized: 'The duck is a very adaptable bird because it can walk, swim, and
+      fly, making it one of the most versatile creatures in the animal world. With
+      their characteristic sounds, ducks are easily recognized near water. They swim
+      calmly on the surface while also foraging in the mud for food. Their ability
+      to fly in formation during migration is fascinating, as it helps them conserve
+      energy.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659885137920
+    m_Localized: The owl is one of the most recognizable birds due to its feathery
+      "ears." Unlike other birds, owls have incredibly developed hearing and can
+      detect even the slightest sounds, which helps them hunt in the dark. Their
+      flight is extremely silent due to special wing structures, allowing them to
+      sneak up on prey. At night, their senses make them excellent hunters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 682018480128
+    m_Localized: The pigeon has long been known for its navigation skills. Besides
+      recognizing and remembering human faces, pigeons can find their way even over
+      long distances. Due to their loyalty, pigeons were used in the past to carry
+      messages. They spend most of their lives in groups, often socializing in large
+      colonies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707666649088
+    m_Localized: Seagulls are birds most often seen on the coast, where they swim
+      and hunt in large groups. Their flying and swimming skills allow them to survive
+      in various environments, including the coast and open sea. Interestingly, although
+      very social, seagulls show territorial behavior when it comes to feeding. They
+      also use loud calls to communicate within colonies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2136653438976
+    m_Localized: "The eagle is a large and powerful bird of prey known for its incredible
+      flying altitude. It can soar at heights where many other birds cannot survive,
+      and its exceptionally sharp eyesight helps it spot prey from great distances.\n\nThe
+      eagle\u2019s beak and talons allow it to hunt smaller animals, while its strength
+      and precision make it one of the most efficient predators in the animal kingdom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754865152000
+    m_Localized: "The penguin is an unusual bird that cannot fly, but is perfectly
+      adapted to life in the water. Its torpedo-shaped body and flipper-like wings
+      allow it to swim quickly and efficiently. Although they may seem clumsy on
+      land, penguins are true masters in the water \u2013 they can dive to great
+      depths and swim at high speeds while hunting for fish and other marine creatures.
+      Most penguin species live in the Southern Hemisphere and are especially known
+      for their resilience to cold and their ability to survive in extreme environments
+      such as Antarctica."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

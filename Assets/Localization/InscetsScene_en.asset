@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InscetsScene_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d6445ba823e325546a50584608ff9cea, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 53506220032
+    m_Localized: "Ants live in large communities, where every colony has specific
+      roles for each member. A colony can have thousands of ants, and the most important
+      is the queen ant, who lays eggs. These small insects are known for their strength\u2014they
+      can lift objects much heavier than themselves. Ants also communicate using
+      pheromones, which helps them organize work inside the colony.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76931407872
+    m_Localized: The stag beetle is known for its large pincers, which it uses to
+      defend against predators. Though it looks intimidating, this insect is usually
+      not aggressive. Stag beetles like living in trees and feed on plants and small
+      insects. Their strong jaws help them hunt and protect themselves, while their
+      sharp teeth allow them to eat tough food.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 462182424576
+    m_Localized: This insect is known for its colorful stripes that make it hard
+      to notice in dense greenery. Brachyceras live in tropical areas and feed on
+      plants. Their ability to blend in with vegetation helps them avoid predators.
+      Although slow, their bright patterns serve as great camouflage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 486119317504
+    m_Localized: This beetle is recognizable by its distinctive blue wings, making
+      it unique among its relatives. It lives in plant-rich areas where it plays
+      an important role in pollination. These beetles can survive even in colder
+      environments, and their ability to float on water makes them even more interesting.
+      Their color blends well with their surroundings.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538309042176
+    m_Localized: The five-striped Eufolus is a beetle whose striped pattern resembles
+      painted circles. These insects live in forested areas and feed on plants. They
+      are hard to catch because they quickly hide among plants. They protect themselves
+      with their special appearance and by releasing unpleasant smells when threatened.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 582122741760
+    m_Localized: Opelma minax is a small but highly adaptable insect that can survive
+      in many environments. It is often found in tropical areas and uses its sharp
+      protrusions for defense. It mainly feeds on plants, but sometimes also eats
+      other insects. It uses sophisticated defense mechanisms, like chemicals, to
+      protect itself from predators.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 617094848512
+    m_Localized: This grasshopper is known for the white collar around its neck.
+      It is often found in areas full of vegetation, where it feeds on plants. When
+      in danger, it uses its powerful jumping skills to escape predators. The collar
+      also helps it fool and identify others of its kind.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 673977999360
+    m_Localized: 'The Rozenkver is a beetle known for its colorful appearance. It
+      is usually found on trees, feeding on plant material. It is very fast and can
+      easily move from one plant to another. Its golden color helps it blend in with
+      its surroundings, making it nearly invisible to predators.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 709558280192
+    m_Localized: 'The Asian hornet is larger than many of its relatives and is known
+      for its strength and aggressiveness. Its stingers are used for both defense
+      and hunting. Though known for painful stings, they are important pollinators.
+      They build nests in trees and live in organized colonies.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1016262565888
+    m_Localized: 'This grasshopper thrives in areas rich with plants and vegetation.
+      It is known for its toughness, able to survive in dry conditions where many
+      other insects cannot. It uses its powerful legs to jump great distances in
+      search of food. Its longevity and adaptability make it unique among grasshoppers.
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

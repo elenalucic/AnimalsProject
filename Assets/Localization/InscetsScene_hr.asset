@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InscetsScene_hr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hr
+  m_SharedData: {fileID: 11400000, guid: d6445ba823e325546a50584608ff9cea, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 53506220032
+    m_Localized: "Mravi \u017Eive u velikim zajednicama, a svaka kolonija ima specifi\u010Dne
+      zadatke koje svi \u010Dlanovi obavljaju. U jednoj koloniji mo\u017Ee biti tisu\u0107e
+      mrava, a najva\u017Eniji je mrav kraljica koja pola\u017Ee jaja. Ovi mali insekti
+      poznati su po svojoj snazi \u2013 mogu podi\u0107i predmete koji su mnogo te\u017Ei
+      od njih samih. Mravi tako\u0111er komuniciraju putem feromona, \u0161to im
+      poma\u017Ee da organiziraju rad unutar kolonije."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76931407872
+    m_Localized: "Boktor je poznat po velikim klije\u0161tima koja koristi za obranu
+      od predatora. Iako je izgledom zastra\u0161uju\u0107, ovaj insekt obi\u010Dno
+      nije agresivan. Boktori vole \u017Eivjeti u drve\u0107u i hranu nalaze u biljkama
+      i malim insektima. Sna\u017Ena klije\u0161ta poma\u017Eu im u lovu i za\u0161titi,
+      dok im o\u0161tri zubi omogu\u0107uju da lako jedu tvrdu hranu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 462182424576
+    m_Localized: "Ovaj je insekt poznat po \u0161arenim prugama na svom tijelu, zbog
+      kojih je vrlo te\u0161ko primijetiti ga u bogatom zelenilu. Brachikera \u017Eive
+      u tropskim podru\u010Djima i hrane se biljkama. Njihova sposobnost da se kamufliraju
+      me\u0111u vegetacijom poma\u017Ee im u izbjegavanju predatora. Iako su vrlo
+      spori, njihov \u0161areni izgled slu\u017Ei im kao odli\u010Dna za\u0161tita.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 486119317504
+    m_Localized: "Ova zlatica poznata je po prepoznatljivim plavim krilima koja je
+      \u010Dine jedinstvenom me\u0111u svojim ro\u0111acima. \u017Dive u podru\u010Djima
+      bogatima biljnim \u017Eivotom, gdje obavljaju va\u017Enu ulogu opra\u0161ivanja.
+      Zlatice poput ove mogu pre\u017Eivjeti \u010Dak i u hladnijim uvjetima, a njihova
+      sposobnost da plivaju na povr\u0161ini vode \u010Dini ih jo\u0161 zanimljivijima.
+      Tako\u0111er, svojom bojom se odli\u010Dno uklapaju u okoli\u0161."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538309042176
+    m_Localized: "Petoprugasti Eufolus je vrsta zlatice koja svojim prugama podsje\u0107a
+      na umjetni\u010Dki oslikane krugove. Ovi insekti nastanjuju \u0161umska podru\u010Dja,
+      gdje hrane se biljkama. Zanimljivo je da ovu zlaticu nije lako uhvatiti zbog
+      njezine sposobnosti da se brzo sakrije me\u0111u biljkama. Za\u0161titu od
+      predatora osigurava svojim specifi\u010Dnim izgledom i neugodnim mirisima koje
+      emitira u opasnosti.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 582122741760
+    m_Localized: "Opelma minaks je mali, ali izuzetno prilagodljiv insekt koji mo\u017Ee
+      \u017Eivjeti u raznim uvjetima. \u010Cesto se nalazi u tropskim podru\u010Djima,
+      gdje koristi svoje o\u0161tre izrasline kao obranu. Ovaj kukac preferira biljojede,
+      ali ponekad se hrani i drugim insektima. Za pre\u017Eivljavanje koristi vrlo
+      sofisticirane mehanizme, poput kemijskih tvari koje ga \u0161tite od predatora."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 617094848512
+    m_Localized: "Poterioforus s ogrlicom je prepoznatljiv po bijeloj ogrlici koja
+      mu krasi vrat. Ovaj skakavac \u010Desto se mo\u017Ee vidjeti u podru\u010Djima
+      bogatim vegetacijom, gdje hrani se biljkama. U trenutku opasnosti, Poterioforus
+      mo\u017Ee koristiti svoje sna\u017Ene skaka\u010Dke sposobnosti kako bi pobjegao
+      od predatora. Zanimljivo je da njegova ogrlica poma\u017Ee u zavaravanju i
+      prepoznavanju vrste me\u0111u drugim skakavcima.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 673977999360
+    m_Localized: "Rozenkver je zlatica koja se isti\u010De svojim \u0161arenim izgledom.
+      Ovaj insekt naj\u010De\u0161\u0107e se nalazi na drve\u0107u, gdje se hrani
+      biljnim materijalom. Zlatica je izuzetno brza i lako se premje\u0161ta s jedne
+      biljke na drugu. Njegova zlatna boja poma\u017Ee mu da se stopi s okolinom,
+      \u010Dine\u0107i ga gotovo nevidljivim pred predatorima."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 709558280192
+    m_Localized: "Azijski str\u0161ljen je ve\u0107i od mnogih svojih ro\u0111aka
+      i poznat je po svojoj mo\u0107i i agresivnosti. Njegove bodlje koriste se za
+      obranu kolonije, ali i za napad na plijen. Iako su ovi str\u0161ljeni poznati
+      po svom bolnom ubodu, oni su vrlo va\u017Eni opra\u0161iva\u010Di. Obi\u010Dno
+      stvaraju gnijezda na drve\u0107u i \u017Eive u organiziranim kolonijama."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1016262565888
+    m_Localized: "Zografov regalis je skakavac koji prepoznaje podru\u010Dja bogata
+      biljkama i biljnom hranom. Ovaj insekt poznat je po svojoj izdr\u017Eljivosti,
+      jer mo\u017Ee pre\u017Eivjeti u su\u0161nim uvjetima gdje mnogi drugi insekti
+      ne bi izdr\u017Eali. Zanimljivo je da koristi svoje sna\u017Ene skaka\u010Dke
+      sposobnosti kako bi pre\u0161ao velike udaljenosti u potrazi za hranom. Njegova
+      dugovje\u010Dnost i sposobnost prilagodbe \u010Dine ga jedinstvenim me\u0111u
+      skakavcima."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

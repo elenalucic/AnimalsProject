@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: BirdsScene Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: BirdsScene
+  m_TableCollectionNameGuidString: b5578b42fa05d904a886692555e0e925
+  m_Entries:
+  - m_Id: 8241291264
+    m_Key: kakadu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49483882496
+    m_Key: toucan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586979745792
+    m_Key: sparrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621872160768
+    m_Key: crow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 639052029952
+    m_Key: duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659885137920
+    m_Key: owl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 682018480128
+    m_Key: pigeon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707666649088
+    m_Key: seagull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754865152000
+    m_Key: pinguin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2136653438976
+    m_Key: eagle
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4378500862539989232
+  references:
+    version: 2
+    RefIds:
+    - rid: 4378500862539989232
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1744792660624

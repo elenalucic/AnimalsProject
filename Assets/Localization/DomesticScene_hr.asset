@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DomesticScene_hr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hr
+  m_SharedData: {fileID: 11400000, guid: d411fb481850e53458cca6eee384c62a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9466028032
+    m_Localized: "Koko\u0161i su ptice koje su poznate po tome \u0161to pola\u017Eu
+      jaja. U mnogim kulturama, koko\u0161i se uzgajaju na farmama jer su vrlo korisne.
+      Zanimljivo je da koko\u0161i imaju odli\u010Dan vid i mogu vidjeti vi\u0161e
+      boja od ljudi! Osim toga, koko\u0161i mogu prepoznati do 100 razli\u010Ditih
+      lica svojih prijatelja i \u010Dlanova jata. Iako mo\u017Eda izgledaju mirno,
+      koko\u0161i su vrlo dru\u0161tvene i u\u017Eivaju u grupama."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72707743744
+    m_Localized: "Krave su velike \u017Eivotinje koje se naj\u010De\u0161\u0107e
+      dr\u017Ee na farmama zbog mlijeka, mesa i ko\u017Ee. One su biljojedi i jedu
+      travu, sijeno i druge biljke. Krave su poznate po tome \u0161to mogu proizvoditi
+      mlijeko koje se koristi za izradu mnogih mlije\u010Dnih proizvoda, poput sira,
+      jogurta i maslaca. Ove \u017Eivotinje imaju vrlo dobre sposobnosti pam\u0107enja,
+      a svaki pas mo\u017Ee prepoznati svoj vlastiti naziv.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132581433344
+    m_Localized: "Koze su znane po svojoj znati\u017Eelji i sposobnosti da ska\u010Du
+      po kamenju, ogradama i drugim visokim mjestima. \u010Cesto se uzgajaju zbog
+      mlijeka, mesa i vune. Koze mogu proizvoditi razli\u010Dite vrste mlijeka, koje
+      se koristi za izradu sira. Osim toga, koze se \u010Desto koriste u poljoprivredi
+      jer su odli\u010Dne u \u010Di\u0161\u0107enju grmlja i trave.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224512188416
+    m_Localized: "Svinje su inteligentne \u017Eivotinje koje u\u017Eivaju u kupanju
+      i rovanju po blatu, \u0161to im poma\u017Ee da se hlade i za\u0161tite od sun\u010Devih
+      zraka. Svinje su omiljene na farmama zbog svog mesa, koje se koristi za izradu
+      razli\u010Ditih proizvoda kao \u0161to su slanina i kobasice. Mogu se u\u010Diti
+      razli\u010Ditim vje\u0161tinama, a njihova sposobnost prepoznavanja osoba i
+      drugih \u017Eivotinja vrlo je razvijena.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295597252608
+    m_Localized: "Ovce su poznate po svojoj mekanoj vuni, koja se koristi za izradu
+      odje\u0107e i deka. One su dru\u0161tvene \u017Eivotinje koje vole biti u skupinama,
+      a \u010Desto se hrane travom i biljkama. Ovce se tako\u0111er uzgajaju zbog
+      mesa, koje je popularno u mnogim dijelovima svijeta. Osim toga, ovce su vrlo
+      mirne \u017Eivotinje koje \u010Desto prelaze velike udaljenosti u potrazi za
+      hranom.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372764057600
+    m_Localized: "Bikovi su mu\u0161ke krave koje se obi\u010Dno uzgajaju zbog mesa.
+      Oni su sna\u017Eni i veliki, te mogu biti vrlo agresivni ako se osjete ugro\u017Eenima.
+      Bikovi se tako\u0111er koriste u nekim sportovima, kao \u0161to su borbe s
+      bikovima u odre\u0111enim kulturama. Iako su vrlo jaki, bikovi su tako\u0111er
+      poznati po svojoj mirnoj prirodi kad nisu pod prijetnjom.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447288451072
+    m_Localized: "Ma\u010Dke su popularni ku\u0107ni ljubimci poznati po svojoj nezavisnoj
+      prirodi. Vole istra\u017Eivati svoje okru\u017Eenje i \u010Desto provode sate
+      na drve\u0107u ili u ku\u0107i tra\u017Ee\u0107i mirna mjesta za odmor. Ma\u010Dke
+      su izvrsni lovci, \u010Desto love\u0107i male glodavce poput mi\u0161eva. Njihova
+      sposobnost da prepoznaju tonove glasa svojih vlasnika \u010Dini ih odli\u010Dnim
+      partnerima za obitelj."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522366492672
+    m_Localized: "Psi su jedne od najvjernijih \u017Eivotinja, a poznati su po svojoj
+      sposobnosti da komuniciraju s ljudima. Oni mogu obavljati mnoge zadatke, od
+      \u010Duvanja ku\u0107e do pomaganja ljudima s posebnim potrebama. Psi imaju
+      izuzetno razvijen smisao za miris, koji im poma\u017Ee u lovu, traganju i \u010Dak
+      detekciji bolesti. Njihova predanost svojim vlasnicima \u010Dini ih nezamjenjivim
+      \u010Dlanovima obitelji.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 579564216320
+    m_Localized: "Guske su ptice koje \u010Desto migriraju na velike udaljenosti.
+      Zanimljivo je da guske uvijek lete u formaciji u obliku slova \"V\", \u0161to
+      im poma\u017Ee u \u0161tednji energije. Osim toga, guske imaju vrlo sna\u017Enu
+      obiteljsku povezanost i \u010Desto ostaju s istim partnerom cijeli \u017Eivot.
+      Guske mogu biti vrlo glasne i koriste razli\u010Dite zvukove kako bi komunicirale
+      s ostalim \u010Dlanovima jata. Guske tako\u0111er imaju sjajan orijentacijski
+      osje\u0107aj i nikada ne gube smjer tijekom migracija.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658912059392
+    m_Localized: "Pijetao je poznat po svom jutarnjem kukuru\u017Eanju. Zanimljivo
+      je da pijetao koristi ovo kukuruzanje kako bi ozna\u010Dio svoj teritorij i
+      obavijestio druge pijetlove da je on tu. Pijetlovi tako\u0111er imaju izvrsnu
+      sposobnost prepoznavanja svjetlosti, zbog \u010Dega znaju kad je vrijeme za
+      pjevati. Pijetao je \u010Desto simbol novih po\u010Detaka i bu\u0111enja u
+      mnogim kulturama. Osim toga, pijetlovi imaju vrlo sna\u017Ean karakter i \u010Desto
+      preuzimaju vo\u0111stvo unutar svog jata."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2059352416256
+    m_Localized: "Ovan je sna\u017Ena i izdr\u017Eljiva \u017Eivotinja poznata po
+      svojim velikim, spiralnim rogovima koje koristi u borbama za dominaciju. Mu\u017Ejaci
+      se \u010Desto sudaraju glavama kako bi dokazali svoju snagu \u2013 udarci mogu
+      biti toliko sna\u017Eni da se njihov zvuk \u010Duje i do kilometar daleko!
+      Osim \u0161to su mo\u0107ni, ovnovi su i izuzetno spretni \u2013 bez problema
+      se penju po strmim planinskim liticama zahvaljuju\u0107i odli\u010Dnom osje\u0107aju
+      za ravnote\u017Eu. Njihove o\u010Di sa vodoravnim zjenicama omogu\u0107uju
+      im \u0161iroko vidno polje i bolju orijentaciju u prostoru. Divlji ro\u0111ak
+      doma\u0107eg ovna zove se muflon i smatra se jednim od njegovih izvornih predaka."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

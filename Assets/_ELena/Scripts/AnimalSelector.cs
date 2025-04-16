@@ -1,8 +1,12 @@
-using System.Collections;
-using System.Collections.Generic;
+﻿
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.Localization;
+using UnityEngine.Localization.Settings;
+using UnityEngine.ResourceManagement.AsyncOperations;
+
+
 
 public class AnimalSelector : MonoBehaviour
 {
@@ -22,6 +26,14 @@ public class AnimalSelector : MonoBehaviour
     public Sprite fishPic;
     public Sprite birdsPic;
     public Sprite seashellPic;
+
+    public LocalizedSprite domaceNameLocalized;
+    public LocalizedSprite divljeNameLocalized;
+    public LocalizedSprite insektiNameLocalized;
+    public LocalizedSprite fishNameLocalized;
+    public LocalizedSprite birdsNameLocalized;
+    public LocalizedSprite seashellNameLocalized;
+
 
     private string currentGroup = "domace";
 
@@ -84,33 +96,32 @@ public class AnimalSelector : MonoBehaviour
         }
         ChangeGroup(nextGroup);
     }
-
     public void ChangeGroup(string nextGroup)
     {
         switch (nextGroup)
         {
             case "domace":
-                nameOfGroup.GetComponent<Image>().sprite = domaceName;
+                LoadLocalizedSprite(domaceNameLocalized);
                 picOfGroup.GetComponent<Image>().sprite = domacePic;
                 break;
             case "divlje":
-                nameOfGroup.GetComponent<Image>().sprite = divljeName;
+                LoadLocalizedSprite(divljeNameLocalized);
                 picOfGroup.GetComponent<Image>().sprite = divljePic;
                 break;
             case "insekti":
-                nameOfGroup.GetComponent<Image>().sprite = insektiName;
+                LoadLocalizedSprite(insektiNameLocalized);
                 picOfGroup.GetComponent<Image>().sprite = insektiPic;
                 break;
             case "ribe":
-                nameOfGroup.GetComponent<Image>().sprite = fishName;
+                LoadLocalizedSprite(fishNameLocalized);
                 picOfGroup.GetComponent<Image>().sprite = fishPic;
                 break;
             case "ptice":
-                nameOfGroup.GetComponent<Image>().sprite = birdsName;
+                LoadLocalizedSprite(birdsNameLocalized);
                 picOfGroup.GetComponent<Image>().sprite = birdsPic;
                 break;
             case "skoljke":
-                nameOfGroup.GetComponent<Image>().sprite = seashellName;
+                LoadLocalizedSprite(seashellNameLocalized);
                 picOfGroup.GetComponent<Image>().sprite = seashellPic;
                 break;
             default:
@@ -118,6 +129,7 @@ public class AnimalSelector : MonoBehaviour
         }
         currentGroup = nextGroup;
     }
+
 
     public void ConfirmSelection()
     {
@@ -145,6 +157,21 @@ public class AnimalSelector : MonoBehaviour
                 Debug.LogError("Nepoznata grupa: " + currentGroup);
                 break;
         }
+    }
+
+    private void LoadLocalizedSprite(LocalizedSprite localizedSprite)
+    {
+        localizedSprite.LoadAssetAsync().Completed += handle =>
+        {
+            if (handle.Status == AsyncOperationStatus.Succeeded)
+            {
+                nameOfGroup.GetComponent<Image>().sprite = handle.Result;
+            }
+            else
+            {
+                Debug.LogError("Greška prilikom učitavanja lokalizirane slike.");
+            }
+        };
     }
 
 

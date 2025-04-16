@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DomesticScene_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d411fb481850e53458cca6eee384c62a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9466028032
+    m_Localized: Chickens are birds known for laying eggs. In many cultures, they
+      are raised on farms because they are very useful. Interestingly, chickens have
+      excellent vision and can see more colors than humans! Moreover, they can recognize
+      up to 100 different faces of their friends and flock members. Even though they
+      may look calm, chickens are very social and enjoy being in groups.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72707743744
+    m_Localized: 'Cows are large animals usually kept on farms for milk, meat, and
+      leather. They are herbivores and eat grass, hay, and other plants. Cows are
+      well-known for producing milk, which is used to make various dairy products
+      such as cheese, yogurt, and butter. These animals have great memory skills,
+      and each cow can recognize its own name.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132581433344
+    m_Localized: Goats are known for their curiosity and ability to jump on rocks,
+      fences, and other high places. They are often kept for their milk, meat, and
+      wool. Goats can produce different kinds of milk, which is used to make cheese.
+      Additionally, they are often used in agriculture because they are excellent
+      at clearing bushes and grass.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224512188416
+    m_Localized: 'Pigs are intelligent animals that enjoy bathing and wallowing in
+      mud, which helps them cool off and protects them from the sun. Pigs are popular
+      on farms for their meat, which is used to make products like bacon and sausages.
+      They can learn various skills, and their ability to recognize people and other
+      animals is highly developed
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295597252608
+    m_Localized: Sheep are known for their soft wool, which is used to make clothes
+      and blankets. They are social animals that like being in groups and usually
+      eat grass and plants. Sheep are also raised for their meat, which is popular
+      in many parts of the world. Additionally, sheep are calm animals that often
+      travel long distances in search of food.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372764057600
+    m_Localized: Bulls are male cows usually raised for meat. They are strong and
+      large and can be aggressive if they feel threatened. Bulls are also used in
+      some sports, like bullfighting in certain cultures. Although they are very
+      strong, bulls are also known for their calm nature when not under threat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447288451072
+    m_Localized: 'Cats are popular pets known for their independent nature. They
+      like to explore their surroundings and often spend hours in trees or inside
+      the house looking for quiet places to rest. Cats are excellent hunters, often
+      catching small rodents like mice. Their ability to recognize their owner''s
+      voice tones makes them great family companions.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522366492672
+    m_Localized: 'Dogs are among the most loyal animals and are known for their ability
+      to communicate with humans. They can perform many tasks, from guarding homes
+      to helping people with special needs. Dogs have an extremely developed sense
+      of smell, which helps them hunt, search, and even detect diseases. Their dedication
+      to their owners makes them irreplaceable family members.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 579564216320
+    m_Localized: Geese are birds that often migrate over long distances. Interestingly,
+      they always fly in a V-shaped formation, which helps them save energy. Additionally,
+      geese have a strong family bond and often stay with the same partner for life.
+      They can be very loud and use different sounds to communicate with other flock
+      members. Geese also have an excellent sense of direction and never lose their
+      way during migrations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658912059392
+    m_Localized: The rooster is known for its morning crowing. Interestingly, it
+      uses this crowing to mark its territory and inform other roosters that it is
+      present. Roosters also have excellent light sensitivity, which helps them know
+      when it's time to crow. In many cultures, the rooster symbolizes new beginnings
+      and awakening. Roosters also have strong personalities and often take leadership
+      roles within their flock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2059352416256
+    m_Localized: "The ram is a strong and resilient animal known for its large, spiral-shaped
+      horns, which it uses in battles for dominance. Males often clash heads to prove
+      their strength \u2013 the impact can be so powerful that the sound can be heard
+      up to a kilometer away!\n\nIn addition to being powerful, rams are also incredibly
+      agile \u2013 they effortlessly climb steep mountain cliffs thanks to their
+      excellent sense of balance. Their eyes, with horizontal pupils, provide a wide
+      field of vision and better spatial orientation.\n\nThe wild relative of the
+      domestic ram is called the mouflon, considered one of its original ancestors."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

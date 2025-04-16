@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BirdsScene_hr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hr
+  m_SharedData: {fileID: 11400000, guid: b5578b42fa05d904a886692555e0e925, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8241291264
+    m_Localized: "Rozi kakadu je ptica poznata po svojoj ru\u017Ei\u010Dastoj boji
+      koja je isti\u010De me\u0111u ostalim pticama. Ove ptice mogu opona\u0161ati
+      ljudske glasove, \u0161to ih \u010Dini popularnim ku\u0107nim ljubimcima. Njihova
+      sposobnost stvaranja zvukova nije samo zabavna, ve\u0107 im poma\u017Ee u komunikaciji
+      unutar njihovih skupina. Kakadu se \u010Desto vi\u0111aju u dru\u0161tvu, jer
+      u\u017Eivaju u \u017Eivotu u grupama, gdje stvaraju \u010Dvrste dru\u0161tvene
+      veze. Svoj kljun koriste kao alat za otvaranje hrane, dok im sna\u017Eni mi\u0161i\u0107i
+      omogu\u0107uju manipulaciju razli\u010Ditim predmetima."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49483882496
+    m_Localized: "Tukan je ptica koja se prepoznaje po svom izuzetno velikom i \u0161arenom
+      kljunu. Unato\u010D tome \u0161to kljun izgleda te\u017Eak, zapravo je vrlo
+      lagan, jer je ispunjen zrakom. Tu\u010Dkani kljun koristi za dohvatiti hranu
+      s drve\u0107a, a njegova veli\u010Dina poma\u017Ee im i u odr\u017Eavanju ravnote\u017Ee
+      dok se kre\u0107u po granama. Ove ptice obi\u010Dno lete u skupinama, \u010Dime
+      se osiguravaju sigurnost i lak\u0161a migracija kroz tropske d\u017Eungle.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586979745792
+    m_Localized: "Vrabac je mala ptica koja se \u010Desto mo\u017Ee vidjeti u gradovima
+      i vrtovima. Njegova prilagodljivost omogu\u0107uje mu da pre\u017Eivi u raznim
+      uvjetima, od naseljenih podru\u010Dja do prirodnih stani\u0161ta. Vrabci su
+      poznati po svom veselom pjevanju, a omiljeni su zbog svojih veselo razigranih
+      pona\u0161anja. Tijekom godine, \u010Desto se okupljaju u jata, stvaraju\u0107i
+      velike skupine koje migriraju ili pronalaze hranu zajedno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621872160768
+    m_Localized: "Vrana je ptica koja svojim inteligencijom privla\u010Di pa\u017Enju,
+      \u010Desto koriste\u0107i alate poput gran\u010Dica za dohvat hrane. Osim toga,
+      ove ptice imaju izuzetnu sposobnost prepoznavanja ljudskih lica i pam\u0107enja
+      tih informacija godinama. Vrane su tako\u0111er izuzetno dru\u0161tvene, \u010Desto
+      \u017Eive\u0107i u velikim skupinama i komuniciraju\u0107i na sofisticirane
+      na\u010Dine. Zbog svoje sposobnosti da koriste alate i razmi\u0161ljaju, vrane
+      su me\u0111u najinteligentnijim pticama.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 639052029952
+    m_Localized: "Patka je ptica koja je vrlo prilagodljiva jer mo\u017Ee hodati,
+      plivati i letjeti, \u010Dine\u0107i je jednim od najfleksibilnijih stvorenja
+      u \u017Eivotinjskom svijetu. Uz svoje karakteristi\u010Dne zvukove, patke su
+      \u010Desto prepoznatljive u blizini voda. Le\u017Eerno plivaju na povr\u0161ini
+      vode, a istovremeno se \u010Desto hrane i kopaju po blatu za raznim vrstama
+      hrane. Njihova sposobnost da lete u formacijama tijekom migracije tako\u0111er
+      je fascinantna jer im omogu\u0107ava da u\u0161tede energiju."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659885137920
+    m_Localized: "Sova u\u0161ara je jedna od najspecifi\u010Dnijih ptica zbog svojih
+      pernatih \"u\u0161iju\" koje je \u010Dine lako prepoznatljivom. Za razliku
+      od drugih ptica, sove imaju nevjerojatno razvijen sluh i mogu \u010Duti i najmanje
+      zvukove, \u0161to im poma\u017Ee u lovu u mraku. \u0160to se ti\u010De leta,
+      sove su izuzetno tihi zbog svoje posebne strukture krila, \u010Dime uspje\u0161no
+      izbjegavaju otkrivanje dok love. No\u0107u, njihova osjetila omogu\u0107uju
+      im da budu vrlo u\u010Dinkovite lovkinje."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 682018480128
+    m_Localized: "Golub je ptica koja je odavno poznata po svojoj sposobnosti navigacije.
+      Osim \u0161to su sposobni prepoznati i zapamtiti ljudska lica, golubovi mogu
+      prona\u0107i svoj put \u010Dak i na velikim udaljenostima. Zbog svoje odanosti,
+      golubovi su kori\u0161teni u pro\u0161lim vremenima kao ptice za preno\u0161enje
+      poruka. Ve\u0107inu svog \u017Eivota provode u grupama, \u010Desto se dru\u017Ee\u0107i
+      u velikim kolonijama"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707666649088
+    m_Localized: "Galebovi su ptice koje se naj\u010De\u0161\u0107e vi\u0111aju na
+      obali mora, gdje plivaju i love u velikim skupinama. Njihove sposobnosti letenja
+      i plivanja omogu\u0107uju im da pre\u017Eive u razli\u010Ditim uvjetima, uklju\u010Duju\u0107i
+      obalu i otvoreno more. Zanimljivo je da galebovi, iako su vrlo dru\u0161tvene
+      ptice, \u010Desto pokazuju teritorijalno pona\u0161anje kada je rije\u010D
+      o hranjenju. Tako\u0111er, poznati su po tome \u0161to koriste glasne pozive
+      za me\u0111usobnu komunikaciju, osobito u kolonijama."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2136653438976
+    m_Localized: "Orao je velika i mo\u0107na ptica predatora koja je poznata po
+      nevjerojatnoj visini leta. U stanju je letjeti na visinama na kojima mnoge
+      ptice ne mogu opstati, a njegov izuzetno o\u0161tar vid poma\u017Ee mu da uo\u010Di
+      plijen na velikim udaljenostima. Kljun i kand\u017Ee orla omogu\u0107uju mu
+      da lovi na manjem plijenu, dok njegova snaga i preciznost u lovu \u010Dine
+      ga jednim od najefikasnijih predatora."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754865152000
+    m_Localized: "Pingvin je neobi\u010Dna ptica koja ne leti, ali je izuzetno prilago\u0111ena
+      \u017Eivotu u vodi. Njegovo tijelo nalik torpedu i peraje umjesto krila omogu\u0107uju
+      mu brzo i spretno plivanje. Iako djeluju nespretno na kopnu, u vodi su pingvini
+      pravi majstori \u2013 mogu roniti na velike dubine i plivati velikim brzinama
+      u potrazi za ribom i drugim morskim organizmima. Ve\u0107ina vrsta pingvina
+      \u017Eivi na ju\u017Enoj hemisferi, a posebno su poznati po svojoj otpornosti
+      na hladno\u0107u i sposobnosti pre\u017Eivljavanja u ekstremnim uvjetima poput
+      onih na Antarktici."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

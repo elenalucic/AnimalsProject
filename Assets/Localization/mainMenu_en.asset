@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: mainMenu_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4b6aad45f0bf83148ba8d9ce992d0d17, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1282630230016
+    m_Localized: "We are Culex, a company specialized in developing XR solutions
+      that are changing the way we experience the world around us. Through the use
+      of Augmented Reality (AR), Virtual Reality (VR), and Mixed Reality (MR), we
+      create innovative projects aimed at education, entertainment, and enhancing
+      users\u2019 everyday experiences.\n\nOne such project is CulEd \u2013 an educational
+      AR application designed for primary school students, which brings the nature
+      of Croatia directly into their surroundings through augmented reality. The
+      goal of the app is to encourage children to explore and learn about animals
+      native to Croatia in a way that is interactive, fun, and visually engaging.\n\nThrough
+      CulEd, users can select one of the offered native animals and observe its 3D
+      model in their own environment. Each model features animated movement, realistic
+      sound effects, and educational information such as habitat, diet, and interesting
+      facts about the animal. This approach encourages children to actively explore,
+      develop environmental awareness, and connect with nature through technology
+      they are already familiar with."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

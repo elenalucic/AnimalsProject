@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Croatian (hr)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Croatian (hr)
+  m_GUID: 349e0b76a9ad39a47adb15ad7ee03622
+  m_SerializeEntries:
+  - m_GUID: 13b98367ccea9b24db6f737638e04fd4
+    m_Address: InscetsScene_hr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e1f2e54d6ed5c3409737dd401c0b308
+    m_Address: DomesticScene_hr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7da4781645f87214388cb6535e474d10
+    m_Address: mainMenu_hr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e8b0c3b89063114285eced6e3e40596
+    m_Address: BirdsScene_hr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: f63b011fb24118e49a70aac9df3ecb65, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 50ac053bf47a6be4ea5713f9747edd7d, type: 2}
+    - {fileID: 11400000, guid: 62f99325e948367458f2b355a37a1287, type: 2}

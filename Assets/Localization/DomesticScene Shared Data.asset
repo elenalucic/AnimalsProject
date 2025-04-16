@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DomesticScene Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: DomesticScene
+  m_TableCollectionNameGuidString: d411fb481850e53458cca6eee384c62a
+  m_Entries:
+  - m_Id: 9466028032
+    m_Key: chicke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72707743744
+    m_Key: cow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132581433344
+    m_Key: goat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224512188416
+    m_Key: pig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295597252608
+    m_Key: sheep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372764057600
+    m_Key: bull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447288451072
+    m_Key: cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522366492672
+    m_Key: dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 579564216320
+    m_Key: goose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658912059392
+    m_Key: rooster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2059352416256
+    m_Key: ram
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4378500862539989224
+  references:
+    version: 2
+    RefIds:
+    - rid: 4378500862539989224
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1744790987886
