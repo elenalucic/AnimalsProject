@@ -1,0 +1,399 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AnimalName_en 1
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 27422df67384b474494c7a7c95653bdf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 113216331776
+    m_Localized: Cow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2823483301888
+    m_Localized: Chicken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3695311331328
+    m_Localized: Goat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3800382840832
+    m_Localized: Pig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3825288617984
+    m_Localized: Sheep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3829138989056
+    m_Localized: Bull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3831907229696
+    m_Localized: Cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3835199758336
+    m_Localized: Dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3837632454656
+    m_Localized: Goose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3986446360576
+    m_Localized: Ram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3988157636608
+    m_Localized: Rooster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4336758824960
+    m_Localized: Crocodile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4337593491456
+    m_Localized: Elephant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4338348466176
+    m_Localized: Hippopotamus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4339044720640
+    m_Localized: Lion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4339753558016
+    m_Localized: Rhinoceros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4340399480832
+    m_Localized: Zebra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341104123904
+    m_Localized: Bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341787795456
+    m_Localized: Boar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4342467272704
+    m_Localized: Deer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4343692009472
+    m_Localized: Fox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4344384069632
+    m_Localized: Rabbit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4345042575360
+    m_Localized: Turtle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4346170843136
+    m_Localized: Wolf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4346900652032
+    m_Localized: TIger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4347508826112
+    m_Localized: Gorilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348196691968
+    m_Localized: Seal Leopard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4349295599616
+    m_Localized: Rat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4349836664832
+    m_Localized: Jaguar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4350562279424
+    m_Localized: Giraffer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4352407773184
+    m_Localized: Frog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4353133387776
+    m_Localized: Dolphin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4354492342272
+    m_Localized: Bat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9013898518528
+    m_Localized: Zographos Regalis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9878659145728
+    m_Localized: Rozenkever
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9839333351424
+    m_Localized: VespaVelutinaVariana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8414826078208
+    m_Localized: Poteriophorus monilifasciatus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8414213709824
+    m_Localized: Opelma minax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8413559398400
+    m_Localized: Eupholus quinitaenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8412875726848
+    m_Localized: Calloplophora sollii
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8412246581248
+    m_Localized: Brachycerus ornatus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8411575492608
+    m_Localized: Boktor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8410413670400
+    m_Localized: Ant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8409277014016
+    m_Localized: Seagull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8407616069632
+    m_Localized: Penguin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8406349389824
+    m_Localized: Pigeon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8405577637888
+    m_Localized: 'Owl Great Horned '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8404864606208
+    m_Localized: Eagle Golden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8404172546048
+    m_Localized: Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4357130559488
+    m_Localized: Crow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4356463665152
+    m_Localized: Sparrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4355821936640
+    m_Localized: Toucan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4355205373952
+    m_Localized: KaketoeRoze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12081914454016
+    m_Localized: Gof
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12084787552256
+    m_Localized: AmurFish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12087010533376
+    m_Localized: Arapaima
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12088902164480
+    m_Localized: Archerfish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12091213225984
+    m_Localized: Barracuda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12096355442688
+    m_Localized: Batfish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12097609539584
+    m_Localized: Beluga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12099916406784
+    m_Localized: Black Redeye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12101313110016
+    m_Localized: Blob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12102089056256
+    m_Localized: Blue shark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12102919528448
+    m_Localized: Blue tang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12103649337344
+    m_Localized: Brown trout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12104379146240
+    m_Localized: Bull shark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12105067012096
+    m_Localized: Butterfly fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12105738100736
+    m_Localized: Carp fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12106937671680
+    m_Localized: Clown fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12107612954624
+    m_Localized: Cobia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12108317597696
+    m_Localized: Atlantic cod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12108963520512
+    m_Localized: Coral grouper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12111010340864
+    m_Localized: Korvina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12112138608640
+    m_Localized: Crab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12113271070720
+    m_Localized: Cubera snapper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12114189623296
+    m_Localized: Cuttle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12115141730304
+    m_Localized: Discus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12115871539200
+    m_Localized: Electric cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12117209522176
+    m_Localized: Emperor angelfish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12118014828544
+    m_Localized: Fangtooth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12128550920192
+    m_Localized: Tuna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12127850471424
+    m_Localized: Tortoise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12127091302400
+    m_Localized: Sweetlips
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12126290190336
+    m_Localized: Octopus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12124994150400
+    m_Localized: Moorishldol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12124146900992
+    m_Localized: Marlin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12122926358528
+    m_Localized: Longear sunfish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12122217521152
+    m_Localized: Lion fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12121550626816
+    m_Localized: Jellyfish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12120845983744
+    m_Localized: Great white shark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12120208449536
+    m_Localized: Goliath grouper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12119432503296
+    m_Localized: Giant sea bass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12118702694400
+    m_Localized: Frontosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17523453468672
+    m_Localized: Clown trigger
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -10,23 +10,395 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
-  m_Name: animalName Shared Data
+  m_Name: AnimalName Shared Data
   m_EditorClassIdentifier: 
-  m_TableCollectionName: animalName
+  m_TableCollectionName: AnimalName
   m_TableCollectionNameGuidString: 27422df67384b474494c7a7c95653bdf
   m_Entries:
-  - m_Id: 5816938496
-    m_Key: Jaguar_animal
+  - m_Id: 113216331776
+    m_Key: cow_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2823483301888
+    m_Key: chicken_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3695311331328
+    m_Key: goat_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3800382840832
+    m_Key: pig_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3825288617984
+    m_Key: sheep_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3829138989056
+    m_Key: "bull_name\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3831907229696
+    m_Key: cat_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3835199758336
+    m_Key: dog_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3837632454656
+    m_Key: goose_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3986446360576
+    m_Key: ram_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3988157636608
+    m_Key: rooster_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4336758824960
+    m_Key: crocodile_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4337593491456
+    m_Key: elephant_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4338348466176
+    m_Key: hippo_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4339044720640
+    m_Key: lion_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4339753558016
+    m_Key: rhino_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4340399480832
+    m_Key: zebra_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341104123904
+    m_Key: bear_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341787795456
+    m_Key: boar_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4342467272704
+    m_Key: deer_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4343692009472
+    m_Key: fox_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4344384069632
+    m_Key: rabbit_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4345042575360
+    m_Key: turtle_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4346170843136
+    m_Key: wolf_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4346900652032
+    m_Key: tiger_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4347508826112
+    m_Key: gorila_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348196691968
+    m_Key: seal_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4349295599616
+    m_Key: rat_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4349836664832
+    m_Key: jaguar_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4350562279424
+    m_Key: giraffe_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4352407773184
+    m_Key: frog_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4353133387776
+    m_Key: dupin_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4354492342272
+    m_Key: bat_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4355205373952
+    m_Key: kakadu_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4355821936640
+    m_Key: toucan_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4356463665152
+    m_Key: sparrow_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4357130559488
+    m_Key: crow_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8404172546048
+    m_Key: duck_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8404864606208
+    m_Key: eagle_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8405577637888
+    m_Key: owl_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8406349389824
+    m_Key: pigeon_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8407616069632
+    m_Key: pingvin_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8409277014016
+    m_Key: seagull_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8410413670400
+    m_Key: ant_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8411575492608
+    m_Key: boktor_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8412246581248
+    m_Key: ortanus_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8412875726848
+    m_Key: solli_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8413559398400
+    m_Key: quinitaenia_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8414213709824
+    m_Key: minax_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8414826078208
+    m_Key: monilifasciatus_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9013898518528
+    m_Key: zographus_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9839333351424
+    m_Key: vespa_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9878659145728
+    m_Key: rozenkver_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12081914454016
+    m_Key: amber_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12084787552256
+    m_Key: amur_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12087010533376
+    m_Key: arap_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12088902164480
+    m_Key: arch_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12091213225984
+    m_Key: barracuda_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12096355442688
+    m_Key: batfish_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12097609539584
+    m_Key: beluga_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12099916406784
+    m_Key: black_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12101313110016
+    m_Key: blob_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12102089056256
+    m_Key: blueshark_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12102919528448
+    m_Key: blue_tang_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12103649337344
+    m_Key: brown_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12104379146240
+    m_Key: bullshark_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12105067012096
+    m_Key: butterflay_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12105738100736
+    m_Key: carp_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12106937671680
+    m_Key: clown_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12107612954624
+    m_Key: cobia_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12108317597696
+    m_Key: cod_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12108963520512
+    m_Key: coral_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12111010340864
+    m_Key: corvina_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12112138608640
+    m_Key: crab_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12113271070720
+    m_Key: cubera_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12114189623296
+    m_Key: cuttle_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12115141730304
+    m_Key: dicus_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12115871539200
+    m_Key: electric_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12117209522176
+    m_Key: emperor_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12118014828544
+    m_Key: fangtooth_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12118702694400
+    m_Key: front_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12119432503296
+    m_Key: giant_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12120208449536
+    m_Key: goliath_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12120845983744
+    m_Key: great_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12121550626816
+    m_Key: jellyfish_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12122217521152
+    m_Key: lionfish_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12122926358528
+    m_Key: longear_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12124146900992
+    m_Key: marlin_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12124994150400
+    m_Key: moorish_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12126290190336
+    m_Key: octopus_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12127091302400
+    m_Key: sweet_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12127850471424
+    m_Key: tortoise_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12128550920192
+    m_Key: tuna_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17523453468672
+    m_Key: clown_tiriger_name
     m_Metadata:
       m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
-    rid: 5675428713219227747
+    rid: 4378500884905328720
   references:
     version: 2
     RefIds:
-    - rid: 5675428713219227747
+    - rid: 4378500884905328720
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
-        m_CustomEpoch: 1744841573517
+        m_CustomEpoch: 1744877605581

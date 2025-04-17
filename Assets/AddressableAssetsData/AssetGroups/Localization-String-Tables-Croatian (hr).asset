@@ -58,6 +58,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale-hr
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1906ce09f964834c90149a4de61fa11
+    m_Address: AnimalName_hr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: f63b011fb24118e49a70aac9df3ecb65, type: 2}
   m_SchemaSet:

@@ -71,6 +71,10 @@ MonoBehaviour:
     m_Key: skoljke
     m_Metadata:
       m_Items: []
+  - m_Id: 342490510532608
+    m_Key: confirm_button
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items:
     - rid: 4378500862539989287
@@ -150,5 +154,8 @@ MonoBehaviour:
           m_TableCodes:
           - hr
           - en
+        - m_KeyId: 342490510532608
+          m_TableCodes:
+          - hr
         m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null

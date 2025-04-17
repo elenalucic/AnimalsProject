@@ -55,11 +55,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 6448293093376
-    m_Localized: '0e97b07014c8b71498f967464dacf47c[Pocetak_White]'
-    m_Metadata:
-      m_Items: []
-  - m_Id: 6569500090368
-    m_Localized: 'c6832ee7b553d984e937fe0a404a406a[O nama_White]'
+    m_Localized: '5af78b48f2d0b47438c17ed5c20b3b49[pocetak-removebg-preview]'
     m_Metadata:
       m_Items: []
   - m_Id: 11657492832256
@@ -72,6 +68,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 11985755840512
     m_Localized: 'a6054d25d43c19c4c8cc392b71e627a4[Skoljke_white]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6569500090368
+    m_Localized: 'aa43dd83e27ae984bbe6d3f513875cbc[o_nama-removebg-preview]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342490510532608
+    m_Localized: 'cad6f5f6435794749849d0275708bca0[potvrdi-removebg-preview]'
     m_Metadata:
       m_Items: []
   references:

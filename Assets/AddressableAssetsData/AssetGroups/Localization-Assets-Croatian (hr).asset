@@ -15,14 +15,14 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Croatian (hr)
   m_GUID: 03ca048c918122c49bb53b7444d776cf
   m_SerializeEntries:
-  - m_GUID: 0e97b07014c8b71498f967464dacf47c
-    m_Address: Pocetak_White
+  - m_GUID: 1346be83ea34b17438a2e322395f473a
+    m_Address: Ptice_white
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1346be83ea34b17438a2e322395f473a
-    m_Address: Ptice_white
+  - m_GUID: 5af78b48f2d0b47438c17ed5c20b3b49
+    m_Address: pocetak-removebg-preview
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr
@@ -51,8 +51,14 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale-hr
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c6832ee7b553d984e937fe0a404a406a
-    m_Address: O nama_White
+  - m_GUID: aa43dd83e27ae984bbe6d3f513875cbc
+    m_Address: o_nama-removebg-preview
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cad6f5f6435794749849d0275708bca0
+    m_Address: potvrdi-removebg-preview
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr

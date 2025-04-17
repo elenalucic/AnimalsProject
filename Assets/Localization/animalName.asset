@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
-  m_Name: animalName
+  m_Name: AnimalName
   m_EditorClassIdentifier: 
   m_SharedTableData: {fileID: 11400000, guid: 27422df67384b474494c7a7c95653bdf, type: 2}
   m_Tables:
-  - {fileID: 11400000, guid: 70025c556ef6ea54aa55965ad4f66daf, type: 2}
-  - {fileID: 11400000, guid: 306a17f66d332a34a86460e7be6e5ef7, type: 2}
+  - {fileID: 11400000, guid: c1906ce09f964834c90149a4de61fa11, type: 2}
+  - {fileID: 11400000, guid: f233c677e4c2a894082c31714ea20dd6, type: 2}
   m_Extensions: []
   m_Group: String Table
   references:

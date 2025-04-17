@@ -1,0 +1,399 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AnimalName_hr 1
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hr
+  m_SharedData: {fileID: 11400000, guid: 27422df67384b474494c7a7c95653bdf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 113216331776
+    m_Localized: Krava
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2823483301888
+    m_Localized: "Koko\u0161"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3695311331328
+    m_Localized: Koza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3800382840832
+    m_Localized: Svinja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3825288617984
+    m_Localized: Ovca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3829138989056
+    m_Localized: Bik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3831907229696
+    m_Localized: "Ma\u010Dka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3835199758336
+    m_Localized: Pas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3837632454656
+    m_Localized: Guska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3986446360576
+    m_Localized: Ovan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3988157636608
+    m_Localized: Pijetao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4336758824960
+    m_Localized: Krokodil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4337593491456
+    m_Localized: Slon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4338348466176
+    m_Localized: Nilski Konj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4339044720640
+    m_Localized: Lav
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4339753558016
+    m_Localized: Nosorog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4340399480832
+    m_Localized: Zebra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341104123904
+    m_Localized: Medvjed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341787795456
+    m_Localized: Vepar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4342467272704
+    m_Localized: Jelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4343692009472
+    m_Localized: Lisica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4344384069632
+    m_Localized: Zec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4345042575360
+    m_Localized: "Kornja\u010Da"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4346170843136
+    m_Localized: Vuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4346900652032
+    m_Localized: Tigar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4347508826112
+    m_Localized: Gorila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348196691968
+    m_Localized: Tuljan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4349295599616
+    m_Localized: "\u0160takor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4349836664832
+    m_Localized: Jaguar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4350562279424
+    m_Localized: "\u017Dirafa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4352407773184
+    m_Localized: "\u017Daba"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4353133387776
+    m_Localized: Dupin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4354492342272
+    m_Localized: "\u0160i\u0161mi\u0161"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9013898518528
+    m_Localized: Zografov regalis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8414826078208
+    m_Localized: Poterioforus s ogrlicom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8414213709824
+    m_Localized: Opelma minaks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8413559398400
+    m_Localized: Eufolus petoprugasti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8412875726848
+    m_Localized: Solijeva plavokrila zlatica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8412246581248
+    m_Localized: Ornati brahikera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8411575492608
+    m_Localized: Boktor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8410413670400
+    m_Localized: Mrav
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9839333351424
+    m_Localized: "Azijska str\u0161ljena"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9878659145728
+    m_Localized: Zlatica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8409277014016
+    m_Localized: Galeb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8407616069632
+    m_Localized: Pingvin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8406349389824
+    m_Localized: Golub
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8405577637888
+    m_Localized: "Sova u\u0161ara"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4355205373952
+    m_Localized: Rozi kakadu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4355821936640
+    m_Localized: Tukan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4356463665152
+    m_Localized: Vrabac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4357130559488
+    m_Localized: Vrana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8404172546048
+    m_Localized: Patka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8404864606208
+    m_Localized: Orao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12081914454016
+    m_Localized: Amberjak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12084787552256
+    m_Localized: "Amurski \u0161aran"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12087010533376
+    m_Localized: Arapaima
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12088902164480
+    m_Localized: Strijelac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12091213225984
+    m_Localized: Barakuda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12096355442688
+    m_Localized: "Riba \u0161i\u0161mi\u0161"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12097609539584
+    m_Localized: Jesetra beluga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12099916406784
+    m_Localized: Crvenooka riba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12101313110016
+    m_Localized: 'Blob '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12102089056256
+    m_Localized: Plava psina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12102919528448
+    m_Localized: Plavi tang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12103649337344
+    m_Localized: "Poto\u010Dna pastrva"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12104379146240
+    m_Localized: Bikovska psina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12105067012096
+    m_Localized: Kitnjasta riba leptir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12105738100736
+    m_Localized: "\u0160aran"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12106937671680
+    m_Localized: Klaun riba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12107612954624
+    m_Localized: Kobija
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12108317597696
+    m_Localized: Bakalar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12108963520512
+    m_Localized: Kirnja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12111010340864
+    m_Localized: Corvina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12112138608640
+    m_Localized: Rak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12113271070720
+    m_Localized: Kubera snapper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12114189623296
+    m_Localized: Sipa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12115141730304
+    m_Localized: Diskus riba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12115871539200
+    m_Localized: "Elektri\u010Dna soma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12117209522176
+    m_Localized: "Carski an\u0111eo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12118014828544
+    m_Localized: Vampirska riba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12118702694400
+    m_Localized: Frontosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12119432503296
+    m_Localized: Divovski morski bas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12120208449536
+    m_Localized: "Goliat \u0161karpina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12120845983744
+    m_Localized: Velika bijela psina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12121550626816
+    m_Localized: Meduza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12122217521152
+    m_Localized: Lav
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12122926358528
+    m_Localized: "Sun\u010Danica dugouha"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12124146900992
+    m_Localized: Marlin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12124994150400
+    m_Localized: Idol riba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12126290190336
+    m_Localized: Hobotnica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12127091302400
+    m_Localized: Slatkousta riba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12127850471424
+    m_Localized: "Kopnena kornja\u010Da"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12128550920192
+    m_Localized: Tuna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17523453468672
+    m_Localized: Klaun triger riba
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

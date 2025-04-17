@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.Localization;
 
 
 
@@ -21,6 +22,14 @@ public class AnimalDisplay : MonoBehaviour
 
     public List<string> animalNames;
     public TextMeshProUGUI animalNameText;
+
+
+    public List<string> animalNamesLat;
+    public TextMeshProUGUI animalNameLatText;
+
+    public List<LocalizedString> localizedAnimalNames;
+    public TextMeshProUGUI animalNameLocText;
+
 
 
     private Dictionary<GameObject, Vector3> originalScales = new Dictionary<GameObject, Vector3>();
@@ -49,13 +58,30 @@ public class AnimalDisplay : MonoBehaviour
         currentIndex = index;
         currentAnimal = animalsInScene[currentIndex];
         currentAnimal.SetActive(true);
-        // Postavi originalnu skalu za novu životinju
+   
         currentAnimal.transform.localScale = originalScales[currentAnimal];
 
         if (animalNameText != null && animalNames != null && currentIndex < animalNames.Count)
         {
             animalNameText.text = animalNames[currentIndex];
         }
+
+        if (animalNameLatText != null && animalNamesLat != null && currentIndex < animalNamesLat.Count)
+        {
+            animalNameLatText.text = animalNamesLat[currentIndex];
+        }
+
+        if (animalNameText != null && localizedAnimalNames != null && currentIndex < localizedAnimalNames.Count)
+        {
+            localizedAnimalNames[currentIndex].StringChanged += UpdateAnimalName;
+            localizedAnimalNames[currentIndex].RefreshString();
+        }
+
+    }
+
+    private void UpdateAnimalName(string localizedText)
+    {
+        animalNameText.text = localizedText;
     }
 
     public void GoLeft()

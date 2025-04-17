@@ -234,7 +234,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0e97b07014c8b71498f967464dacf47c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5af78b48f2d0b47438c17ed5c20b3b49, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -560,7 +560,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c6832ee7b553d984e937fe0a404a406a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: aa43dd83e27ae984bbe6d3f513875cbc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -838,15 +838,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2086908316}
-        m_TargetAssemblyTypeName: LanguageController, Assembly-CSharp
-        m_MethodName: SelectLanguage
-        m_Mode: 3
+        m_TargetAssemblyTypeName: ChangeLanguage, Assembly-CSharp
+        m_MethodName: SetLanguage
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: hr
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1782327270
@@ -1107,15 +1107,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2086908316}
-        m_TargetAssemblyTypeName: LanguageController, Assembly-CSharp
-        m_MethodName: SelectLanguage
-        m_Mode: 3
+        m_TargetAssemblyTypeName: ChangeLanguage, Assembly-CSharp
+        m_MethodName: SetLanguage
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 1
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: en
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &2047462016
@@ -1268,6 +1268,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9821544202c31a94993740ad80fcd5d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  HRLocale: {fileID: 11400000, guid: b6bff10b6b700274c9eb4bc92a7b09ad, type: 2}
+  ENLocale: {fileID: 11400000, guid: bc86638db9d09ea4c9bfe84af734d0fb, type: 2}
 --- !u!4 &2086908317
 Transform:
   m_ObjectHideFlags: 0

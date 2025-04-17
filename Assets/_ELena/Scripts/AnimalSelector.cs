@@ -3,7 +3,6 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using UnityEngine.Localization;
-using UnityEngine.Localization.Settings;
 using UnityEngine.ResourceManagement.AsyncOperations;
 
 
@@ -37,7 +36,11 @@ public class AnimalSelector : MonoBehaviour
 
     private string currentGroup = "domace";
 
-
+    private void Start()
+    {
+        LoadLocalizedSprite(domaceNameLocalized);
+        picOfGroup.GetComponent<Image>().sprite = domacePic;
+    }
     public void GoRight()
     {
         string nextGroup = "";
