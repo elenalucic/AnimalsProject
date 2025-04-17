@@ -21,8 +21,27 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 306a17f66d332a34a86460e7be6e5ef7
+    m_Address: animalName_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5580658080cf99141a79a011f9999537
     m_Address: DomesticScene_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64843c17d3f353e4580ce2e3d7635503
+    m_Address: wildScene_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9455ac3b9ca10ae49a4251a221d686f4
+    m_Address: fishScene_en
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en

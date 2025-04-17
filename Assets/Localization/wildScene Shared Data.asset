@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: wildScene Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: wildScene
+  m_TableCollectionNameGuidString: 49f6b1c564185a148bd03712865968f9
+  m_Entries:
+  - m_Id: 109529493504
+    m_Key: crocodile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127707607040
+    m_Key: elephant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146128990208
+    m_Key: hippopotamus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190383091712
+    m_Key: lion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207491657728
+    m_Key: rhinoceros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243130658816
+    m_Key: zebra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255814234112
+    m_Key: bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269571551232
+    m_Key: boar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287493812224
+    m_Key: deer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298092818432
+    m_Key: fox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312898711552
+    m_Key: rabbit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334600040448
+    m_Key: turtle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368557125632
+    m_Key: wolf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380817076224
+    m_Key: tiger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 408994410496
+    m_Key: seal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425637408768
+    m_Key: rat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 454469054464
+    m_Key: jaguar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468494807040
+    m_Key: gorila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 484198281216
+    m_Key: giraffe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 503055872000
+    m_Key: frog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522781683712
+    m_Key: dolphin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 541131763712
+    m_Key: bat
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5675428713219227732
+  references:
+    version: 2
+    RefIds:
+    - rid: 5675428713219227732
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1744833740054

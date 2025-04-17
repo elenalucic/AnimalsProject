@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Localization-String-Tables-Croatian (hr)
   m_GUID: 349e0b76a9ad39a47adb15ad7ee03622
   m_SerializeEntries:
+  - m_GUID: 0bbb5cdede42c804ba25b2a79b93106a
+    m_Address: fishScene_hr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 13b98367ccea9b24db6f737638e04fd4
     m_Address: InscetsScene_hr
     m_ReadOnly: 1
@@ -23,6 +29,19 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2e1f2e54d6ed5c3409737dd401c0b308
     m_Address: DomesticScene_hr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64561930bb9c3cb42a2c39c8f7caefe4
+    m_Address: wildScene_hr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70025c556ef6ea54aa55965ad4f66daf
+    m_Address: animalName_hr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr

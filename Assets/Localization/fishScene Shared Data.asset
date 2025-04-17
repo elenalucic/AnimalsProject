@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: fishScene Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: fishScene
+  m_TableCollectionNameGuidString: 7193b15348acd5846829360403ea57a1
+  m_Entries:
+  - m_Id: 34912825344
+    m_Key: amberjack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101522567168
+    m_Key: amur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125077778432
+    m_Key: arapaima
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162465804288
+    m_Key: Archerfish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211786625024
+    m_Key: Barracuda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 258234347520
+    m_Key: Batfish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292048826368
+    m_Key: BelugaFish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332171538432
+    m_Key: BlackRedeye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340035858432
+    m_Key: BlackSpottedGrunt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358830534656
+    m_Key: BlobFish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378355019776
+    m_Key: BlueShark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407551569920
+    m_Key: BlueTang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 414031769600
+    m_Key: BrownTrout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 445874925568
+    m_Key: BullShark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 464623464448
+    m_Key: Butterfly Fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 479500660736
+    m_Key: CarpFish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498689601536
+    m_Key: Clown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522219646976
+    m_Key: ClownTrigger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 546705993728
+    m_Key: Cobia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 618990628864
+    m_Key: CodAtlantic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 647465758720
+    m_Key: CoralGrouper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653170012160
+    m_Key: Corvina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 669687181312
+    m_Key: Crab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696954351616
+    m_Key: CuberaSnapper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713404411904
+    m_Key: Cuttle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 730445869056
+    m_Key: Discus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 738620567552
+    m_Key: ElectricCat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 751937482752
+    m_Key: EmperorAngelfish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 768442068992
+    m_Key: Fangtooth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 825929199616
+    m_Key: Frontosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 833231482880
+    m_Key: GiantSeaBass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 847525670912
+    m_Key: GoliathGrouper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 862537084928
+    m_Key: GreatWhiteShark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 887912624128
+    m_Key: JellyFish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 908645068800
+    m_Key: LongearSunfish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 963200380928
+    m_Key: Marlin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 984880738304
+    m_Key: Moorishldol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001028808704
+    m_Key: Octopus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1016157663232
+    m_Key: Sweetlips
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1031127134208
+    m_Key: Tortoise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047354896384
+    m_Key: Tuna
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5675428713219227735
+  references:
+    version: 2
+    RefIds:
+    - rid: 5675428713219227735
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1744837396202

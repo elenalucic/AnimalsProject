@@ -15,8 +15,23 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Shared
   m_GUID: b0f23abf648ad18488d9be3085a051ab
   m_SerializeEntries:
+  - m_GUID: 27422df67384b474494c7a7c95653bdf
+    m_Address: Assets/Localization/animalName Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49f6b1c564185a148bd03712865968f9
+    m_Address: Assets/Localization/wildScene Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4b6aad45f0bf83148ba8d9ce992d0d17
     m_Address: Assets/Localization/mainMenu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7193b15348acd5846829360403ea57a1
+    m_Address: Assets/Localization/fishScene Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

@@ -1,5 +1,15 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
+
+
+
+public class AnimalInfo
+{
+    public GameObject animalObject;
+    public string displayName;
+}
+
 
 public class AnimalDisplay : MonoBehaviour
 {
@@ -9,7 +19,10 @@ public class AnimalDisplay : MonoBehaviour
     private GameObject currentAnimal;
     private int currentIndex = 0;
 
-  
+    public List<string> animalNames;
+    public TextMeshProUGUI animalNameText;
+
+
     private Dictionary<GameObject, Vector3> originalScales = new Dictionary<GameObject, Vector3>();
 
     void Start()
@@ -38,6 +51,11 @@ public class AnimalDisplay : MonoBehaviour
         currentAnimal.SetActive(true);
         // Postavi originalnu skalu za novu životinju
         currentAnimal.transform.localScale = originalScales[currentAnimal];
+
+        if (animalNameText != null && animalNames != null && currentIndex < animalNames.Count)
+        {
+            animalNameText.text = animalNames[currentIndex];
+        }
     }
 
     public void GoLeft()

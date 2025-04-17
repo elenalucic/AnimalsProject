@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: wildScene_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 49f6b1c564185a148bd03712865968f9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 109529493504
+    m_Localized: Crocodiles are large reptiles that live in rivers, lakes, and swamps.
+      Although they look terrifying, crocodiles are very precise hunters who wait
+      for their prey to approach the water. Throughout history, crocodiles have survived
+      many changes on Earth. Their sharp teeth and powerful jaws help them hunt fish
+      and other animals. They are often seen sunbathing on shores because warmth
+      helps them stay active.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127707607040
+    m_Localized: 'Elephants are the largest land animals in the world. They are known
+      for their large ears and long trunk, which they use to grab food and water.
+      Elephants are extremely intelligent and can recognize other elephants and remember
+      places and events. They live in large family groups and are known for caring
+      for their members, even after death.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146128990208
+    m_Localized: "The hippopotamus, or hippo, is a large, heavy mammal that lives
+      in Africa\u2019s freshwater. Although they seem slow, hippos can run very fast
+      on land. They spend most of their lives in the water to stay cool and avoid
+      the sun. Hippos eat grass and are known for their massive jaws, which they
+      use for defense.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190383091712
+    m_Localized: Lions are known as the "kings of animals" because of their powerful
+      appearance and mighty roar. They live in groups called prides, where females
+      hunt and males protect the territory. Lions are excellent hunters, and their
+      golden-brown fur helps them blend into the savanna. Though known for their
+      strength, lions love to relax and rest, and their roar can be heard from far
+      away.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207491657728
+    m_Localized: Rhinos are heavy animals recognized by their large horns on their
+      noses. Despite their size, they are quite fast and can run at high speeds over
+      short distances. Rhinos are herbivores and spend most of their time grazing
+      on grass. Due to their unique build and endangered status, rhinos are often
+      the focus of wildlife protection efforts.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243130658816
+    m_Localized: Zebras are known for their black and white stripes, which are unique
+      to each individual, like fingerprints. They live in Africa and move in large
+      herds. Their stripes help them camouflage among trees and bushes, protecting
+      them from predators. Zebras are herbivores, and moving in herds helps them
+      deal with environmental threats.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255814234112
+    m_Localized: 'Bears are powerful carnivores, but their diet can include fish,
+      small mammals, fruits, and plants. They live in forests and mountainous areas
+      and are known for hibernating during the winter. Bears are excellent swimmers,
+      and their thick fur protects them from the cold and harsh weather.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269571551232
+    m_Localized: Wild boars are wild pigs that usually live in forests. They have
+      strong bodies and sharp tusks used in fights or for digging the ground. Wild
+      boars are omnivores, meaning they eat both plants and animals. Although they
+      usually avoid humans, they can become aggressive if they feel threatened.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287493812224
+    m_Localized: 'Deer are recognized by their large antlers, which males use in
+      battles for territory or mates. They live in forests, mountains, and meadows,
+      and their antlers grow anew each year. Deer are herbivores and usually eat
+      grass, leaves, and tree bark. In winter, many species of deer migrate to areas
+      with milder climates.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298092818432
+    m_Localized: 'Foxes are small carnivores known for their cleverness and adaptability.
+      They are often found in forests, meadows, and even cities. Foxes are excellent
+      hunters but will also eat fruit, vegetables, and food scraps. Their distinctive
+      red or gray fur helps them blend into the environment.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312898711552
+    m_Localized: 'The hare is a small, fast animal commonly associated with fields
+      and forests. Hares are known for their speed, which can reach up to 72 km/h.
+      They use their large ears to detect sounds and predators. Hares also have incredible
+      jumping abilities, which help them escape danger. They are herbivores and usually
+      feed on grass, roots, and vegetables.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334600040448
+    m_Localized: Turtles are animals known for their hard shells. Interestingly,
+      turtles can live very long lives, with some species living up to 100 years!
+      Turtles are slow movers but can swim very well, especially sea turtles. Though
+      often seen as calm animals, they are highly adaptable and can survive in various
+      habitats. They use their shells as protection from predators.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368557125632
+    m_Localized: "Wolves are strong and social animals that live in packs. They use
+      howling to communicate with other pack members, especially over long distances.
+      Though clever hunters, wolves rarely hunt alone\u2014they usually hunt in groups,
+      allowing them to catch larger prey. Wolves are also known for their excellent
+      sense of direction, which helps them find their way back to their family territory."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380817076224
+    m_Localized: 'Tigers are the largest species of big cats, known for their beautiful
+      stripes. Each tiger''s stripe pattern is unique, just like human fingerprints.
+      Tigers are powerful hunters that use their incredible strength and speed to
+      catch prey. They have good night vision and hunt mostly at night. Though solitary,
+      tigers can be very territorial and mark their area with scent.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 408994410496
+    m_Localized: "Seals are marine mammals that live along ocean coasts. They are
+      well-adapted to life in water\u2014their flippers allow them to swim quickly,
+      and their thick layer of fat keeps them warm in cold water. Seals often sunbathe
+      on the shore and can spend hours lying on rocks. Besides being good swimmers,
+      seals are also very social and live in large colonies."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425637408768
+    m_Localized: "Rats are small rodents that are very adaptable and can live in
+      many different conditions. They have an excellent sense of smell and can detect
+      scents over long distances. Rats are also very smart\u2014they can be trained
+      to perform tricks and routine tasks. Although often associated with filth,
+      rats actually keep their environment clean by chewing objects to maintain sharp
+      teeth.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 454469054464
+    m_Localized: The jaguar is a strong and beautiful cat that lives in the tropical
+      forests of South America. Jaguars have the strongest bite of all big cats,
+      allowing them to hunt large prey like deer. They especially enjoy swimming
+      and often hunt in water, which makes them unique among big cats. Jaguars are
+      often seen as symbols of power in many cultures.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468494807040
+    m_Localized: Gorillas are the largest primates and very social animals. They
+      share nearly identical DNA with humans, making them our closest relatives in
+      the animal world. Gorillas are very intelligent and use tools to complete various
+      tasks. Despite their massive appearance, they are usually peaceful and avoid
+      conflict, preferring a calm life in groups.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 484198281216
+    m_Localized: Giraffes are the tallest land animals, known for their long necks.
+      Interestingly, giraffes have only seven neck vertebrae, just like humans, but
+      theirs are much longer. Giraffes are extremely calm animals that live in groups
+      and often feed on leaves from tall trees. Their long legs allow them to run
+      up to 50 km/h.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 503055872000
+    m_Localized: "Frogs are small amphibians that often live near rivers and lakes.
+      They are known for their incredible jumping ability\u2014some species can jump
+      up to 20 times their body length! Frogs are also very sensitive to environmental
+      changes, making them great indicators of nature\u2019s health. Many species
+      have bright colors as a defense mechanism, warning predators that they might
+      be poisonous."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522781683712
+    m_Localized: Dolphins are highly intelligent marine mammals that live in the
+      ocean. They use their intelligence to communicate and hunt together in groups.
+      Dolphins are known for their acrobatics and playful nature. They can recognize
+      their names and respond to them, much like dogs. Dolphins also help people
+      in danger and are known to assist fishermen and swimmers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 541131763712
+    m_Localized: Bats are the only flying mammals in the world and are extremely
+      helpful in nature. They use echolocation to navigate in the dark and hunt prey.
+      This ability allows them to fly at night without hitting objects. Bats also
+      play a key role in ecosystems by eating large numbers of insects, including
+      mosquitoes that can spread disease.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

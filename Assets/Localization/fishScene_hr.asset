@@ -1,0 +1,374 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: fishScene_hr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hr
+  m_SharedData: {fileID: 11400000, guid: 7193b15348acd5846829360403ea57a1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 34912825344
+    m_Localized: "Amberjak je sna\u017Ena riba koja \u017Eivi u tropskim vodama,
+      poznata po svojoj borbenoj prirodi. Ove ribe mogu plivati nevjerojatnom brzinom,
+      \u0161to im omogu\u0107uje da love brze plijenove. Iako je amberjak meso\u017Eder,
+      \u010Desto se mo\u017Ee vidjeti kako lovi i u stadu, \u0161to ga \u010Dini
+      izuzetno prilagodljivim. Ove ribe su vrlo cijenjene u ribolovu, jer pru\u017Eaju
+      nevjerojatnu borbu kada ih se poku\u0161ava uloviti.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101522567168
+    m_Localized: "Amurski \u0161aran je velika slatkovodna riba koja se \u010Desto
+      nalazi u Aziji. Ove ribe mogu dose\u0107i ogromne veli\u010Dine, s nekim primjerima
+      koji te\u017Ee i do 100 kilograma. Najpoznatiji su po tome \u0161to su biljci
+      koji se hrane biljkama, a njihove duge peraje \u010Dine ih impresivnim pliva\u010Dima.
+      \u0160arani su popularni me\u0111u ribarima jer se lako uzgajaju, a njihovo
+      meso vrlo je tra\u017Eeno u kuhinji."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125077778432
+    m_Localized: "Arapajma je jedna od najve\u0107ih slatkovodnih riba na svijetu,
+      koja mo\u017Ee narasti do impresivnih 3 metra du\u017Eine. Ova riba je poznata
+      po svojoj borbenoj naravi i nevjerojatnoj snazi. \u017Divi u amazonskim rijekama
+      i predstavlja va\u017Ean dio ekosustava, jer lovi razne vrste manjih riba i
+      vodene \u017Eivotinje. Zbog svoje veli\u010Dine, arapajma je uvijek predmet
+      fascinacije me\u0111u ljubiteljima ribolova i biolozima.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162465804288
+    m_Localized: "Strijelac je rijetka riba koja \u017Eivi u tropskim morima i poznata
+      je po svom karakteristi\u010Dnom izgledu i zanimljivim pona\u0161anjima. Zanimljivo
+      je da strijelac koristi svoje velike, o\u0161tre peraje kako bi lovio plijen,
+      te je tako\u0111er brz pliva\u010D. Ove ribe obi\u010Dno tra\u017Ee zaklon
+      u koraljnim grebenima i dubokim vodama. \u010Cesto se hrane manjim ribama,
+      ali se mogu prilagoditi i raznim drugim vrstama hrane koje na\u0111u u svojoj
+      okolini."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211786625024
+    m_Localized: "Barakuda je veliki grabe\u017Eljivac koji lovi prete\u017Eno na
+      manjoj ribi u tropskim morima. Ima izuzetno o\u0161tar vid, koji joj omogu\u0107ava
+      da uo\u010Di plijen na velikim udaljenostima, \u010Dak i u mutnoj vodi. Barakude
+      su poznate po tome \u0161to love u brzom i iznenadnom napadu, koriste\u0107i
+      svoju brzinu kako bi uhvatile plijen. Njihov izdu\u017Eeni oblik tijela i o\u0161tri
+      zubi omogu\u0107uju im da budu efikasni lovci u moru."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 258234347520
+    m_Localized: "Riba \u0161i\u0161mi\u0161 je zanimljiva vrsta koja je prepoznatljiva
+      po svom izdu\u017Eenom tijelu i finskoj strukturi koja podsje\u0107a na krila
+      \u0161i\u0161mi\u0161a. Ove ribe nastanjuju morska dna, gdje se kre\u0107u
+      na dnu i hrane se manjim ribama i beskralje\u017Enjacima. Zanimljivo je da
+      riba \u0161i\u0161mi\u0161 koristi svoje peraje za stvaranje pokreta koji nalikuju
+      letenju, \u010Dime je dobila svoje ime."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292048826368
+    m_Localized: "Jesetra beluga je ogromna riba koja \u017Eivi u rijekama i morima
+      Europe i Azije. Zanimljivo je da ove ribe mogu narasti do ogromnih veli\u010Dina,
+      \u010Dak do 6 metara u du\u017Einu. Jesetre su poznate po tome \u0161to se
+      hrane planktonom i manjim ribama, a njihova jaja su me\u0111u najskupljim na
+      svijetu \u2013 cijenjeni su zbog kaviara koji se proizvodi od njih. Zbog svoje
+      veli\u010Dine, ove ribe su u pro\u0161losti bile predmet lova, ali danas su
+      za\u0161ti\u0107ene zbog svoje ugro\u017Eenosti.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332171538432
+    m_Localized: "Crvenooka riba je poznata po svojim svijetlim, crvenim o\u010Dima
+      koje joj omogu\u0107uju da bolje vidi u mutnoj vodi. \u017Divi u rijekama i
+      jezerima, gdje se hrani planktonom i manjim ribama. Zanimljivo je da crvenooka
+      riba ima posebne adaptacije za pre\u017Eivljavanje u slatkim vodama, a njezino
+      ime dolazi od jedinstvene boje o\u010Diju. \u010Cesto je prepoznaju zbog svojih
+      o\u010Diju, koje stvaraju sna\u017Ean kontrast s ostatkom tijela."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340035858432
+    m_Localized: "Crno\u0161arena grunt riba je poznata po svom karakteristi\u010Dnom
+      izgledu, koji uklju\u010Duje mje\u0161avinu tamnih i svijetlih boja na njezinom
+      tijelu. \u017Divi u plitkim tropskim vodama, gdje se hrani planktonom i malim
+      ribama. Zanimljivo je da ove ribe koriste svoje peraje kako bi se kretale du\u017E
+      morskog dna, a njihova tamna boja poma\u017Ee im da se bolje kamufliraju od
+      predatora.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358830534656
+    m_Localized: "Blob riba je neobi\u010Dna i pomalo zastra\u0161uju\u0107a riba
+      koja je poznata po svom mekom, \u017Eelatinoznom tijelu. Ove ribe nastanjuju
+      duboka mora, gdje \u017Eive u potpunoj tami. Zbog svog izgleda, \u010Desto
+      se nazivaju \"najru\u017Enijom ribom na svijetu\". Iako izgledaju neprivla\u010Dno,
+      blob ribe su vrlo prilagodljive i mogu pre\u017Eivjeti u uvjetima u kojima
+      mnoge druge vrste ne bi izdr\u017Eale.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378355019776
+    m_Localized: "Plava psina je vrsta morske pse koja je vrlo brza i izdr\u017Eljiva.
+      \u017Divi u tropskim morima, a poznata je po svom o\u0161trom izgledu i izuzetnoj
+      sposobnosti za lov. Plave psine \u010Desto love u \u010Doporima, jer im to
+      omogu\u0107uje ve\u0107u u\u010Dinkovitost u pronala\u017Eenju hrane. Zanimljivo
+      je da plave psine mogu plivati izuzetno brzo, \u0161to im omogu\u0107uje da
+      ulove brze plijenove."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407551569920
+    m_Localized: "Plavi tang je riba koja je poznata po svojoj \u017Eivopisnoj plavoj
+      boji. \u017Divi u tropskim morima i \u010Desto se vi\u0111a me\u0111u koraljima,
+      gdje tra\u017Ei hranu. Zanimljivo je da plavi tang koristi svoje o\u0161tre
+      bodlje za obranu od predatora, a njegovo svijetlo plavo tijelo poma\u017Ee
+      mu u kamufla\u017Ei. Ove ribe su poznate po svojoj aktivnoj i veseloj prirodi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 414031769600
+    m_Localized: "Poto\u010Dna pastrva je riba koja \u017Eivi u hladnim planinskim
+      rijekama i poznata je po svojoj ljepoti i brzini. Ove ribe obi\u010Dno love
+      u brzim vodama, gdje mogu iskoristiti svoju agilnost kako bi uhvatile plijen.
+      Poto\u010Dne pastrve su vrlo popularne me\u0111u ribolovcima, jer su poznate
+      po svojoj borbenoj naravi kada se love. Tako\u0111er, njihov mesnat okus \u010Dini
+      ih popularnim u gastronomiji."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 445874925568
+    m_Localized: "Bikovska psina je velika vrsta morskog psa koja se \u010Desto nalazi
+      u tropskim vodama. Zanimljivo je da ove psine mogu narasti do velikih veli\u010Dina
+      i vrlo su mo\u0107ni lovci. Imaju vrlo \u0161iroku glavu koja im omogu\u0107uje
+      da lak\u0161e love plijen, a poznate su po tome \u0161to se povremeno kre\u0107u
+      i u plitkim vodama. Iako su \u010Desto agresivne, bikovske psine rijetko napadaju
+      ljude, osim ako se osje\u0107aju ugro\u017Eenima."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 464623464448
+    m_Localized: "Kitnjasta riba leptir je tropska riba koja je poznata po svojoj
+      neobi\u010Dnoj boji i obliku tijela, koji podsje\u0107a na leptira. Ove ribe
+      se \u010Desto nalaze u koraljnim grebenima gdje se hrane planktonom i malim
+      ribama. Zanimljivo je da njihovo tijelo ima oblik koji im poma\u017Ee da se
+      sakriju me\u0111u koraljima, \u010Dime izbjegavaju predatore.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 479500660736
+    m_Localized: "\u0160aran je slatkovodna riba koja se \u010Desto nalazi u rijekama,
+      jezerima i ribnjacima. Poznati su po tome \u0161to su vrlo izdr\u017Eljive
+      i lako se prilago\u0111avaju razli\u010Ditim uvjetima u vodi. Zanimljivo je
+      da \u0161arani mogu \u017Eivjeti dugi niz godina, pa su \u010Desto predmet
+      ribolova. U nekim kulturama, \u0161arani se smatraju simbolima sre\u0107e i
+      prosperiteta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498689601536
+    m_Localized: "Klaun riba je poznata po svom jarkom naran\u010Dastom tijelu s
+      crnim prugama, \u0161to je \u010Dini lako prepoznatljivom. \u017Divi u tropskim
+      morima, gdje je \u010Desta me\u0111u koraljnim grebenima. Klaun ribe imaju
+      simbiotski odnos s morskim anemonama, gdje se skrivaju u njezinim dla\u010Dicama
+      kako bi se za\u0161titile od predatora, a zauzvrat poma\u017Eu anemoni \u010Distiti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522219646976
+    m_Localized: "Klaun triger riba je izuzetno \u0161arena riba koja je poznata
+      po svojoj sposobnosti da se \"zaklju\u010Da\" u \u0161upljine koraljnih grebena.
+      Zbog o\u0161trih bodlji na le\u0111ima, triger ribe mogu se u\u010Dinkovito
+      obraniti od predatora. Ove ribe tako\u0111er imaju vrlo agresivan temperament,
+      osobito kada brane svoj teritorij, \u0161to ih \u010Dini zanimljivima za promatranje.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 546705993728
+    m_Localized: "Kobija je vrsta ribe koja \u017Eivi u tropskim i subtropskim morima.
+      Ove ribe poznate su po svojoj dugoj, vitkoj formi i sposobnosti da plivaju
+      vrlo brzo. Zanimljivo je da kobije imaju vrlo o\u0161tar i dug jezik kojim
+      love plijen, a \u010Desto se hrane manjim ribama i rakovima."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 618990628864
+    m_Localized: "Koraljni \u0161karpina je vrsta ribe koja nastanjuje koralne grebene
+      i poznata je po svom svijetlom tijelu koje se spaja s okolnim koraljima. Ove
+      ribe su izvrstan predator, jer se hrane malim ribama i beskralje\u017Enjacima
+      koje love me\u0111u koraljima. Zanimljivo je da koraljni \u0161karpini imaju
+      vrlo sna\u017Ene \u010Deljusti koje im omogu\u0107uju da lako razbiju \u0161koljke
+      i druge tvrde objekte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 647465758720
+    m_Localized: "Koraljni \u0161karpina je vrsta ribe koja nastanjuje koralne grebene
+      i poznata je po svom svijetlom tijelu koje se spaja s okolnim koraljima. Ove
+      ribe su izvrstan predator, jer se hrane malim ribama i beskralje\u017Enjacima
+      koje love me\u0111u koraljima. Zanimljivo je da koraljni \u0161karpini imaju
+      vrlo sna\u017Ene \u010Deljusti koje im omogu\u0107uju da lako razbiju \u0161koljke
+      i druge tvrde objekte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 669687181312
+    m_Localized: "Rakovi su beski\u010Dmenjaci koji \u017Eive u moru, slatkovodnim
+      rijekama i na kopnu. Zanimljivo je da rakovi mogu hodati unazad koriste\u0107i
+      svoje sna\u017Ene noge. Tako\u0111er, mnoge vrste rakova imaju tvrde ljuske
+      koje ih \u0161tite od predatora, a kada se osjete ugro\u017Eenima, \u010Desto
+      se povuku u svoje skloni\u0161te."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653170012160
+    m_Localized: "Korvina je vrsta ribe koja se nalazi u tropskim morima, gdje lovi
+      manje ribe i plankton. Zanimljivo je da korvina koristi svoju izuzetnu brzinu
+      kako bi uhvatila svoj plijen, a \u010Desto se skriva me\u0111u kamenjem i koraljima
+      dok ne prona\u0111e svoju \u017Ertvu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696954351616
+    m_Localized: "Kubera luc je vrsta velikih riba koje se nalaze u tropskim morima,
+      a poznate su po svojoj veli\u010Dini i snazi. Zanimljivo je da ove ribe mogu
+      dose\u0107i veli\u010Dine do 2 metra, a \u010Desto se hrane drugim ribama i
+      rakovima. Kubera luc je vrlo cijenjena u sportskom ribolovu zbog svoje borbenosti.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713404411904
+    m_Localized: "Sipa je vrsta glavono\u017Eaca koja je poznata po svojoj sposobnosti
+      da mijenja boje kako bi se prikrila od predatora. Zanimljivo je da sipa koristi
+      tu sposobnost kako bi se za\u0161titila u svom okru\u017Eenju. Osim toga, sipa
+      ima inkontinenciju tinte, koju koristi kao oblak za maskiranje i bijeg.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 730445869056
+    m_Localized: "Diskus riba je popularna akvarijska riba poznata po svom okruglom
+      obliku i \u017Eivopisnim bojama. Ove ribe obi\u010Dno \u017Eive u slatkim vodama
+      rijeka u Ju\u017Enoj Americi, gdje se hrane planktonom i malim riba. Diskus
+      ribe su vrlo osjetljive na kvalitetu vode, pa im je potrebno vrlo specifi\u010Dno
+      okru\u017Eenje za \u017Eivot.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 738620567552
+    m_Localized: "Elektri\u010Dna soma je riba koja koristi elektri\u010Dne impulse
+      za lov i komunikaciju. Ove ribe proizvode elektri\u010Dnu energiju pomo\u0107u
+      posebnih organa smje\u0161tenih u tijelu. Elektri\u010Dna soma koristi ovu
+      energiju za paraliziranje plijena i obranu od predatora. Zanimljivo je da elektri\u010Dna
+      soma mo\u017Ee proizvesti dovoljno elektri\u010Dne energije da onesposobi druge
+      ribe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 751937482752
+    m_Localized: "Carski an\u0111eo je tropska riba koja se prepoznaje po svojim
+      jarkim bojama i elegantnim perajama. \u017Divi u koraljnim grebenima, gdje
+      se hrani planktonom i malim ribama. Zanimljivo je da carski an\u0111eo ima
+      simboli\u010Dko zna\u010Denje u mnogim kulturama, gdje je povezivan s mirom
+      i za\u0161titom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 768442068992
+    m_Localized: "Vampirska riba je poznata po svom neobi\u010Dnom na\u010Dinu hranjenja.
+      Ove ribe obi\u010Dno love tako da se hrane krvlju drugih riba ili \u017Eivotinja,
+      \u0161to im omogu\u0107uje da pre\u017Eive u svom okoli\u0161u. Vampirske ribe
+      imaju o\u0161tre zube i usne koje im omogu\u0107uju da pri\u010Dvrste plijen
+      i po\u010Dnu sisati krv. Iako su poznate po svom zastra\u0161uju\u0107em imenu,
+      vampirske ribe nisu opasne za ljude."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 825929199616
+    m_Localized: "Frontosa je vrsta ribe koja je poznata po svom velikom, izbo\u010Denom
+      \u010Delu. Ove ribe \u017Eive u slatkovodnim jezerima, a svojim izgledom podsje\u0107aju
+      na predatore. Zanimljivo je da frontose imaju vrlo agresivnu prirodu i \u010Desto
+      brane svoj teritorij od drugih riba. Uprkos tome, one mogu biti vrlo zanimljive
+      za akvariste zbog svoje jedinstvene boje i karakteristika."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 833231482880
+    m_Localized: "Divovski morski bas je ogromna riba koja \u017Eivi u dubokim morima.
+      Poznati su po svom velikom tijelu i nevjerojatnoj snazi. Divovski morski basovi
+      mogu dose\u0107i nevjerojatne veli\u010Dine, a njihovo meso je \u010Desto cijenjeno
+      u ribarskim zajednicama. Ove ribe su tako\u0111er vrlo vje\u0161tice u lovu
+      i koriste svoju snagu kako bi uhvatile plijen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 847525670912
+    m_Localized: "Goliat \u0161karpina je najve\u0107a vrsta \u0161karpine koja \u017Eivi
+      u tropskim morima. Poznata je po svojoj impozantnoj veli\u010Dini i izuzetnoj
+      borbenosti. Ove ribe \u010Desto love velike plijenove, a njihove \u010Deljusti
+      su toliko sna\u017Ene da mogu razbiti kamen\u010Di\u0107e. Zanimljivo je da
+      goliat \u0161karpina mo\u017Ee dosti\u0107i veli\u010Dinu od \u010Dak 2 metra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 862537084928
+    m_Localized: "Velika bijela psina je jedna od najslavnijih morskih pasa zbog
+      svoje veli\u010Dine i mo\u0107i. Poznata je po tome \u0161to mo\u017Ee narasti
+      do impresivnih veli\u010Dina i ima nevjerojatnu snagu ugriza. Velike bijele
+      psine su predatori koji love ve\u0107e \u017Eivotinje, uklju\u010Duju\u0107i
+      morske sisavce. Zanimljivo je da ove psine mogu pre\u017Eivjeti u razli\u010Ditim
+      uvjetima, \u0161to ih \u010Dini jednim od najopasnijih predatora u oceanu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 887912624128
+    m_Localized: "Meduze su fascinantne \u017Eivotinje koje lebde u moru i poznate
+      su po svojim dugim, vise\u0107im ticalima. Iako izgledaju mirno, meduze mogu
+      biti vrlo opasne zbog svojih otrovnih ticala koja koriste za lov. Zanimljivo
+      je da meduze nemaju mozak, srce ni kosti, ali su vrlo uspje\u0161ne u svom
+      na\u010Dinu \u017Eivota jer koriste jednostavnu taktiku za pre\u017Eivljavanje."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 908645068800
+    m_Localized: "Sun\u010Danica dugouha je riba koja je poznata po svojoj nevjerojatnoj
+      sposobnosti da se prilagodi raznim uvjetima u vodi. Ova riba je vrlo spretna
+      i koristi svoju duguljastu tijelo da se brzo kre\u0107e kroz vodu. Zanimljivo
+      je da sun\u010Danice dugouhe \u010Desto migriraju na velike udaljenosti, a
+      njihove jake peraje omogu\u0107uju im da se kre\u0107u brzo i u\u010Dinkovito."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 963200380928
+    m_Localized: "Marlin je velika i sna\u017Ena riba koja je poznata po svojim duga\u010Dkim,
+      o\u0161trim kljunovima. Ove ribe mogu dose\u0107i velike brzine i koriste svoju
+      snagu kako bi lovile ve\u0107e plijenove. Marlin je tako\u0111er vrlo cijenjena
+      u sportskom ribolovu, jer pru\u017Ea izazov ribarima koji \u017Eele uhvatiti
+      ovu impresivnu ribu. Zanimljivo je da marlin koristi svoj kljun kao oru\u017Eje
+      u lovu, s njim udaraju\u0107i i ometaju\u0107i plijen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 984880738304
+    m_Localized: "Idol riba je tropska riba koja je prepoznatljiva po svojim \u0161arenim
+      perajama i elegantnom izgledu. Ove ribe \u017Eive u koraljnim grebenima i hrane
+      se planktonom. Idol ribe su vrlo mirne i \u010Desto se nalaze u blizini koraljnih
+      struktura gdje se skrivaju od predatora. Zanimljivo je da idol ribe \u010Desto
+      koriste svoju boju za maskiranje u bogatom okru\u017Eenju grebena."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001028808704
+    m_Localized: "Hobotnice su fascinantne \u017Eivotinje poznate po svojoj iznimnoj
+      sposobnosti da mijenjaju boje i teksture ko\u017Ee kako bi se kamuflirale u
+      svom okoli\u0161u. Hobotnice imaju osam sna\u017Enih krakova na kojima se nalaze
+      brojne sisaljke koje im poma\u017Eu u lovu i kretanju. Zanimljivo je da hobotnice
+      imaju izuzetnu inteligenciju, pa se mogu koristiti razli\u010Ditim alatima
+      i \u010Dak rje\u0161avati slo\u017Eene zadatke. Osim toga, hobotnice su majstori
+      bijega i mogu se skloniti kroz vrlo male otvore.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1016157663232
+    m_Localized: "Slatkousta riba je poznata po svom jedinstvenom obliku tijela i
+      sposobnosti da se hrani planktonom. Ove ribe su obi\u010Dno male i vrlo su
+      osjetljive na promjene u kvaliteti vode. Slatkouste ribe \u010Desto \u017Eive
+      u \u010Distim, bogatim vodama, gdje se hrane malim organizmima. Zanimljivo
+      je da ove ribe imaju vrlo osjetljiv osjetilni sustav, pa mogu prepoznati opasnost
+      i br\u017Ee reagirati na promjene u okoli\u0161u."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1031127134208
+    m_Localized: "Kopnene kornja\u010De su poznate po svom tvrdim oklopima koji ih
+      \u0161tite od predatora. Ove \u017Eivotinje \u017Eive na kopnu i \u010Desto
+      se nalaze u suhim, kamenitim podru\u010Djima. Zanimljivo je da kopnene kornja\u010De
+      mogu \u017Eivjeti vrlo dugo, a neke vrste \u010Dak i vi\u0161e od 100 godina.
+      Iako se kre\u0107u polako, kopnene kornja\u010De su vrlo izdr\u017Eljive i
+      mogu pre\u017Eivjeti u te\u0161kim uvjetima.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047354896384
+    m_Localized: "Tuna je brza i sna\u017Ena riba koja mo\u017Ee plivati velikim
+      brzinama i prelaziti velike udaljenosti. Poznata je po svojoj komercijalnoj
+      va\u017Enosti u ribarstvu, jer je vrlo cijenjena kao izvor hrane. Zanimljivo
+      je da tuna mo\u017Ee plivati na velike dubine i mijenjati brzinu kako bi izbjegla
+      predatore. Tu su jo\u0161 mnoge vrste tune koje se nalaze u razli\u010Ditim
+      dijelovima svijeta.\r\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

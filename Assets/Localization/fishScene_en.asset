@@ -1,0 +1,345 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: fishScene_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7193b15348acd5846829360403ea57a1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 34912825344
+    m_Localized: 'Amberjack is a powerful fish that lives in tropical waters, known
+      for its fighting nature. These fish can swim incredibly fast, which helps them
+      catch swift prey. Although amberjacks are carnivorous, they often hunt in groups,
+      making them highly adaptable. They are highly valued in sport fishing because
+      of the incredible fight they give when hooked.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101522567168
+    m_Localized: The Amur carp is a large freshwater fish commonly found in Asia.
+      These fish can grow to massive sizes, with some reaching up to 100 kilograms.
+      They are herbivores and feed on plants, and their long fins make them impressive
+      swimmers. Carps are popular among fishers because they are easy to breed, and
+      their meat is highly appreciated in cooking.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125077778432
+    m_Localized: 'Arapaima is one of the largest freshwater fish in the world, growing
+      up to an impressive 3 meters in length. This fish is known for its strength
+      and aggressive nature. It lives in the Amazon River and plays an important
+      role in the ecosystem by hunting various smaller fish and aquatic animals.
+      Due to its size, the arapaima fascinates both anglers and biologists.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162465804288
+    m_Localized: 'The archerfish is a rare tropical fish known for its unique appearance
+      and interesting behavior. It uses its large, sharp fins to hunt prey and is
+      also a fast swimmer. These fish usually seek shelter in coral reefs and deep
+      waters. They typically feed on small fish but can adapt to other food sources
+      found in their environment.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211786625024
+    m_Localized: 'Barracuda is a large predator that hunts mostly smaller fish in
+      tropical seas. It has extremely sharp vision, allowing it to spot prey from
+      far away, even in murky water. Barracudas are known for their fast and sudden
+      attacks, using their speed to catch prey. Their elongated bodies and sharp
+      teeth make them efficient marine hunters.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 258234347520
+    m_Localized: Batfish is a unique-looking species with an elongated body and fin
+      structures that resemble bat wings. These fish live on the ocean floor, where
+      they move around and feed on small fish and invertebrates. Interestingly, the
+      batfish uses its fins to make flying-like movements, which is how it got its
+      name.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292048826368
+    m_Localized: "The beluga sturgeon is a massive fish found in rivers and seas
+      of Europe and Asia. It can grow up to 6 meters long. These fish feed on plankton
+      and small fish, and their eggs are among the most expensive in the world \u2013
+      used to make prized caviar. Due to overfishing, beluga sturgeon are now protected."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332171538432
+    m_Localized: 'The redeye fish is known for its bright red eyes, which help it
+      see better in murky water. It lives in rivers and lakes, feeding on plankton
+      and small fish. Its special adaptations allow it to survive in freshwater,
+      and its name comes from its distinct eye color.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340035858432
+    m_Localized: This fish is recognized by its unique body coloring, which includes
+      a mix of dark and light tones. It lives in shallow tropical waters and feeds
+      on plankton and small fish. It uses its fins to move along the sea bottom,
+      and its dark color helps it blend in with surroundings to avoid predators.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358830534656
+    m_Localized: "Blobfish is a bizarre, somewhat scary-looking fish known for its
+      soft, jelly-like body. It lives in the deep sea, in complete darkness. Often
+      called \u201Cthe ugliest fish in the world,\u201D it is actually very adaptable
+      and can survive in extreme underwater conditions where few others can."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378355019776
+    m_Localized: The blue shark is a fast and durable species of shark found in tropical
+      seas. It is known for its sleek appearance and great hunting abilities. Blue
+      sharks often hunt in packs, making them more efficient at finding food. Their
+      high swimming speed helps them catch swift prey.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407551569920
+    m_Localized: 'The blue tang is known for its vivid blue color. It lives in tropical
+      seas, usually around coral reefs. It uses its sharp spines for protection from
+      predators, and its bright blue body helps with camouflage. These fish are known
+      for their active and lively nature.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 414031769600
+    m_Localized: Brook trout lives in cold mountain streams and is admired for its
+      beauty and speed. These fish hunt in fast waters, using their agility to catch
+      prey. Brook trout are popular among anglers for their fight and also appreciated
+      in cuisine for their flavorful meat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 445874925568
+    m_Localized: Bull sharks are large species of sharks commonly found in tropical
+      waters. They can grow to great sizes and are powerful hunters. Their wide heads
+      help them better hunt prey, and they are known to sometimes swim into shallow
+      waters. Although often aggressive, bull sharks rarely attack humans unless
+      provoked.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 464623464448
+    m_Localized: 'This tropical fish is known for its bright colors and butterfly-shaped
+      body. Found around coral reefs, it feeds on plankton and small fish. Its body
+      shape helps it hide among corals, avoiding predators.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 479500660736
+    m_Localized: Carp is a freshwater fish found in rivers, lakes, and ponds. It
+      is known for being hardy and adaptable to different water conditions. Carps
+      can live many years and are often targeted in fishing. In some cultures, they
+      symbolize luck and prosperity.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498689601536
+    m_Localized: Clownfish are easily recognized by their bright orange bodies with
+      black stripes. They live in tropical seas and are often seen among coral reefs.
+      Clownfish have a symbiotic relationship with sea anemones, hiding in their
+      tentacles for protection while helping keep the anemones clean.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522219646976
+    m_Localized: "This highly colorful fish is known for its ability to \u201Clock\u201D
+      itself into coral crevices using sharp dorsal spines. With an aggressive temperament,
+      especially when protecting its territory, the clown triggerfish is fascinating
+      to observe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 546705993728
+    m_Localized: Cobia is a fish found in tropical and subtropical seas. It has a
+      long, sleek body and can swim very fast. Cobia uses its long, sharp tongue
+      to catch prey, mostly feeding on smaller fish and crabs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 647465758720
+    m_Localized: 'Coral grouper lives in coral reefs and is known for its bright
+      body that blends with surrounding coral. It is a skilled predator, feeding
+      on small fish and invertebrates. Its strong jaws allow it to crush shells and
+      other hard objects.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 618990628864
+    m_Localized: 'Coral grouper lives in coral reefs and is known for its bright
+      body that blends with surrounding coral. It is a skilled predator, feeding
+      on small fish and invertebrates. Its strong jaws allow it to crush shells and
+      other hard objects.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653170012160
+    m_Localized: 'Corvina is a fish found in tropical seas, where it hunts small
+      fish and plankton. It uses its great speed to catch prey and often hides among
+      rocks and corals while waiting for the right moment to strike.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 669687181312
+    m_Localized: 'Crabs are invertebrates that live in the sea, freshwater rivers,
+      and on land. Interestingly, crabs can walk backward using their strong legs.
+      Many crab species have hard shells that protect them from predators. When threatened,
+      they often retreat into shelters.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696954351616
+    m_Localized: Cubera snapper is a large fish found in tropical seas, known for
+      its size and strength. It can grow up to 2 meters and feeds on other fish and
+      crabs. Highly valued in sport fishing for its fighting spirit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713404411904
+    m_Localized: 'Cuttlefish is a type of cephalopod known for its ability to change
+      color to camouflage from predators. It uses this skill for protection and also
+      has an ink sac that releases a dark cloud to escape danger.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 730445869056
+    m_Localized: 'Discus fish is a popular aquarium fish known for its round shape
+      and vibrant colors. It lives in South American freshwater rivers and feeds
+      on plankton and small fish. Sensitive to water quality, discus fish require
+      a very specific environment to thrive.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 738620567552
+    m_Localized: Electric catfish uses electric impulses to hunt and communicate.
+      It generates electricity through special organs in its body. This energy can
+      paralyze prey and defend against predators. Some can generate enough electricity
+      to disable other fish.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 751937482752
+    m_Localized: 'This tropical fish is recognized by its bright colors and elegant
+      fins. It lives in coral reefs and feeds on plankton and small fish. The emperor
+      angelfish holds symbolic meaning in some cultures, representing peace and protection.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 768442068992
+    m_Localized: Vampire fish are known for their unusual feeding method. They often
+      feed on the blood of other fish or animals, using sharp teeth and suction lips.
+      Despite their scary name, they are not dangerous to humans.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 825929199616
+    m_Localized: 'Frontosa is a freshwater fish known for its large, protruding forehead.
+      Found in lakes, they appear predator-like and often defend their territory.
+      Their striking colors and unique features make them popular among aquarium
+      enthusiasts.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 833231482880
+    m_Localized: 'The giant sea bass is a massive fish that lives in deep seas. Known
+      for its size and strength, it can grow to impressive lengths and is valued
+      in fishing communities. It uses its power to catch prey effectively.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 847525670912
+    m_Localized: "The Goliath grouper is the largest grouper species, living in tropical
+      seas. It\u2019s famous for its enormous size and fierce nature. These fish
+      often hunt large prey, and their jaws are strong enough to crush shells and
+      even rocks."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 862537084928
+    m_Localized: The great white shark is one of the most famous sharks due to its
+      size and power. It can grow to incredible lengths and has a tremendous bite
+      force. Great whites hunt large animals, including marine mammals, and are among
+      the top predators in the ocean.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 887912624128
+    m_Localized: 'Jellyfish are fascinating creatures that float through the sea,
+      known for their long tentacles. Though they seem peaceful, jellyfish can be
+      dangerous due to their stinging cells, used to catch prey. They lack brains,
+      hearts, and bones, but are extremely effective survivors.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 908645068800
+    m_Localized: 'This fish is known for its amazing adaptability in various water
+      conditions. It has an elongated body that helps it move quickly through the
+      water. It often migrates long distances and has strong fins that allow for
+      efficient swimming.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 963200380928
+    m_Localized: Marlin is a large and powerful fish recognized by its long, sharp
+      bill. It can reach high speeds and uses its strength to hunt large prey. Highly
+      prized in sport fishing, marlin uses its bill as a weapon, striking and disturbing
+      its target.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 984880738304
+    m_Localized: The Moorish idol is a tropical fish known for its colorful fins
+      and graceful appearance. Found in coral reefs, it feeds on plankton and often
+      hides among corals to avoid predators. Its coloration helps it blend into the
+      reef environment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001028808704
+    m_Localized: Octopuses are fascinating creatures known for their incredible ability
+      to change skin color and texture to camouflage. They have eight strong arms
+      lined with suckers, which help in hunting and movement. Extremely intelligent,
+      octopuses can use tools and solve complex problems. They are also escape artists,
+      able to slip through tiny gaps.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1016157663232
+    m_Localized: The sweetlips fish is known for its unique body shape and feeding
+      on plankton. These small, sensitive fish live in clean, nutrient-rich waters.
+      Their sensitive sensory system helps detect danger and respond quickly to changes
+      in the environment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1031127134208
+    m_Localized: Land tortoises are known for their hard shells, which protect them
+      from predators. They live in dry, rocky areas and can live over 100 years.
+      Though slow, they are very resilient and can survive in harsh environments.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047354896384
+    m_Localized: "Tuna is a fast and powerful fish that can swim at high speeds and
+      travel long distances. It\u2019s valued commercially for food and can dive
+      deep to escape predators. Many tuna species are found across the world\u2019s
+      oceans."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

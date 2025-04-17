@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: wildScene_hr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hr
+  m_SharedData: {fileID: 11400000, guid: 49f6b1c564185a148bd03712865968f9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 109529493504
+    m_Localized: "Krokodili su veliki gmazovi koji \u017Eive u rijekama, jezerima
+      i mo\u010Dvarama. Iako izgledaju stra\u0161no, krokodili su vrlo precizni lovci
+      koji \u010Dekaju da njihov plijen do\u0111e do vode. Kroz cijelu povijest,
+      krokodili su pre\u017Eivjeli mnoge promjene na Zemlji, a njihove o\u0161tre
+      zube i sna\u017Ena \u010Deljust poma\u017Eu im u lovu na ribu i druge \u017Eivotinje.
+      \u010Cesto se mogu vidjeti kako sun\u010Daju svoje tijelo na obalama jer im
+      toplina poma\u017Ee da budu aktivni.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127707607040
+    m_Localized: "Slonovi su najve\u0107e kopnene \u017Eivotinje na svijetu. Poznati
+      su po svojim velikim u\u0161ima i duga\u010Dkom nosu, poznatom kao surla, kojom
+      mogu dohvatiti hranu i vodu. Slonovi su izuzetno pametni i mogu prepoznavati
+      druge slonove te pamtiti mjesta i doga\u0111aje. \u017Dive u velikim obiteljskim
+      skupinama, a poznati su i po tome \u0161to se brinu za svoje \u010Dlanove,
+      \u010Dak i nakon \u0161to umru."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146128990208
+    m_Localized: "Nilski konj, ili hipopotam, veliki je, te\u0161ki sisavac koji
+      \u017Eivi u slatkim vodama Afrike. Iako izgledaju sporo, nilski konji mogu
+      tr\u010Dati izuzetno brzo na kopnu. Ve\u0107i dio svog \u017Eivota provode
+      u vodi, gdje se hlade i skrivaju od sun\u010Danja. Nilski konji se hrane travom,
+      a poznati su po svojim ogromnim \u010Deljustima, koje koriste za obranu.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190383091712
+    m_Localized: "Lave su poznate kao \"kraljevi \u017Eivotinja\" zbog svog sna\u017Enog
+      izgledu i mo\u0107nog re\u017Eanja. \u017Dive u skupinama zvanim \u010Doporima,
+      gdje \u017Eenke love, a mu\u017Ejaci \u010Duvaju teritorij. Lavi su izvrsni
+      lovci, a njihovo zlato-sme\u0111e krzno poma\u017Ee im da se kamufliraju u
+      savani. \u010Cak iako su poznati po svojoj snazi, lave vole provoditi puno
+      vremena u opu\u0161tanju, a njihov re\u017Eanj mo\u017Ee se \u010Duti na velikim
+      udaljenostima."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207491657728
+    m_Localized: "Nosorozi su te\u0161ke \u017Eivotinje koje prepoznajemo po njihovim
+      velikim rogovima na nosu. Unato\u010D svom te\u017Einom, oni su prili\u010Dno
+      brzi i mogu tr\u010Dati velikim brzinama na kratkim udaljenostima. Nosorozi
+      su biljojedi i ve\u0107inu svog vremena provode pasu\u0107i travu. Zbog svoje
+      jedinstvene gra\u0111e i ugro\u017Eenosti, nosorozi su \u010Desto tema za\u0161tite
+      \u017Eivotinja i o\u010Duvanja.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243130658816
+    m_Localized: "Zebre su poznate po svojim crno-bijelim prugama koje su jedinstvene
+      za svaku zebru, kao otisak prsta. \u017Dive u Africi, gdje se kre\u0107u u
+      velikim krdima. Pruge zebri poma\u017Eu da se kamuflira me\u0111u drve\u0107em
+      i grmljem, a tako se \u0161titi od predatora. Zebre su biljojedi, a njihov
+      na\u010Din kretanja u \u010Doporima poma\u017Ee im da se nose s prijetnjama
+      iz okoli\u0161a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255814234112
+    m_Localized: "Medvjedi su sna\u017Eni meso\u017Ederi, ali njihova prehrana mo\u017Ee
+      biti raznolika, od ribe i malih sisavaca do plodova i biljaka. \u017Dive u
+      \u0161umama i planinskim podru\u010Djima, a poznati su po tome \u0161to zimi
+      spavaju dug zimski san. Medvjedi su izvrsni pliva\u010Di, a njihova gusto krzno
+      \u0161titi ih od hladno\u0107e i o\u0161trih vremenskih uvjeta.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269571551232
+    m_Localized: "Veprovi su divlji svinje koje obi\u010Dno \u017Eive u \u0161umama.
+      Imaju sna\u017Eno tijelo i o\u0161tre kljove koje koriste u borbama ili za
+      kopanje zemlje. Veprovi su svejedi, \u0161to zna\u010Di da jedu i biljke i
+      \u017Eivotinje. Iako obi\u010Dno izbjegavaju ljude, veprovi mogu postati agresivni
+      ako se osje\u0107aju ugro\u017Eeni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287493812224
+    m_Localized: "Jeleni su prepoznatljivi po svojim velikim rogovima, koje mu\u017Ejaci
+      nose i koriste u borbama za teritorij ili \u017Eenke. \u017Dive u \u0161umama,
+      planinama i livadama, a njihove rogovlje raste svake godine. Jeleni su biljojedi
+      i obi\u010Dno hrane travu, li\u0161\u0107e i kore drve\u0107a. Zimi, mnoge
+      vrste jelena migriraju prema podru\u010Djima s blagim zimama."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298092818432
+    m_Localized: "Lisice su male meso\u017Edere koje su poznate po svojoj lukavosti
+      i prilagodljivosti. \u010Cesto se nalaze u \u0161umama, livadama i \u010Dak
+      u gradovima. Lisice su izvrsni lovci, ali \u0107e tako\u0111er jesti vo\u0107e,
+      povr\u0107e i ostatke hrane. Njihova prepoznatljiva crvena ili siva boja krzna
+      poma\u017Ee im da se kamufliraju u okoli\u0161u.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312898711552
+    m_Localized: "Zec je mala, brza \u017Eivotinja koja se \u010Desto povezuje s
+      poljima i \u0161umama. Zec je poznat po svojoj sposobnosti da brzo tr\u010Di,
+      \u010Dak i do 72 km/h. Zec se koristi svojim velikim u\u0161ima za pra\u0107enje
+      zvukova i otkrivanje predatora. Zec tako\u0111er ima nevjerojatnu sposobnost
+      skakanja, \u0161to mu poma\u017Ee u bijegu od opasnosti. Zec je biljojed i
+      \u010Desto se hrani travom, korijenjem i povr\u0107em.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334600040448
+    m_Localized: "Kornja\u010De su \u017Eivotinje koje su poznate po svojim tvrdim
+      oklopima. Zanimljivo je da kornja\u010De mogu \u017Eivjeti jako dugo, neke
+      vrste \u010Dak do 100 godina! Kornja\u010De su spore \u017Eivotinje, ali mogu
+      plivati izuzetno dobro, osobito one morske. Iako su kornja\u010De \u010Desto
+      povezane s mirnim \u017Eivotom, one su u stvari vrlo prilagodljive i mogu pre\u017Eivjeti
+      u razli\u010Ditim stani\u0161tima. Kornja\u010De tako\u0111er koriste svoj
+      oklop kao za\u0161titu od predatora."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368557125632
+    m_Localized: "Vukovi su sna\u017Ene i dru\u0161tvene \u017Eivotinje koje \u017Eive
+      u \u010Doporima. Zanimljivo je da vukovi koriste zavijanje kako bi komunicirali
+      s ostalim \u010Dlanovima svog \u010Dopora, posebno na velikim udaljenostima.
+      Iako su vrlo pametni lovci, vukovi rijetko love sami \u2013 naj\u010De\u0161\u0107e
+      love u grupama, \u0161to im omogu\u0107uje da ulove ve\u0107e plijenove. Vukovi
+      su tako\u0111er poznati po tome \u0161to imaju izuzetno razvijen smisao za
+      orijentaciju, \u0161to im poma\u017Ee da prona\u0111u put do svojih obiteljskih
+      stani\u0161ta.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380817076224
+    m_Localized: "Tigrovi su najve\u0107e vrste ma\u010Daka i poznati su po svojim
+      prekrasnim prugama. Svaka pruga tigra je jedinstvena, ba\u0161 kao \u0161to
+      su ljudski otisci prstiju jedinstveni. Tigrovi su sna\u017Eni lovci koji koriste
+      svoju nevjerojatnu snagu i brzinu kako bi ulovili plijen. Zanimljivo je da
+      tigrovi imaju dobar vid u mraku i love uglavnom no\u0107u. Iako su sami lovci,
+      tigrovi tako\u0111er mogu biti vrlo teritorijalni i ozna\u010Davaju svoje podru\u010Dje
+      urinarijem.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 408994410496
+    m_Localized: "Tuljani su morski sisavci koji \u017Eive uz obalu oceana. Zanimljivo
+      je da tuljani imaju izuzetno prilagodljive prednosti za \u017Eivot u vodi \u2013
+      njihove peraje im omogu\u0107uju brzo plivanje, a debeo sloj masti poma\u017Ee
+      im da ostanu topli u hladnoj vodi. Tuljani se \u010Desto sun\u010Daju na obali
+      i mogu provesti sate le\u017Ee\u0107i na kamenju. Osim \u0161to su dobri pliva\u010Di,
+      tuljani su tako\u0111er vrlo dru\u0161tvene \u017Eivotinje koje \u017Eive u
+      velikim kolonijama.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425637408768
+    m_Localized: "\u0160takori su mali glodavci koji su vrlo prilagodljivi i mogu
+      \u017Eivjeti u razli\u010Ditim uvjetima. Zanimljivo je da \u0161takori imaju
+      izuzetno dobar njuh i mogu prepoznati mirise na velikim udaljenostima. \u0160takori
+      su tako\u0111er vrlo pametni \u2013 mogu se nau\u010Diti razli\u010Ditim trikovima
+      i rutinskim zadacima. Iako su \u010Desto povezani s prljav\u0161tinom, \u0161takori
+      zapravo odr\u017Eavaju svoju okolinu \u010Distom jer vole \u017Evakati predmete
+      koji im omogu\u0107uju odr\u017Eavanje zubi o\u0161trim."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 454469054464
+    m_Localized: "Jaguar je sna\u017Ena i prelijepa ma\u010Dka koja \u017Eivi u tropskim
+      \u0161umama Ju\u017Ene Amerike. Zanimljivo je da jaguari imaju najja\u010Di
+      ugriz od svih velikih ma\u010Daka, \u0161to im omogu\u0107uje da love \u010Dak
+      i velike plijenove poput jelena. Jaguarima se posebno svi\u0111a plivanje i
+      \u010Desto love u vodi, \u0161to ih \u010Dini jedinstvenima me\u0111u velikim
+      ma\u010Dkama. Zbog svojih snaga, jaguari su \u010Desto simboli mo\u0107i u
+      mnogim kulturama.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468494807040
+    m_Localized: "Gorile su najve\u0107e vrste primata i vrlo su dru\u0161tvene \u017Eivotinje.
+      Zanimljivo je da gorile imaju gotovo identi\u010Dan DNK kao ljudi, \u0161to
+      ih \u010Dini na\u0161im najbli\u017Eim ro\u0111acima u \u017Eivotinjskom svijetu.
+      Gorile su vrlo inteligentne i koriste alate za obavljanje razli\u010Ditih zadataka.
+      Unato\u010D svom divovskom izgledu, gorile su obi\u010Dno mirne i izbjegavaju
+      sukobe, preferiraju\u0107i miran na\u010Din \u017Eivota u grupama."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 484198281216
+    m_Localized: "\u017Dirafe su najvi\u0161e \u017Eivotinje na kopnu i poznate su
+      po svojim dugim vratovima. Zanimljivo je da \u017Eirafe imaju samo sedam vratnih
+      kralje\u017Eaka, \u0161to je isto kao i kod ljudi, ali su njihovi kralje\u0161ci
+      daleko ve\u0107i. \u017Dirafe su izuzetno mirne \u017Eivotinje koje \u017Eive
+      u grupama i \u010Desto se hrane li\u0161\u0107em s visokih stabala. Zbog svojih
+      dugih nogu, \u017Eirafe mogu tr\u010Dati brzinama do 50 km/h."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 503055872000
+    m_Localized: "\u017Dabe su male, vodozemne \u017Eivotinje koje \u010Desto \u017Eive
+      u blizini rijeka i jezera. Zanimljivo je da \u017Eabe imaju nevjerojatnu sposobnost
+      skakanja \u2013 neke vrste mogu sko\u010Diti do 20 puta du\u017Ee od svoje
+      du\u017Eine! \u017Dabe su tako\u0111er vrlo osjetljive na promjene u okoli\u0161u,
+      \u0161to ih \u010Dini odli\u010Dnim pokazateljima zdravlja prirode. Mnoge vrste
+      \u017Eaba imaju svijetle boje kao oblik za\u0161tite od predatora, jer svijetle
+      boje \u010Desto zna\u010De da su otrovne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522781683712
+    m_Localized: "Dupini su vrlo inteligentni morski sisavci koji \u017Eive u oceanu.
+      Zanimljivo je da dupini koriste svoje visoke intelektualne sposobnosti za komunikaciju
+      i zajedni\u010Dki lov u grupama. Dupini su tako\u0111er poznati po svojim akrobacijama
+      i ljubavi prema igri. Dupini mogu prepoznati svoje ime i reagirati na njega,
+      ba\u0161 kao psi. Oni tako\u0111er mogu pomo\u0107i ljudima u opasnosti, jer
+      su poznati po tome \u0161to \u010Desto poma\u017Eu ribarima i pliva\u010Dima."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 541131763712
+    m_Localized: "\u0160i\u0161mi\u0161i su jedine lete\u0107e sisavce na svijetu
+      i izuzetno su korisni u prirodi. Zanimljivo je da \u0161i\u0161mi\u0161i koriste
+      sonar (echolocaciju) kako bi navigirali u mraku i lovili plijen. Ova sposobnost
+      im omogu\u0107uje da lete no\u0107u bez sudara sa predmetima. \u0160i\u0161mi\u0161i
+      tako\u0111er igraju klju\u010Dnu ulogu u ekosustavu jer jedu velike koli\u010Dine
+      insekata, uklju\u010Duju\u0107i komarce, koji mogu prenositi bolesti.\r\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
