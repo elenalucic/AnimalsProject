@@ -1,34 +1,34 @@
-using TMPro;
+ï»¿using TMPro;
 using UnityEngine;
 using System.Linq;
 using UnityEngine.UI;
 
 public class AnimalReader : MonoBehaviour
 {
-    public Button readButton;  
+    public Button readButton;
     private bool isReading = false;
     private string currentInfoText = "";
 
     void Start()
+    {
+        if (readButton != null)
         {
-            if (readButton != null)
-            {
-                readButton.interactable = false;
-                Debug.Log("[TTS] Gumb je na poèetku deaktiviran.");
-            }
-     }
+            readButton.interactable = false;
+            Debug.Log("[TTS] Gumb je na poÃ¨etku deaktiviran.");
+        }
+    }
 
     void Update()
+    {
+
+        bool infoActive = IsInfoTextActive();
+
+        if (readButton != null)
         {
-           
-            bool infoActive = IsInfoTextActive();
+            readButton.interactable = infoActive;
+        }
 
-            if (readButton != null)
-            {
-                readButton.interactable = infoActive;
-            }
 
-   
     }
 
 
@@ -46,11 +46,11 @@ public class AnimalReader : MonoBehaviour
                 TextMeshProUGUI[] textComponents = canvas.GetComponentsInChildren<TextMeshProUGUI>(true);
                 foreach (var textComp in textComponents)
                 {
-                    Debug.Log("[TTS] Pronaðen text: " + textComp.name);
+                    Debug.Log("[TTS] PronaÃ°en text: " + textComp.name);
                     if (textComp.name.ToLower().Contains("text") && !string.IsNullOrEmpty(textComp.text))
                     {
                         info = textComp.text;
-                        Debug.Log("[TTS] Pronaðen info tekst: " + info);
+                        Debug.Log("[TTS] PronaÃ°en info tekst: " + info);
                         break;
                     }
                 }
@@ -75,7 +75,7 @@ public class AnimalReader : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("[TTS] Tekst je prazan ili null — neæe se pokrenuti TTS.");
+            Debug.LogWarning("[TTS] Tekst je prazan ili null â€” neÃ¦e se pokrenuti TTS.");
         }
     }
 

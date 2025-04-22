@@ -940,6 +940,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   readButton: {fileID: 2035179368}
+  buttonsToDisable:
+  - {fileID: 1706026180}
+  - {fileID: 1706026179}
+  - {fileID: 1706026178}
 --- !u!1001 &343308920
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1972,6 +1976,17 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &570970064 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1316588815681356679, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 2035179367}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5f47aca5e08f7a4cab76d4778d4946e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &617961533
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5294,6 +5309,39 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &1706026178 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7193684165285571859, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 2035179367}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1706026179 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4745784249452953255, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 2035179367}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1706026180 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4606982223623502121, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 2035179367}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1709550578
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6332,7 +6380,7 @@ MonoBehaviour:
   OnContentPlaced:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 570970064}
         m_TargetAssemblyTypeName: UIController, Assembly-CSharp
         m_MethodName: OnContentPlaced
         m_Mode: 2

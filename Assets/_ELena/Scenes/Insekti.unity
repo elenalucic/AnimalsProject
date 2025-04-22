@@ -1558,6 +1558,28 @@ MonoBehaviour:
   references:
     version: 2
     RefIds: []
+--- !u!114 &442024298 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4745784249452953255, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 255173432}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &442024299 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4606982223623502121, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 255173432}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &510409605 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5976348439210421480, guid: 759df8cedd5dea443a65862585baccf3, type: 3}
@@ -3392,6 +3414,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   readButton: {fileID: 255173433}
+  buttonsToDisable:
+  - {fileID: 442024299}
+  - {fileID: 442024298}
+  - {fileID: 255173433}
 --- !u!1001 &1528617125
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5903,7 +5929,7 @@ MonoBehaviour:
   OnContentPlaced:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 2108305994}
         m_TargetAssemblyTypeName: UIController, Assembly-CSharp
         m_MethodName: OnContentPlaced
         m_Mode: 2
@@ -6008,6 +6034,17 @@ MonoBehaviour:
   planeFinder: {fileID: 2008538339}
   infoCanvas: {fileID: 0}
   targetObject: {fileID: 0}
+--- !u!114 &2108305994 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1316588815681356679, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 255173432}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5f47aca5e08f7a4cab76d4778d4946e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

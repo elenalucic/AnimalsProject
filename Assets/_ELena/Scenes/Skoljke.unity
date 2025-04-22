@@ -706,6 +706,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   readButton: {fileID: 1673882501}
+  buttonsToDisable:
+  - {fileID: 1810127925}
+  - {fileID: 1810127924}
+  - {fileID: 1810127923}
 --- !u!114 &1588042928 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5902194515480813188, guid: f662d363c28f1db40b2925ef72a63253, type: 3}
@@ -814,6 +818,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7120aeb6e34b0104cba8c40837d2d421, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1667308339 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1316588815681356679, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 1673882500}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5f47aca5e08f7a4cab76d4778d4946e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &1673882500
@@ -1429,6 +1444,39 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
+--- !u!114 &1810127923 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7193684165285571859, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 1673882500}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1810127924 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4745784249452953255, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 1673882500}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1810127925 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4606982223623502121, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 1673882500}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1942117302
 GameObject:
   m_ObjectHideFlags: 0
@@ -2708,7 +2756,19 @@ MonoBehaviour:
   DuplicateStage: 0
   OnContentPlaced:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1667308339}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: OnContentPlaced
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: Vuforia.AnchorBehaviour, Vuforia.Unity.Engine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   mDisplayAdvanced: 1
 --- !u!114 &2008538339
 MonoBehaviour:

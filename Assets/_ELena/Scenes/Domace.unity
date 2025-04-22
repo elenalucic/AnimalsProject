@@ -2483,7 +2483,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 860647902}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 886328de6a5c14cbb85854fdf1a5085b, type: 3}
   m_Name: 
@@ -2659,7 +2659,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 860647902}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 697333272, guid: 8a9a760f95896c34689febc965510927, type: 3}
   m_Name: 
@@ -4966,7 +4966,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1316588815681356679, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2066587348578076084, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -5315,6 +5315,10 @@ PrefabInstance:
     - target: {fileID: 6111345913273412504, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[10].m_TargetAssemblyTypeName
       value: TogglePlaneFinder, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6299379918455697940, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+      propertyPath: m_Name
+      value: ReadInfo
       objectReference: {fileID: 0}
     - target: {fileID: 8793594132986004627, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
       propertyPath: m_Name
@@ -6705,6 +6709,39 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1621261923 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7193684165285571859, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 1379807191}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1621261924 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4745784249452953255, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 1379807191}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1621261925 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4606982223623502121, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 1379807191}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1734650029
 GameObject:
   m_ObjectHideFlags: 0
@@ -7311,6 +7348,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   readButton: {fileID: 1379807192}
+  buttonsToDisable:
+  - {fileID: 1621261925}
+  - {fileID: 1621261924}
+  - {fileID: 1621261923}
 --- !u!1 &2008538337
 GameObject:
   m_ObjectHideFlags: 0
@@ -7348,7 +7389,7 @@ MonoBehaviour:
   OnContentPlaced:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 2096020970}
         m_TargetAssemblyTypeName: UIController, Assembly-CSharp
         m_MethodName: OnContentPlaced
         m_Mode: 2
@@ -7683,6 +7724,17 @@ MonoBehaviour:
   references:
     version: 2
     RefIds: []
+--- !u!114 &2096020970 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1316588815681356679, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
+  m_PrefabInstance: {fileID: 1379807191}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5f47aca5e08f7a4cab76d4778d4946e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &2143656892 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1712539496255671923, guid: a4c1220de0765fa498b4d145597cc29e, type: 3}
