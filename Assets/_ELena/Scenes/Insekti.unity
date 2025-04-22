@@ -119,63 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &2785963
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5926696845281381963, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 371.32617
-      objectReference: {fileID: 0}
-    - target: {fileID: 5926696845281381963, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 380.47656
-      objectReference: {fileID: 0}
-    - target: {fileID: 5926696845281381963, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.2432327
-      objectReference: {fileID: 0}
-    - target: {fileID: 5926696845281381963, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5926696845281381963, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5926696845281381963, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5926696845281381963, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5926696845281381963, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5926696845281381963, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5926696845281381963, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7953218280599331434, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
-      propertyPath: m_Name
-      value: TTSObject
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 388253bb0a2b17640a8569fa7d070de9, type: 3}
 --- !u!1001 &22211984
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1558,28 +1501,6 @@ MonoBehaviour:
   references:
     version: 2
     RefIds: []
---- !u!114 &442024298 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4745784249452953255, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
-  m_PrefabInstance: {fileID: 255173432}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &442024299 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4606982223623502121, guid: 6689bb381c5b5ca42afea5a9d8b2331a, type: 3}
-  m_PrefabInstance: {fileID: 255173432}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &510409605 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5976348439210421480, guid: 759df8cedd5dea443a65862585baccf3, type: 3}
@@ -3414,10 +3335,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   readButton: {fileID: 255173433}
-  buttonsToDisable:
-  - {fileID: 442024299}
-  - {fileID: 442024298}
-  - {fileID: 255173433}
+  language: en-US
+  rate: 0.8
 --- !u!1001 &1528617125
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6056,4 +5975,3 @@ SceneRoots:
   - {fileID: 1528617125}
   - {fileID: 2008538341}
   - {fileID: 1510234369}
-  - {fileID: 2785963}

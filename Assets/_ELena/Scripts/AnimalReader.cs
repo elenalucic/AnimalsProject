@@ -1,108 +1,135 @@
-﻿using TMPro;
-using UnityEngine;
-using System.Linq;
+﻿using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
+using NativeTextToSpeech;
+using UnityEngine.SceneManagement;
 
 public class AnimalReader : MonoBehaviour
 {
-    public Button readButton;
+    private TextToSpeech _tts;
     private bool isReading = false;
     private string currentInfoText = "";
+    private Canvas currentActiveCanvas = null;
+
+    [SerializeField] private Button readButton;
+    [SerializeField] private string language = "en-US";
+    [SerializeField] private float rate = 0.8f;
 
     void Start()
     {
+#if UNITY_ANDROID && !UNITY_EDITOR
+        _tts = TextToSpeech.Create(OnFinish, OnError);
+#endif
+
         if (readButton != null)
         {
+            readButton.onClick.AddListener(OnReadButtonClicked);
             readButton.interactable = false;
-            Debug.Log("[TTS] Gumb je na poèetku deaktiviran.");
+            Debug.Log("[TTS] Gumb za čitanje inicijalno deaktiviran.");
         }
+
+        SceneManager.sceneUnloaded += OnSceneUnloaded;
     }
 
     void Update()
     {
+        Canvas newActiveCanvas = GetActiveCanvasWithText();
 
-        bool infoActive = IsInfoTextActive();
+        // Ako se aktivni canvas promijenio (druga životinja), zaustavi čitanje
+        if (newActiveCanvas != currentActiveCanvas)
+        {
+            currentActiveCanvas = newActiveCanvas;
+            StopReading();
+        }
 
         if (readButton != null)
         {
-            readButton.interactable = infoActive;
+            // Gumb aktivan samo ako postoji aktivan canvas s tekstom
+            readButton.interactable = currentActiveCanvas != null;
         }
-
-
     }
 
-
-    public void ReadAnimalInfo()
+    private Canvas GetActiveCanvasWithText()
     {
-        string info = "";
-
         Canvas[] canvases = FindObjectsByType<Canvas>(FindObjectsSortMode.None);
+
         foreach (var canvas in canvases)
         {
-            if (canvas.gameObject.activeInHierarchy)
+            if (!canvas.gameObject.activeInHierarchy) continue;
+
+            TextMeshProUGUI[] texts = canvas.GetComponentsInChildren<TextMeshProUGUI>(true);
+
+            foreach (var text in texts)
             {
-                Debug.Log("[TTS] Provjeravam canvas: " + canvas.name);
-
-                TextMeshProUGUI[] textComponents = canvas.GetComponentsInChildren<TextMeshProUGUI>(true);
-                foreach (var textComp in textComponents)
+                if (text.name.ToLower().Contains("text") && !string.IsNullOrEmpty(text.text))
                 {
-                    Debug.Log("[TTS] Pronaðen text: " + textComp.name);
-                    if (textComp.name.ToLower().Contains("text") && !string.IsNullOrEmpty(textComp.text))
-                    {
-                        info = textComp.text;
-                        Debug.Log("[TTS] Pronaðen info tekst: " + info);
-                        break;
-                    }
+                    currentInfoText = text.text;
+                    return canvas;
                 }
-
-                if (!string.IsNullOrEmpty(info)) break;
             }
         }
 
-        if (!string.IsNullOrEmpty(info))
+        currentInfoText = "";
+        return null;
+    }
+
+    private void OnReadButtonClicked()
+    {
+        if (isReading)
         {
-#if UNITY_ANDROID && !UNITY_EDITOR
-            using (var unityPlayer = new AndroidJavaClass("com.unity3d.player.UnityPlayer"))
-            {
-                AndroidJavaObject activity = unityPlayer.GetStatic<AndroidJavaObject>("currentActivity");
-                AndroidJavaObject tts = new AndroidJavaObject("ir.hoseinporazar.androidtts.TTS");
-                tts.Call("setContext", activity);
-                tts.Call("TTSMEWithCallBack", info, gameObject.name, "OnTTSError");
-            }
-#else
-            Debug.Log("[TTS] (Editor) Govori: " + info);
-#endif
+            StopReading();
         }
         else
         {
-            Debug.LogWarning("[TTS] Tekst je prazan ili null — neæe se pokrenuti TTS.");
+            StartReading();
         }
     }
 
-    public void OnTTSError(string message)
+    private void StartReading()
     {
-        Debug.LogError("TTS Error: " + message);
-    }
+        if (string.IsNullOrEmpty(currentInfoText)) return;
 
-
-
-    private bool IsInfoTextActive()
-    {
-        Canvas[] canvases = FindObjectsByType<Canvas>(FindObjectsSortMode.None);
-        foreach (var canvas in canvases)
+#if UNITY_ANDROID && !UNITY_EDITOR
+        if (_tts != null)
         {
-            if (canvas.gameObject.activeInHierarchy)
-            {
-                TextMeshProUGUI[] textComponents = canvas.GetComponentsInChildren<TextMeshProUGUI>(true);
-                foreach (var textComp in textComponents)
-                {
-                    if (textComp.name.ToLower().Contains("text") && !string.IsNullOrEmpty(textComp.text))
-                    {
-                        return textComp.gameObject.activeInHierarchy;
-                    }
-                }
-            }
+            _tts.Speak(currentInfoText, language, rate);
         }
-        return false;
+#endif
+        isReading = true;
+        Debug.Log("[TTS] Početak čitanja: " + currentInfoText);
+    }
+
+    private void StopReading()
+    {
+#if UNITY_ANDROID && !UNITY_EDITOR
+        if (_tts != null)
+        {
+            _tts.Stop();
+        }
+#endif
+        isReading = false;
+        Debug.Log("[TTS] Čitanje zaustavljeno.");
+    }
+
+    private void OnFinish()
+    {
+        isReading = false;
+        Debug.Log("[TTS] Završeno čitanje.");
+    }
+
+    private void OnError(string message)
+    {
+        isReading = false;
+        Debug.LogWarning("[TTS] Greška: " + message);
+    }
+
+    private void OnSceneUnloaded(Scene scene)
+    {
+        StopReading();
+    }
+
+    private void OnDestroy()
+    {
+        SceneManager.sceneUnloaded -= OnSceneUnloaded;
     }
 }

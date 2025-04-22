@@ -15,37 +15,23 @@ public class TextToSpeechExample : MonoBehaviour
     [SerializeField] private bool threadSafe;
 
     private bool _isFinished;
-    private bool _finishReceived;
+    private bool _finishReceived; 
     private Queue<string> errors = new Queue<string>();
-
+    
     private TextToSpeech _textToSpeech;
-
+    
     public void Speak()
     {
-            #if UNITY_ANDROID
-                    using (AndroidJavaClass unityPlayer = new AndroidJavaClass("com.unity3d.player.UnityPlayer"))
-                    {
-                        AndroidJavaObject activity = unityPlayer.GetStatic<AndroidJavaObject>("currentActivity");
-                        AndroidJavaObject ttsObject = new AndroidJavaObject("android.speech.tts.TextToSpeech"); // tvoje ime klase
-                        ttsObject.Call("setContext", activity);
-                       
-                    }
-            #endif
+        _textToSpeech.Speak(TextInput.text, LanguageInput.text, float.Parse(RateInput.text, CultureInfo.InvariantCulture));
+        TTSStarted();
     }
 
     public void Stop()
     {
-        // Add logic to stop TTS if the stop functionality is available.
-#if UNITY_ANDROID
-        using (AndroidJavaClass unityPlayer = new AndroidJavaClass("com.unity3d.player.UnityPlayer"))
-        {
-            AndroidJavaObject activity = unityPlayer.GetStatic<AndroidJavaObject>("currentActivity");
-            AndroidJavaObject tts = new AndroidJavaObject("android.speech.tts.TextToSpeech", activity, null);
-            tts.Call("stop"); // Call the stop method to stop speech synthesis on Android
-        }
-#endif
+        _textToSpeech.Stop();
+        TTSFinished();
     }
-
+    
     private void OnFinish()
     {
         if (threadSafe)
@@ -89,19 +75,12 @@ public class TextToSpeechExample : MonoBehaviour
 
     void Start()
     {
-        // Initialize TextToSpeech
-#if UNITY_ANDROID
-        using (AndroidJavaClass unityPlayer = new AndroidJavaClass("com.unity3d.player.UnityPlayer"))
-        {
-            AndroidJavaObject activity = unityPlayer.GetStatic<AndroidJavaObject>("currentActivity");
-            AndroidJavaObject tts = new AndroidJavaObject("android.speech.tts.TextToSpeech", activity, null);
-            tts.Call("create"); // Call the stop method to stop speech synthesis on Android
-        }
-#endif
+        _textToSpeech =  TextToSpeech.Create(OnFinish,OnError);
         LanguageInput.text = "en-US";
         RateInput.text = "0.8";
     }
 
+    
     void Update()
     {
         if (!threadSafe)
@@ -114,6 +93,7 @@ public class TextToSpeechExample : MonoBehaviour
             _finishReceived = false;
             TTSFinished();
         }
+        
 
         while (errors.Count > 0)
         {
