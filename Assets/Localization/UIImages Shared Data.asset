@@ -15,30 +15,6 @@ MonoBehaviour:
   m_TableCollectionName: UIImages
   m_TableCollectionNameGuidString: 7df66031f4b018040a098be3cd571ef2
   m_Entries:
-  - m_Id: 132732428288
-    m_Key: domestic
-    m_Metadata:
-      m_Items: []
-  - m_Id: 149446729728
-    m_Key: wild
-    m_Metadata:
-      m_Items: []
-  - m_Id: 169508085760
-    m_Key: seashell
-    m_Metadata:
-      m_Items: []
-  - m_Id: 184943124480
-    m_Key: birds
-    m_Metadata:
-      m_Items: []
-  - m_Id: 216043888640
-    m_Key: insects
-    m_Metadata:
-      m_Items: []
-  - m_Id: 258892898304
-    m_Key: fish
-    m_Metadata:
-      m_Items: []
   - m_Id: 2001303248896
     m_Key: domace
     m_Metadata:
@@ -75,9 +51,12 @@ MonoBehaviour:
     m_Key: confirm_button
     m_Metadata:
       m_Items: []
+  - m_Id: 864874787205120
+    m_Key: choose
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items:
-    - rid: 4378500862539989287
     - rid: 4378500862539989293
   m_KeyGenerator:
     rid: 4378500862539989286
@@ -88,36 +67,6 @@ MonoBehaviour:
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
         m_CustomEpoch: 1744802543165
-    - rid: 4378500862539989287
-      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_Entries:
-        - m_KeyId: 216043888640
-          m_TableCodes:
-          - hr
-          - en
-        - m_KeyId: 258892898304
-          m_TableCodes:
-          - en
-          - hr
-        - m_KeyId: 149446729728
-          m_TableCodes:
-          - en
-          - hr
-        - m_KeyId: 169508085760
-          m_TableCodes:
-          - en
-          - hr
-        - m_KeyId: 184943124480
-          m_TableCodes:
-          - en
-          - hr
-        - m_KeyId: 132732428288
-          m_TableCodes:
-          - en
-          - hr
-        m_TypeString: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
-          Culture=neutral, PublicKeyToken=null
     - rid: 4378500862539989293
       type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
@@ -157,5 +106,10 @@ MonoBehaviour:
         - m_KeyId: 342490510532608
           m_TableCodes:
           - hr
+          - en
+        - m_KeyId: 864874787205120
+          m_TableCodes:
+          - hr
+          - en
         m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null

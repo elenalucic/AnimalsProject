@@ -14,7 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: Default Local Group
   m_GUID: b078671388daab342b0f4d8871e9f8c3
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 4fc7fec1f31300a4482340223de1fc43
+    m_Address: Assets/_Animals/_Fish/Barracuda/Materials/Barracuda.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98a27ea2097f1cf43ae4ff45b9be314a
+    m_Address: Assets/_Animals/Bat/Materials/lambert1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f63b011fb24118e49a70aac9df3ecb65, type: 2}
   m_SchemaSet:

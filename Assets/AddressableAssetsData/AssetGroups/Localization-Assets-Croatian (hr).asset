@@ -15,56 +15,62 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Croatian (hr)
   m_GUID: 03ca048c918122c49bb53b7444d776cf
   m_SerializeEntries:
-  - m_GUID: 1346be83ea34b17438a2e322395f473a
-    m_Address: Ptice_white
+  - m_GUID: 346bfedd0527f6f4db0a0a4bb063b258
+    m_Address: domace
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5af78b48f2d0b47438c17ed5c20b3b49
-    m_Address: pocetak-removebg-preview
+  - m_GUID: 503f2b399e5bf6f4392e6738b8c79aee
+    m_Address: insekti
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 607b2aa999b82bf45881133073d50434
-    m_Address: Divlje zivotinje_White
+  - m_GUID: 8bd6fc3729b0f6c47becbb67c52dcb38
+    m_Address: POTVRDI (2)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7239320def8052f4db10589d8691f33a
-    m_Address: Insekti_white
+  - m_GUID: 9b48b3e730eda2f4a8790fa5d09ec24e
+    m_Address: o_nama
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 81f2cf94bf77a4e4c824e311fbfa22b0
-    m_Address: Domace zivotinje_white
+  - m_GUID: bcc90e2307478da499054111f8dcafd5
+    m_Address: pocetak_gimp
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a6054d25d43c19c4c8cc392b71e627a4
-    m_Address: Skoljke_white
+  - m_GUID: c57f9293361e2494abd3c29189a9c5f1
+    m_Address: RIBE
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: aa43dd83e27ae984bbe6d3f513875cbc
-    m_Address: o_nama-removebg-preview
+  - m_GUID: cb4a939e117c029438a1d198f28bb4c4
+    m_Address: divlje (2)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: cad6f5f6435794749849d0275708bca0
-    m_Address: potvrdi-removebg-preview
+  - m_GUID: d14e1e5a26a7acf44bad275b660ed399
+    m_Address: skoljke (3)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e159596420a492c4da09d84d40838036
-    m_Address: Ribe_white
+  - m_GUID: d728f1ccccccccc4da53a22cd92ddcf8
+    m_Address: izaberi_grupu
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da00dc51f5b1f5e438c5a580126ac7a8
+    m_Address: PTICE
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-hr

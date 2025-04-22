@@ -2,6 +2,8 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.Localization;
+using UnityEngine.UI;
+
 
 
 
@@ -14,6 +16,10 @@ public class AnimalInfo
 
 public class AnimalDisplay : MonoBehaviour
 {
+
+    public Button soundButton;
+    public Button animatorButton;
+
     public List<GameObject> animalsInScene;
     public AnimalSoundController soundController;
 
@@ -75,6 +81,21 @@ public class AnimalDisplay : MonoBehaviour
         {
             localizedAnimalNames[currentIndex].StringChanged += UpdateAnimalName;
             localizedAnimalNames[currentIndex].RefreshString();
+        }
+
+
+
+        AudioSource audio = currentAnimal.GetComponent<AudioSource>();
+        if (soundButton != null)
+        {
+            soundButton.interactable = (audio != null && audio.clip != null);
+        }
+
+    
+        Animator animator = currentAnimal.GetComponent<Animator>();
+        if (animatorButton != null)
+        {
+            animatorButton.interactable = (animator != null && animator.runtimeAnimatorController != null);
         }
 
     }

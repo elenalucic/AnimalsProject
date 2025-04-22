@@ -15,50 +15,62 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-English (en)
   m_GUID: 63ae5cd10cc7fd7439a6e07059342c34
   m_SerializeEntries:
-  - m_GUID: 4a495acb61e2ad04db0234f9be2fa0d0
-    m_Address: 4-removebg-preview
+  - m_GUID: 0326a36dba4a4494f9aa2fd392d1b949
+    m_Address: about_us
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 53184d04ce8d2c042a9f1fcbe0f8f0d1
-    m_Address: start-removebg-preview
+  - m_GUID: 12e4b7d31671f884b8784c8b3752073e
+    m_Address: wild
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 92f129f46be1dbb45b9d6de86088cd28
-    m_Address: 2-removebg-preview
+  - m_GUID: 3123a90b872744c44bb3e284e28b0ed8
+    m_Address: CONFIRM
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a5f5039a7e53ca54b8a012c0bb039dc9
-    m_Address: 1-removebg-preview
+  - m_GUID: 47c19a3914a7b7c4792f9372ab05feb8
+    m_Address: FISH 1
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a5fdec52a57091d4fbfd937d3d433e5a
-    m_Address: 3-removebg-preview
+  - m_GUID: 6d9922fdb4fc6604abe7a9bd5067df53
+    m_Address: domestic
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: cb840e4dd52e42c4cb1c8ae2b3537619
-    m_Address: 5-removebg-preview
+  - m_GUID: 96fbc0225c01cb845a56770b9f12c3f2
+    m_Address: start_gimp
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e9fddf4a27a6a8e4993af8b84afcc9a2
-    m_Address: aboutUS-removebg-preview
+  - m_GUID: 98aff813a34b4354b8610f7efa5aacad
+    m_Address: BIRDS 1
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: efeb680d1f395104a965616a0dec49e2
-    m_Address: 6-removebg-preview
+  - m_GUID: a3bd746483052ea4b8fa9cd650ade7b2
+    m_Address: insects
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7345ca399b482941921d402332ce680
+    m_Address: choose_group
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fee60e80d56f0974a952f6887b047efd
+    m_Address: seashell
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en

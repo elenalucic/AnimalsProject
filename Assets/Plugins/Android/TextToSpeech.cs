@@ -46,18 +46,33 @@ public class TextToSpeech :MonoBehaviour
         SetSpeed(this.Speed);
         SetPitch(this.Pitch);
     }
-    public void Speak(string toSay,OnErrorCallbackHandler callback)
+    public void Speak(string toSay, OnErrorCallbackHandler callback)
     {
+        Debug.Log("🗣 Pozvana Speak funkcija sa tekstom: " + toSay);
+
         if (TTSExample == null)
         {
             Initialize();
+            if (TTSExample == null)
+            {
+                Debug.LogError("❌ TTSExample je NULL i nakon inicijalizacije. Provjeri TTS plugin!");
+                return;
+            }
         }
+
         this._callback = callback;
 
-
-        TTSExample.Call("TTSMEWithCallBack", toSay, gameObject.name, "OnError");
-       
+        try
+        {
+            TTSExample.Call("TTSMEWithCallBack", toSay, gameObject.name, "OnError");
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Greška kod poziva TTSMEWithCallBack: " + e.Message);
+            OnError("Greška kod poziva TTS: " + e.Message);
+        }
     }
+
     public void OnError(string error)
     {
         if (_callback != null)
@@ -71,13 +86,21 @@ public class TextToSpeech :MonoBehaviour
     }
     public void Speak(string toSay)
     {
-        if (TTSExample == null)
-        {
-            Initialize();
-        }
+        #if UNITY_ANDROID && !UNITY_EDITOR
+            if (TTSExample == null)
+            {
+                Initialize();
+                if (TTSExample == null)
+                {
+                    Debug.LogWarning("TTSExample je još uvijek null nakon inicijalizacije.");
+                    return;
+                }
+            }
 
-        TTSExample.Call("TTSME", toSay);
-
+            TTSExample.Call("speak", toSay);
+        #else
+                Debug.Log("TTS govori: " + toSay);
+        #endif
     }
     public void SetLanguage(Locale lan)
     {
@@ -109,6 +132,7 @@ public class TextToSpeech :MonoBehaviour
     }
     private void Initialize()
     {
+    #if UNITY_ANDROID && !UNITY_EDITOR
         if (TTSExample == null)
         {
             using (AndroidJavaClass activityClass = new AndroidJavaClass("com.unity3d.player.UnityPlayer"))
@@ -122,46 +146,46 @@ public class TextToSpeech :MonoBehaviour
                 {
                     TTSExample = pluginClass.CallStatic<AndroidJavaObject>("instance");
                     TTSExample.Call("setContext", activityContext);
-
-                  
-
                 }
             }
         }
-
-
+    #endif
     }
     public void ShowToast(string msg)
     {
-
-        if (TTSExample == null)
-        {
-            using (AndroidJavaClass activityClass = new AndroidJavaClass("com.unity3d.player.UnityPlayer"))
+        #if UNITY_ANDROID && !UNITY_EDITOR
+            if (TTSExample == null)
             {
-                activityContext = activityClass.GetStatic<AndroidJavaObject>("currentActivity");
-            }
-
-            using (AndroidJavaClass pluginClass = new AndroidJavaClass("ir.hoseinporazar.androidtts.TTS"))
-            {
-                if (pluginClass != null)
+                using (AndroidJavaClass activityClass = new AndroidJavaClass("com.unity3d.player.UnityPlayer"))
                 {
-                    TTSExample = pluginClass.CallStatic<AndroidJavaObject>("instance");
-                    TTSExample.Call("setContext", activityContext);
-                    activityContext.Call("runOnUiThread", new AndroidJavaRunnable(() =>
+                    activityContext = activityClass.GetStatic<AndroidJavaObject>("currentActivity");
+                }
+
+                using (AndroidJavaClass pluginClass = new AndroidJavaClass("ir.hoseinporazar.androidtts.TTS"))
+                {
+                    if (pluginClass != null)
                     {
-                        TTSExample.Call("showMessage", msg);
-                    }));
+                        TTSExample = pluginClass.CallStatic<AndroidJavaObject>("instance");
+                        TTSExample.Call("setContext", activityContext);
+                        activityContext.Call("runOnUiThread", new AndroidJavaRunnable(() =>
+                        {
+                            TTSExample.Call("showMessage", msg);
+                        }));
+                    }
                 }
             }
-        }
-        else
-        {
-            activityContext.Call("runOnUiThread", new AndroidJavaRunnable(() =>
+            else
             {
-                TTSExample.Call("showMessage", msg);
-            }));
-        }
+                activityContext.Call("runOnUiThread", new AndroidJavaRunnable(() =>
+                {
+                    TTSExample.Call("showMessage", msg);
+                }));
+            }
+        #else
+                Debug.Log("Toast (Editor): " + msg);
+        #endif
     }
+
 
 
 }

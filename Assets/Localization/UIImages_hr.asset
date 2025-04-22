@@ -18,64 +18,44 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_TableData:
-  - m_Id: 216043888640
-    m_Localized: 7239320def8052f4db10589d8691f33a
-    m_Metadata:
-      m_Items: []
-  - m_Id: 149446729728
-    m_Localized: 607b2aa999b82bf45881133073d50434
-    m_Metadata:
-      m_Items: []
-  - m_Id: 132732428288
-    m_Localized: 81f2cf94bf77a4e4c824e311fbfa22b0
-    m_Metadata:
-      m_Items: []
-  - m_Id: 184943124480
-    m_Localized: 1346be83ea34b17438a2e322395f473a
-    m_Metadata:
-      m_Items: []
-  - m_Id: 169508085760
-    m_Localized: a6054d25d43c19c4c8cc392b71e627a4
-    m_Metadata:
-      m_Items: []
-  - m_Id: 258892898304
-    m_Localized: e159596420a492c4da09d84d40838036
-    m_Metadata:
-      m_Items: []
   - m_Id: 2001303248896
-    m_Localized: '81f2cf94bf77a4e4c824e311fbfa22b0[Domace zivotinje_white]'
+    m_Localized: '346bfedd0527f6f4db0a0a4bb063b258[domace]'
     m_Metadata:
       m_Items: []
   - m_Id: 2187333214208
-    m_Localized: '607b2aa999b82bf45881133073d50434[Divlje zivotinje_White]'
+    m_Localized: 'cb4a939e117c029438a1d198f28bb4c4[divlje (2)]'
     m_Metadata:
       m_Items: []
   - m_Id: 2563520339968
-    m_Localized: '7239320def8052f4db10589d8691f33a[Insekti_white]'
+    m_Localized: '503f2b399e5bf6f4392e6738b8c79aee[insekti]'
     m_Metadata:
       m_Items: []
   - m_Id: 6448293093376
-    m_Localized: '5af78b48f2d0b47438c17ed5c20b3b49[pocetak-removebg-preview]'
+    m_Localized: 'bcc90e2307478da499054111f8dcafd5[pocetak_gimp]'
     m_Metadata:
       m_Items: []
   - m_Id: 11657492832256
-    m_Localized: 'e159596420a492c4da09d84d40838036[Ribe_white]'
+    m_Localized: 'c57f9293361e2494abd3c29189a9c5f1[RIBE]'
     m_Metadata:
       m_Items: []
   - m_Id: 11797595168768
-    m_Localized: '1346be83ea34b17438a2e322395f473a[Ptice_white]'
+    m_Localized: 'da00dc51f5b1f5e438c5a580126ac7a8[PTICE]'
     m_Metadata:
       m_Items: []
   - m_Id: 11985755840512
-    m_Localized: 'a6054d25d43c19c4c8cc392b71e627a4[Skoljke_white]'
+    m_Localized: 'd14e1e5a26a7acf44bad275b660ed399[skoljke (3)]'
     m_Metadata:
       m_Items: []
   - m_Id: 6569500090368
-    m_Localized: 'aa43dd83e27ae984bbe6d3f513875cbc[o_nama-removebg-preview]'
+    m_Localized: '9b48b3e730eda2f4a8790fa5d09ec24e[o_nama]'
     m_Metadata:
       m_Items: []
   - m_Id: 342490510532608
-    m_Localized: 'cad6f5f6435794749849d0275708bca0[potvrdi-removebg-preview]'
+    m_Localized: '8bd6fc3729b0f6c47becbb67c52dcb38[POTVRDI (2)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 864874787205120
+    m_Localized: 'd728f1ccccccccc4da53a22cd92ddcf8[izaberi_grupu]'
     m_Metadata:
       m_Items: []
   references:
